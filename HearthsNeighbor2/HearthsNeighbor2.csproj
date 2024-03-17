@@ -37,6 +37,9 @@
     <None Include="translations\**\*.*">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="nomai\**\*.*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="addon-manifest.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -44,4 +47,13 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent" Condition="Exists('$(UnityProjectPath)')">
+    <ItemGroup>
+      <DialogueDir Include="$(ProjectDir)dialogue\*" />
+    </ItemGroup>
+    <Exec Command="xcopy /y &quot;$(TargetPath)&quot; &quot;$(UnityProjectPath)&quot;" />
+    <Copy 
+      SourceFiles="@(DialogueDir)" 
+      DestinationFolder="$(UnityProjectPath)\Dialogue" />
+  </Target>
 </Project>

@@ -1,0 +1,76 @@
+﻿{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+    "DialogueDictionary": {
+        // MEMORY CUBES ----------------------------
+        // Entrance dialogue
+        "$HN2Entrance1": "TARGET RACE: \"Hearthian\"\nLANGUAGE FOUND IN DATABASE\nCONFIGURING ON-BOARD MEMORY STONES...DONE",
+        "$HN2Entrance2": "Welcome, [HEARTHIAN]! Whether you are here seeking a new life, or have simply come to visit out of curiosity, the Magister welcomes you to our humble community!",
+        "$HN2Entrance3": "ERROR: ATTEMPT TO CONTACT MAGISTER FAILED (NULL REFERENCE EXCEPTION: FIELD \"MAGISTER\" NOT SET TO AN INSTANCE OF AN OBJECT), MANUAL FALLBACK REQUESTED.",
+        "$HN2Entrance4": "Please head inside and request from anyone to be directed to the Magister, they will be happy to assist.",
+
+        // Grand Chamber
+        "$HN2Chamber1": "VULTOS: The Device is nearly ready, Magister.",
+        "$HN2Chamber2": "MAGISTER: Good, good, a project millions of years in the making will finally see its conclusion.",
+        "$HN2Chamber3": "QUARTZ: When that geyser launched me into the stratosphere, I never would have reckoned it would be the start of something so...big.",
+        "$HN2Chamber4": "LILY: I don't think any of us had anticipated that the Magister's message would completely change our life like this.",
+        "$HN2Chamber5": "ROJA: It is certainly a strange feeling, I had no doubts in our Magister's ability, but it feels strange to know zat zis will all be over soon.",
+        "$HN2Chamber6": "VESPA: To travel new worlds, new universes, I have to admit, I am a little nervous about the whole prospect.",
+        "$HN2Chamber7": "ACQUARIUS: Aye, the feeling's understandable mate. The unknown is...scary. But exploring the unknown is what yer good at. You'll do great out there.",
+        "$HN2Chamber8": "MAGISTER: The Device passes inspection. Vultos, turn it on. Once it's ready...follow me within.",
+
+        // Foxle Dorm
+        "$HN2FoxleCube1": "VULTOS: It's really been 200 years since that day, huh. 200 years since...I ran like a coward.",
+        "$HN2FoxleCube2": "VULTOS: The Magister and Vespa always try to console me, and I know they're right. Had I stayed, I'd have died with the rest of them.",
+        "$HN2FoxleCube3": "VULTOS: Still, that doesn't make it hurt any less. The idea that...I didn't deserve to be rescued. I should have died on that green planet, fallen into one of the geysers and drowned.",
+        "$HN2FoxleCube4": "VULTOS: I hope that...",
+        "$HN2FoxleCube5": "VULTOS: I should get back to work on my schematics.",
+
+        // Owlk Dorm
+        "$HN2OwlkCube1": "VESPA: And that's four games in a row. Best five out of nine?",
+        "$HN2OwlkCube2": "VULTOS: Ha, you bet! I'll win one of these days!",
+        "$HN2OwlkCube3": "ACQUARIUS: Methinks that maybe ya should give up, you haven't won a game in nearly two hundred years!",
+        "$HN2OwlkCube4": "VESPA: Quitters never prosper, Acquarius.",
+        "$HN2OwlkCube5": "ACQUARIUS: Back where I come from, 'tis considered wisdom to know when to stop. I'd have shocked myself to death long ago if I simply kept banging me head against me problems. Vul, 'ow about taking a break, ya? I know yer in a hurry to win, but patience is a virtue.",
+
+        // Nomai Dorm
+        "$HN2NomaiCube1": "QUARTZ: Wow, I've seen Nomai stuff before, but never so...fresh and clean.",
+        "$HN2NomaiCube2": "LILY: You've met Nomai before?",
+        "$HN2NomaiCube3": "QUARTZ: I wish, but all the Nomai my kind have found have died long ago. There are plenty of ruins of theirs, but we have no idea what happened to them. Their building are all abandoned.",
+        "$HN2NomaiCube4": "LILY: ...oh.",
+        "$HN2NomaiCube5": "QUARTZ: Oh, sorry, I, I didn't think about it. I mean, I'm sure there are more Nomai out there...",
+        "$HN2NomaiCube6": "LILY: Oh, no, don't let me be a downer! Come on, you still have many others to meet! And we've got to brainstorm what tech you can to the Device.",
+        "$HN2NomaiCube7": "QUARTZ:, Yeah, of course!",
+
+        // Redeye Dorm
+        "$HN2RedeyeCube1": "ROJA: *soothing humming*",
+        "$HN2RedeyeCube2": "VULTOS: This is quite a garden you've got here. I guess you have a lot of experience with plants?",
+        "$HN2RedeyeCube3": "ROJA: Oh! I did not see you zere! Yes, I am a master gardener. It was my main hobby back home, and quite valueable of a profession.",
+        "$HN2RedeyeCube4": "VULTOS: Oh, really, why is that?",
+        "$HN2RedeyeCube5": "ROJA: Oh, well you see, my kind is extremely colorblind. Many colors appear off to us. As we are an herbivorous species, being able to determine what a plant was with our far more limited ability to really see zem was an invaluable skill",
+        "$HN2RedeyeCube6": "VULTOS: I see. Well, I'm glad you have a hobby you enjoy so much, and you're able to be a big help to your kind.",
+        "$HN2RedeyeCube7": "ROJA: Zank you for ze kind vords!",
+        "$HN2RedeyeCube8": "VULTOS: Brightening up other people's days is my calling.",
+
+        // NOMAI TEXT ------------------------------
+        // Entrance wall
+        "$HN2EntranceWall1": "LILY: Well, I'm here it seems. The \"Magister\" invited me here, let's see if he's as cordial as his invitation sounded.",
+        "$HN2EntranceWall2": "LILY: This tech is quite advanced, though. The cube here that greeted me decoded my language when I arrived, perhaps reading it from my memory?",
+        "$HN2EntranceWall3": "LILY: Hopefully my talents will actually be appreciated here.",
+
+        // Dorm Walls
+        "$HN2HomeWall1_1": "LILY: We have a new friend today! Her name is Roja.",
+        "$HN2HomeWall1_2": "LILY: She's a botanist, which I do find pretty interesting. The way she sees plants must be quite unique.",
+        "$HN2HomeWall1_3": "LILY: The Magister put her room right after mine, so now I'm no longer at the end of the hallway.",
+        "$HN2HomeWall1_4": "LILY: It's always quite a sight to see the Magister at work, and just manipulate the shape of the this Vessel at will.",
+
+        "$HN2HomeWall2_1": "LILY: I'm not usually one to brag, but I must say my room looks quite a bit better than the others!",
+        "$HN2HomeWall2_2": "LILY: Only Vespa's room really even compares, to be honest. The others are quite...flat.",
+        "$HN2HomeWall2_3": "LILY: I admit, surrounded by familiar architecture, I am beginning to miss home. But, I know that they probably aren't missing me. And, I'm part of something much bigger here, anyway."
+    },
+    "ShipLogDictionary": {
+
+    },
+    "UIDictionary": {
+
+    }
+}
