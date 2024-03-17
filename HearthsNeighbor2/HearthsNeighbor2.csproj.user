@@ -1,5 +1,6 @@
 ﻿<Project>
   <PropertyGroup>
     <OutputPath>$(AppData)\OuterWildsModManager\OWML\Mods\GameWyrm.HearthsNeighbor2</OutputPath>
+    <UnityProjectPath>G:\My Files\Documents\UnityProjects\outer-wilds-unity-assets-main-2024jam\Assets\HN2</UnityProjectPath>
   </PropertyGroup>
 </Project>

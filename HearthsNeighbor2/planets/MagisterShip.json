@@ -6,7 +6,8 @@
         "surfaceSize": 280,
         "groundSize": 0,
         "surfaceGravity": 0,
-        "hasMapMarker": true
+        "hasMapMarker": true,
+        "showMinimap": false
     },
     "canShowOnTitle": false,
     "Orbit": {
@@ -23,9 +24,16 @@
         },
         "useAtmosphereShader": false
     },
+    "Volumes": {
+        "zeroGravityVolumes": [
+            {
+                "radius": 139.6
+            }
+        ]
+    },
     "AmbientLights": [
         {
-            "intensity": 1,
+            "intensity": 0.5,
             "tint": {
                 "r": 100,
                 "g": 100,
@@ -39,12 +47,12 @@
             "alignRadial": false,
             "position": {
                 "x": 0,
-                "y": 10,
+                "y": 4,
                 "z": 125
             },
             "rotation": {
                 "x": 0,
-                "y": 0,
+                "y": 180,
                 "z": 0
             },
             "offset": {
@@ -57,12 +65,12 @@
             "alignRadial": false,
             "position": {
                 "x": 0,
-                "y": 10,
+                "y": 4,
                 "z": 125
             },
             "rotation": {
                 "x": 0,
-                "y": 0,
+                "y": 180,
                 "z": 0
             }
         }
@@ -119,6 +127,56 @@
                     "z": 0
                 },
                 "scale": 0.3
+            }
+        ],
+        "translatorText": [
+            {
+                "position": {
+                    "x": -8.5,
+                    "y": 1.7,
+                    "z": 105
+                },
+                "normal": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 1
+                },
+                "rename": "EntranceNomai",
+                "type": "wall",
+                "seed": 1556752754,
+                "xmlFile": "nomai/EntranceWall.xml"
+            },
+            {
+                "position": {
+                    "x": -94.65927,
+                    "y": 2.121147,
+                    "z": -26.59382
+                },
+                "normal": {
+                    "x": -0.2049511,
+                    "y": -7.45061E-09,
+                    "z": 0.9787723
+                },
+                "rename": "HomeNomai2",
+                "type": "wall",
+                "seed": 894316587,
+                "xmlFile": "nomai/HomeWall1.xml"
+            },
+            {
+                "position": {
+                    "x": -90.65681,
+                    "y": 5.777049,
+                    "z": -16.58027
+                },
+                "normal": {
+                    "x": -0.9787722,
+                    "y": -7.45061E-09,
+                    "z": -0.204951
+                },
+                "rename": "HomeNomai2",
+                "type": "wall",
+                "seed": 465873315,
+                "xmlFile": "nomai/HomeWall2.xml"
             }
         ]
     }
