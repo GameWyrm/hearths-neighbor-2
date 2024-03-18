@@ -14,16 +14,6 @@
         "isStatic": true,
         "primaryBody": "Jam 3 Sun"
     },
-    "Atmosphere": {
-        "size": 150,
-        "atmosphereTint": {
-            "r": 224,
-            "g": 188,
-            "b": 139,
-            "a": 255
-        },
-        "useAtmosphereShader": false
-    },
     "Volumes": {
         "zeroGravityVolumes": [
             {
@@ -33,7 +23,7 @@
     },
     "AmbientLights": [
         {
-            "intensity": 0.5,
+            "intensity": 0.15,
             "tint": {
                 "r": 100,
                 "g": 100,
@@ -92,7 +82,7 @@
                 "path": "TimberHearth_Body/Sector_TH/Sector_RadioTower/RadioTower_DLC/Interactibles_RadioTower/Hornfels'GrovePivot/Prefab_HEA_Campfire",
                 "position": {
                     "x": 0,
-                    "y": -0.2,
+                    "y": 0,
                     "z": -73
                 },
                 "rotation": {
@@ -113,20 +103,6 @@
                     "y": 0,
                     "z": 0
                 }
-            },
-            {
-                "path": "DreamWorld_Body/Sector_DreamWorld/Sector_DreamZone_1/Simulation_DreamZone_1/Props_DreamZone_1/Trees_Z1/DreamHouseIsland/Tree_DW_M_Stumpy_Var/",
-                "position": {
-                    "x": -4.5,
-                    "y": 0,
-                    "z": -78
-                },
-                "rotation": {
-                    "x": 0,
-                    "y": 0,
-                    "z": 0
-                },
-                "scale": 0.3
             }
         ],
         "translatorText": [
@@ -148,6 +124,22 @@
             },
             {
                 "position": {
+                    "x": 3.011073,
+                    "y": 2.385876,
+                    "z": -59.25101
+                },
+                "normal": {
+                    "x": -0.9999998,
+                    "y": -9.261483E-11,
+                    "z": -0.0007769095
+                },
+                "rename": "CampNomai",
+                "type": "wall",
+                "seed": 1556752754,
+                "xmlFile": "nomai/CampWall.xml"
+            },
+            {
+                "position": {
                     "x": -94.65927,
                     "y": 2.121147,
                     "z": -26.59382
@@ -157,7 +149,7 @@
                     "y": -7.45061E-09,
                     "z": 0.9787723
                 },
-                "rename": "HomeNomai2",
+                "rename": "HomeNomai",
                 "type": "wall",
                 "seed": 894316587,
                 "xmlFile": "nomai/HomeWall1.xml"
