@@ -8,6 +8,10 @@
         "$HN2Entrance3": "ERROR: ATTEMPT TO CONTACT MAGISTER FAILED (NULL REFERENCE EXCEPTION: FIELD \"MAGISTER\" NOT SET TO AN INSTANCE OF AN OBJECT), MANUAL FALLBACK REQUESTED.",
         "$HN2Entrance4": "Please head inside and request from anyone to be directed to the Magister, they will be happy to assist.",
 
+        // Entrance Warning
+        "$HN2Warning1": "WARNING: Hatch insecure! Hatch mode set to MANUAL.\nReason: \"To allow others to follow\"",
+        "$HN2Warning2": "Remaining oxygen leaking out! Recommendation: Secure hatch immediately. Controls in Magister's room.",
+
         // Grand Chamber
         "$HN2Chamber1": "VULTOS: The Device is nearly ready, Magister.",
         "$HN2Chamber2": "MAGISTER: Good, good, a project millions of years in the making will finally see its conclusion.",
@@ -18,12 +22,39 @@
         "$HN2Chamber7": "ACQUARIUS: Aye, the feeling's understandable mate. The unknown is...scary. But exploring the unknown is what yer good at. You'll do great out there.",
         "$HN2Chamber8": "MAGISTER: The Device passes inspection. Vultos, turn it on. Once it's ready...follow me within.",
 
+        // Camp Room
+        "$HN2Camp1": "VULTOS: Well, it seems that campfires are a constant of the universe.",
+        "$HN2Camp2": "QUARTZ: You sure it's ok for me to set one up in here?",
+        "$HN2Camp3": "VESPA: Don't worry, I set up filters for the smoke, indoor campfires are a common thing for my kind.",
+        "$HN2Camp4": "ACQUARIUS: 'Aight, lemme see these \"marshmallows\" you keep raving about.",
+        "$HN2Camp5": "QUARTZ: Of course! Here, you can eat one raw...yes, I know, their gooey flavor is the best thing in the universe. But watch this, you put it on a stick, roast it on the fire for a minute, and...\neven better, a roasted marshmallow!",
+        "$HN2Camp6": "ROJA: Mmm, delicious!",
+        "$HN2Camp7": "MAGISTER: Yes, quite, the flavor is...something. But I believe it's incomplete...",
+        "$HN2Camp8": "QUARTZ: What? You dare insult the Hearthian Magnum Opus?",
+        "$HN2Camp9": "MAGISTER: Oh, I would not dream of it. It is quite a flavor, even on it's own. But, perhaps with the several of us here, the flavor can be enhanced. Lily, do you have any of those honey crackers?",
+        "$HN2Camp10": "LILY: Of course, Magister, here, I have a pack right now.",
+        "$HN2Camp11": "MAGISTER: Wonderful! And Acquarius, do you have any chocolate?",
+        "$HN2Camp12": "ACQUARIUS: Salted or unsalted, I got 'em both.",
+        "$HN2Camp13": "MAGISTER: I'd like to try with the unsalted first. Break off a square, put it a cracker, then stick on a perfectly roasted marshmallow to melt it, and...top it with another cracker. Down the hatch...it is delicious!",
+        "$HN2Camp14": "ACQUARIUS: 'ere, lemme try, MMMMMM!",
+        "$HN2Camp15": "QUARTZ: Huh, had my doubts, but you're right, this is so good!",
+
         // Foxle Dorm
-        "$HN2FoxleCube1": "VULTOS: It's really been 200 years since that day, huh. 200 years since...I ran like a coward.",
-        "$HN2FoxleCube2": "VULTOS: The Magister and Vespa always try to console me, and I know they're right. Had I stayed, I'd have died with the rest of them.",
-        "$HN2FoxleCube3": "VULTOS: Still, that doesn't make it hurt any less. The idea that...I didn't deserve to be rescued. I should have died on that green planet, fallen into one of the geysers and drowned.",
-        "$HN2FoxleCube4": "VULTOS: I hope that...",
-        "$HN2FoxleCube5": "VULTOS: I should get back to work on my schematics.",
+        "$HN2FoxleCube1": "VULTOS: Here is my room. It's not much, but our kind do have a thing for minimalism.",
+        "$HN2FoxleCube2": "QUARTZ: Ah, it's quite nice. You know, we don't really need much either. Just some boards, connected with sap and duct tape.",
+        "$HN2FoxleCube3": "VULTOS: It must be nice, such a simple life. Sleeping under the stars, eating marshmallows, and taking each day at a time without a care in the world.",
+        "$HN2FoxleCube4": "QUARTZ: Yeah, but can't say I'm not looking forward to something brand new, even if it is a lot more complex.",
+        "$HN2FoxleCube5": "QUARTZ: By the way, what's your story Vultos? You've been here the longest, right?",
+        "$HN2FoxleCube6": "VULTOS: Well, not quite, the Magister was here first. No one really knows his story. But, he did find me and rescue me. My escape pod landed on an uninhabited planet, and I lacked the skills for survival. I would have died, if he hadn't found me and brought me on board.",
+        "$HN2FoxleCube7": "QUARTZ: And it was then he presented you the idea for the Device, right? I admit, I still find the whole idea a little weird.",
+        "$HN2FoxleCube8": "VULTOS: It's undertandable to doubt our goal here. But it's for the good of all. We must ensure this universe does not truly die.",
+
+        // Foxle Dorm Secret
+        "$HN2FoxleSecret1": "VULTOS: It's really been 200 years since that day, huh. 200 years since...I ran like a coward.",
+        "$HN2FoxleSecret2": "VULTOS: The Magister and Vespa always try to console me, and I know they're right. Had I stayed, I'd have died with the rest of them.",
+        "$HN2FoxleSecret3": "VULTOS: Still, that doesn't make it hurt any less. The idea that...I didn't deserve to be rescued. I should have died on that green planet, fallen into one of the geysers and drowned.",
+        "$HN2FoxleSecret4": "VULTOS: I hope that...",
+        "$HN2FoxleSecret5": "VULTOS: I should get back to work on my schematics.",
 
         // Owlk Dorm
         "$HN2OwlkCube1": "VESPA: And that's four games in a row. Best five out of nine?",
@@ -31,6 +62,14 @@
         "$HN2OwlkCube3": "ACQUARIUS: Methinks that maybe ya should give up, you haven't won a game in nearly two hundred years!",
         "$HN2OwlkCube4": "VESPA: Quitters never prosper, Acquarius.",
         "$HN2OwlkCube5": "ACQUARIUS: Back where I come from, 'tis considered wisdom to know when to stop. I'd have shocked myself to death long ago if I simply kept banging me head against me problems. Vul, 'ow about taking a break, ya? I know yer in a hurry to win, but patience is a virtue.",
+
+        // Owlk Dorm Upper
+        "$HN2OwlkCube2-1": "VESPA: Are you alright? I've never used a Vision Torch on another race...",
+        "$HN2OwlkCube2-2": "MAGISTER: No, I, I am all right. This technology is quite unique. Projection is a key function the Device needs.",
+        "$HN2OwlkCube2-3": "VESPA: Would you like to try it? Here, you should be able to use the Torch...",
+        "$HN2OwlkCube2-4": "MAGISTER: No, thank you, I've gathered all the data I need from it already.",
+        "$HN2OwlkCube2-5": "VESPA: ...all right.",
+        "$HN2OWLKCube2-6": "VESPA: What goes on in that mind? Who <![CDATA[<i>are</i>]]> you?",
 
         // Nomai Dorm
         "$HN2NomaiCube1": "QUARTZ: Wow, I've seen Nomai stuff before, but never so...fresh and clean.",
@@ -51,11 +90,20 @@
         "$HN2RedeyeCube7": "ROJA: Zank you for ze kind vords!",
         "$HN2RedeyeCube8": "VULTOS: Brightening up other people's days is my calling.",
 
+        // Magister Dorm Entrance
+        "$HN2MagiDoor1": "The Magister is not in right now. Entrance to his quarters are currently denied. Please come back later, the Magister will return in: 999,999 YEARS.",
+
         // NOMAI TEXT ------------------------------
         // Entrance wall
         "$HN2EntranceWall1": "LILY: Well, I'm here it seems. The \"Magister\" invited me here, let's see if he's as cordial as his invitation sounded.",
         "$HN2EntranceWall2": "LILY: This tech is quite advanced, though. The cube here that greeted me decoded my language when I arrived, perhaps reading it from my memory?",
         "$HN2EntranceWall3": "LILY: Hopefully my talents will actually be appreciated here.",
+
+        // Camp Wall
+        "$HN2CampWall1": "LILY: It took some looking for resources, but I've managed to install a special gravity crystal here.",
+        "$HN2CampWall2": "LILY: It projects a special kind of gravity field in the whole room, producing lighter gravity than this vessel's average further from it, and heavier gravity near it.",
+        "$HN2CampWall3": "LILY: And as is typical for a crystal, it requires no power, so should something happen to this vessel's gravity, we can retreat to this room.",
+        "$HN2CampWall4": "LILY: This should be able to satisfy the various gravity requirements for us, so we can all relax in comfort.",
 
         // Dorm Walls
         "$HN2HomeWall1_1": "LILY: We have a new friend today! Her name is Roja.",
@@ -72,5 +120,12 @@
     },
     "UIDictionary": {
 
+    },
+    "OtherDictionary": {
+        "$HN2TimeStateLowGrav": "MAGISTRATION NOTIFICATION: POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS, INCLUDING GRAVITY.",
+        "$HN2TimeStateNoGrav": "MAGISTRATION NOTIFICATION: POWER VERY LOW. CUTTING POWER TO GRAVITY",
+        // Translator note, this is a Subnautica reference, if possible use the text for the Habitat No Power notification
+        "$HN2TimeStateRedLights": "MAGISTRATION NOTIFICATION: EMERGENCY POWER ONLY. OXYGEN PRODUCTION OFFLINE. RESERVE OXYGEN WILL DEPLETE IN ONE MINUTE.",
+        "$HN2TimeStateDead": "MAGISTRATION NOTIFICATION: POWER DEPLETED,  SHUTTING DOWN..."
     }
 }

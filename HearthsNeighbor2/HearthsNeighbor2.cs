@@ -5,6 +5,19 @@ namespace HearthsNeighbor2
 {
     public class HearthsNeighbor2 : ModBehaviour
     {
+        public static HearthsNeighbor2 Main 
+        { get 
+            { 
+                if (instance == null) instance = FindObjectOfType<HearthsNeighbor2>(); 
+                return instance;
+            }
+        }
+
+        public INewHorizons newHorizons;
+
+        public bool isInSystem = false;
+
+        private static HearthsNeighbor2 instance;
         private void Awake()
         {
             // You won't be able to access OWML's mod helper in Awake.
@@ -18,7 +31,7 @@ namespace HearthsNeighbor2
             ModHelper.Console.WriteLine($"My mod {nameof(HearthsNeighbor2)} is loaded!", MessageType.Success);
 
             // Get the New Horizons API and load configs
-            var newHorizons = ModHelper.Interaction.TryGetModApi<INewHorizons>("xen.NewHorizons");
+            newHorizons = ModHelper.Interaction.TryGetModApi<INewHorizons>("xen.NewHorizons");
             newHorizons.LoadConfigs(this);
 
             // Example of accessing game code.
@@ -27,7 +40,13 @@ namespace HearthsNeighbor2
                 if (loadScene != OWScene.SolarSystem) return;
                 ModHelper.Console.WriteLine("Loaded into solar system!", MessageType.Success);
             };
+
+            newHorizons.GetStarSystemLoadedEvent().AddListener((system) => 
+            { 
+                isInSystem = system == "Jam3"; 
+            });
         }
+
     }
 
 }
