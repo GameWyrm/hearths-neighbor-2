@@ -52,8 +52,6 @@
       <DialogueDir Include="$(ProjectDir)dialogue\*" />
     </ItemGroup>
     <Exec Command="xcopy /y &quot;$(TargetPath)&quot; &quot;$(UnityProjectPath)&quot;" />
-    <Copy 
-      SourceFiles="@(DialogueDir)" 
-      DestinationFolder="$(UnityProjectPath)\Dialogue" />
+    <Copy SourceFiles="@(DialogueDir)" DestinationFolder="$(UnityProjectPath)\Dialogue" />
   </Target>
 </Project>
