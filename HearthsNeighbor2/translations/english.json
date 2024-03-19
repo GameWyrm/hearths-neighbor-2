@@ -93,6 +93,16 @@
         "$HN2RedeyeCube7": "ROJA: Zank you for ze kind vords!",
         "$HN2RedeyeCube8": "VULTOS: Brightening up other people's days is my calling.",
 
+        // Hearthian Dorm
+        "$HN2HearthCube1": "ROJA: Are you sure it is wise to leave a can of flammable liquid in a room made of wood?",
+        "$HN2HearthCube2": "QUARTZ: Hmm? Why wouldn't it be? I'll be careful.",
+        "$HN2HearthCube3": "ROJA: Yes, just like you were careful to not fall in zat geyser.",
+        "$HN2HearthCube4": "QUARTZ: Well, it turned out all right, didn't it? Had I not, I'd never have met you guys!",
+        "$HN2HearthCube5": "ROJA: Zat is true...just promise me zat you won't cause a fire. I'd hate for something to happen to you, or my plants next door.",
+        "$HN2HearthCube6": "QUARTZ: Of course! I shall do my best to ensure this is maintained responsibly.",
+        "$HN2HearthCube7": "ROJA: Zank you. By the vay, vy do you even have it?",
+        "$HN2HearthCube8": "QUARTZ: It's a special blend of flammable tree sap. I figure, if there's anything I can contribute to the device, it's the Hearthian special fuel.",
+
         // Magister Dorm Entrance
         "$HN2MagiDoor1": "The Magister is not in right now. Entrance to his quarters are currently denied. Please come back later, the Magister will return in: 999,999 YEARS.",
 
