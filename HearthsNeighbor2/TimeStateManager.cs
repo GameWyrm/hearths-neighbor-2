@@ -13,6 +13,8 @@ namespace HearthsNeighbor2
         public DirectionalForceVolume gravity;
         public GameObject oxygen;
         public Material lampMaterial;
+        public Animator deviceAnimator;
+        public AudioSource deviceAudio;
 
         // time loop properties
         private readonly int lowGravTime = 8;
@@ -42,12 +44,19 @@ namespace HearthsNeighbor2
                 }
             }
             lampMaterial.color = Color.white;
+            transform.parent.Find("DeviceNomai").localScale = Vector3.one * 0.3f;
         }
 
         private void Update()
         {
             bool playerNear = Vector3.Distance(transform.position, player.transform.position) < 200;
             var time = TimeLoop.GetMinutesElapsed();
+            if (timeState != TimeState.Dead)
+            {
+                float progress = Mathf.Clamp01((20 - time) / 20);
+                deviceAnimator.SetFloat("Speed", progress * 4);
+                deviceAudio.pitch = Mathf.Lerp(0.5f, 2.5f, (progress));
+            }
             switch (timeState)
             {
                 case TimeState.Normal:
@@ -87,6 +96,7 @@ namespace HearthsNeighbor2
                         }
                         lampMaterial.color = Color.black;
                         oxygen.SetActive(false);
+                        deviceAudio.Stop();
                         if (playerNear) NotificationManager.s_instance.PostNotification(new(nh.GetTranslationForOtherText("$HN2TimeStateDead")));
                         timeState = TimeState.Dead;
                     }

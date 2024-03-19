@@ -124,19 +124,35 @@
             },
             {
                 "position": {
-                    "x": 3.011073,
-                    "y": 2.385876,
-                    "z": -59.25101
+                    "x": -8.5,
+                    "y": 1.7,
+                    "z": 105
                 },
                 "normal": {
-                    "x": -0.9999998,
-                    "y": -9.261483E-11,
-                    "z": -0.0007769095
+                    "x": 0,
+                    "y": 0,
+                    "z": 1
                 },
-                "rename": "CampNomai",
+                "rename": "EntranceNomai",
                 "type": "wall",
                 "seed": 1556752754,
-                "xmlFile": "nomai/CampWall.xml"
+                "xmlFile": "nomai/EntranceWall.xml"
+            },
+            {
+                "position": {
+                    "x": 3.654799,
+                    "y": 5.891189,
+                    "z": -7.654044
+                },
+                "normal": {
+                    "x": 0.361346,
+                    "y": 0.5064886,
+                    "z": -0.7828783
+                },
+                "rename": "DeviceNomai",
+                "type": "wall",
+                "seed": 0,
+                "xmlFile": "nomai/DeviceWall.xml"
             },
             {
                 "position": {
