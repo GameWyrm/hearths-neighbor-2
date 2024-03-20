@@ -89,7 +89,10 @@
                     "x": 0,
                     "y": 0,
                     "z": 0
-                }
+                },
+                "removeChildren": [
+                    "Effects/Effects_HEA_SmokeColumn"
+                ]
             },
             {
                 "path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
