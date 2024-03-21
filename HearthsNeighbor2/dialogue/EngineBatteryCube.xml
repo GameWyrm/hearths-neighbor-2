@@ -1,0 +1,23 @@
+﻿<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
+  <NameField>Memory Cube</NameField>
+
+  <DialogueNode>
+    <Name>Start</Name>
+    <EntryCondition>DEFAULT</EntryCondition>
+    <Dialogue>
+      <Page>$HN2EngineBattery1</Page>
+      <Page>$HN2EngineBattery2</Page>
+      <Page>$HN2EngineBattery3</Page>
+      <Page>$HN2EngineBattery4</Page>
+      <Page>$HN2EngineBattery5</Page>
+      <Page>$HN2EngineBattery6</Page>
+      <Page>$HN2EngineBattery7</Page>
+      <Page>$HN2EngineBattery8</Page>
+      <Page>$HN2EngineBattery9</Page>
+      <Page>$HN2EngineBattery10</Page>
+    </Dialogue>
+
+  </DialogueNode>
+
+</DialogueTree>

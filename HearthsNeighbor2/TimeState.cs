@@ -9,19 +9,19 @@ namespace HearthsNeighbor2
     public enum TimeState
     {
         /// <summary>
-        /// First 8 minutes, all systems online
+        /// First 6 minutes, all systems online
         /// </summary>
         Normal,
         /// <summary>
-        /// 8-14 minutes, gravity weakens, starts at 14 minutes remaining
+        /// 6-12 minutes, gravity weakens, starts at 14 minutes remaining
         /// </summary>
         LowGrav,
         /// <summary>
-        /// 14-19 minutes, gravity off, starts at 8 minutes remaining
+        /// 12-17 minutes, gravity off, starts at 8 minutes remaining
         /// </summary>
         NoGrav,
         /// <summary>
-        /// 19-21 minutes, red lights during emergency power, starts at 3 minutes remaining
+        /// 17-20 minutes, red lights during emergency power, starts at 3 minutes remaining
         /// </summary>
         RedLights,
         /// <summary>
