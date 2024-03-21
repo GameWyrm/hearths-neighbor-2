@@ -22,8 +22,31 @@
         "$HN2Chamber7": "ACQUARIUS: Aye, the feeling's understandable mate. The unknown is...scary. But exploring the unknown is what yer good at. You'll do great out there.",
         "$HN2Chamber8": "MAGISTER: The Device passes inspection. Vultos, turn it on. Once it's ready...follow me within.",
 
+        // Grand Chamber Sealed Door
+        "$HN2SealedDoor": "NO ENTRY!\nThis room has been sealed away due to the horrors contained within.\nMake no attempt to enter without the Magister's express permission.",
+
         // Device
         "$HN2DeviceHearthian": "To roast marshmallows, that friendship around a campfire may never end.",
+
+        // Engine room
+        "$HN2EngineEntrance1": "MAGISTER: Acquarius, are you all right?",
+        "$HN2EngineEntrance2": "ACQUARIUS: Yeah, I'm fine, I've had far worse shocks. Shoulda turned the breaker off first, but I couldn't find it.",
+        "$HN2EngineEntrance3": "MAGISTER: Oh, there is no breaker. Here. <snaps fingers> There, the power should be off.",
+        "$HN2EngineEntrance4": "MAGISTER: Please, do not hesistate to ask me to turn off the power for you. I do not mind.",
+        "$HN2EngineEntrance5": "ACQUARIUS: 'preciate it, boss, but I was more worried about disruptin' the others.",
+        "$HN2EngineEntrance6": "ROJA: ACQUARIUS, DID YOU BREAK ZE LIGHTING? It's hard enough for me to paint normally!",
+        "$HN2EngineEntrance7": "ACQUARIUS: ...case in point.",
+
+        "$HN2EngineBattery1": "ACQUARIUS: ...and that's the last battery charged, including the spares.",
+        "$HN2EngineBattery2": "LILY: What are the spares for?",
+        "$HN2EngineBattery3": "ACQUARIUS: Boss wants me to put some extras in my room in case someone else comes and wants to follow us.",
+        "$HN2EngineBattery4": "LILY: Actually, I have been wondering, after we step into the device with our batteries in hand, we're not going to be able to come back. Who is going to turn the device off?",
+        "$HN2EngineBattery5": "ACQUARIUS: Oh, it won't be shut off. It's a little too complicated to just turn back on, so others who want to follow just need to read the mem'ry cubes and head into the device with one of the spare batteries.",
+        "$HN2EngineBattery6": "LILY: But won't that drain all the power? The Device certainly won't function without energy.",
+        "$HN2EngineBattery7": "ACQUARIUS: Don't worry, Boss says the reserve power should last right up until the sun goes Supernova.",
+        "$HN2EngineBattery8": "LILY: Well, what about this room? Certainly all the power draw is going to cause a lot of stress on the ship. How will we know if the ship even survives until then?",
+        "$HN2EngineBattery9": "ACQUARIUS: ...",
+        "$HN2EngineBattery10": "ACQUARIUS: I'm sure it'll be <![CDATA[<i>fiiiiine</i>]]>.",
 
         // Camp Room
         "$HN2Camp1": "VULTOS: Well, it seems that campfires are a constant of the universe.",
@@ -157,6 +180,17 @@
         "$HN2OwlkSystem": "SYSTEM DESIGNATION: J0NC-RB3\nPOPULATION: None\nPreviously held a thriving civilization on a moon, the same moon is now a barren wasteland.",
         "$HN2HNSystem": "SYSTEM DESIGNATION: Hearth's Neighbor\nPOPULATION: None\nExtreme amounts of deadly matter and warped space detected.",
 
+        "$HN2HatchControls": "HATCH CONTROLS\nPlease stand clear of the docking bay while hatch is in motion.",
+
+        // Memory Poem Cube
+        "$HN2Poem1": "<![CDATA[<color=#0013FF>To wash away reget, that the sun may shine brighter tomorrow.</color>]]>",
+        "$HN2Poem2": "<![CDATA[<color=#00FF9F>To overcome fear, that the unknown may be greeted with open arms.</color>]]>",
+        "$HN2Poem3": "<![CDATA[<color=#3490FF>To build new monuments, that our mark may be left everlasting.</color>]]>",
+        "$HN2Poem4": "<![CDATA[<color=#8451FF>To preserve advancement, that the next generation may not suffer from our mistakes.</color>]]>",
+        "$HN2Poem5": "<![CDATA[<color=#FF7575>To maintain beauty, that a scene cherished once may be remembered forever.</color>]]>",
+        "$HN2Poem6": "<![CDATA[<color=#FF8B00>To roast marshmallows, that friendship around a campfire may never end.</color>]]>",
+        "$HN2Poem7": "To save the memory of a universe, that it may not die.",
+
         // NOMAI TEXT ------------------------------
         // Entrance wall
         "$HN2EntranceWall1": "LILY: Well, I'm here it seems. The \"Magister\" invited me here, let's see if he's as cordial as his invitation sounded.",
@@ -174,7 +208,7 @@
 
         // Dorm Walls
         "$HN2HomeWall1_1": "LILY: We have a new friend today! Her name is Roja.",
-        "$HN2HomeWall1_2": "LILY: She's a botanist, which I do find pretty interesting. The way she sees plants must be quite unique.",
+        "$HN2HomeWall1_2": "LILY: She's a botanist, which I do find pretty interesting. The way she sees plants must be quite unique. She's also an artist, and uses some interesting pallettes.",
         "$HN2HomeWall1_3": "LILY: The Magister put her room right after mine, so now I'm no longer at the end of the hallway.",
         "$HN2HomeWall1_4": "LILY: It's always quite a sight to see the Magister at work, and just manipulate the shape of the this Vessel at will.",
 
@@ -191,8 +225,7 @@
     "OtherDictionary": {
         "$HN2TimeStateLowGrav": "MAGISTRATION NOTIFICATION: POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS, INCLUDING GRAVITY.",
         "$HN2TimeStateNoGrav": "MAGISTRATION NOTIFICATION: POWER VERY LOW. CUTTING POWER TO GRAVITY",
-        // Translator note, this is a Subnautica reference, if possible use the text for the Habitat No Power notification
-        "$HN2TimeStateRedLights": "MAGISTRATION NOTIFICATION: EMERGENCY POWER ONLY. OXYGEN PRODUCTION OFFLINE. RESERVE OXYGEN WILL DEPLETE IN ONE MINUTE.",
+        "$HN2TimeStateRedLights": "MAGISTRATION NOTIFICATION: EMERGENCY POWER ONLY. OXYGEN PRODUCTION OFFLINE. RESERVE OXYGEN WILL DEPLETE IN THREE MINUTES.",
         "$HN2TimeStateDead": "MAGISTRATION NOTIFICATION: POWER DEPLETED,  SHUTTING DOWN..."
     }
 }
