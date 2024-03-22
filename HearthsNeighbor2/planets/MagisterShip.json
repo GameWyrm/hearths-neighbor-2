@@ -127,19 +127,19 @@
             },
             {
                 "position": {
-                    "x": -8.5,
-                    "y": 1.7,
-                    "z": 105
+                    "x": 3.011711,
+                    "y": 2.018999,
+                    "z": -60.07297
                 },
                 "normal": {
-                    "x": 0,
+                    "x": -1,
                     "y": 0,
-                    "z": 1
+                    "z": 0
                 },
-                "rename": "EntranceNomai",
+                "rename": "CampNomai",
                 "type": "wall",
-                "seed": 1556752754,
-                "xmlFile": "nomai/EntranceWall.xml"
+                "seed": 15749635,
+                "xmlFile": "nomai/CampWall.xml"
             },
             {
                 "position": {
@@ -188,6 +188,58 @@
                 "type": "wall",
                 "seed": 465873315,
                 "xmlFile": "nomai/HomeWall2.xml"
+            },
+            {
+                "position": {
+                    "x": 4.841661,
+                    "y": 45.85664,
+                    "z": 26.84998
+                },
+                "normal": {
+                    "x": -5.868947E-06,
+                    "y": -5.364418E-07,
+                    "z": 0.9999999
+                },
+                "rename": "LibraryWallNomai",
+                "type": "wall",
+                "seed": 8253764,
+                "arcInfo": [
+                    {
+                        "type": "child"
+                    },
+                    {
+                        "type": "adult"
+                    },
+                    {
+                        "type": "teenager"
+                    },
+                    {
+                        "type": "adult"
+                    },
+                    {
+                        "type": "teenager"
+                    },
+                    {
+                        "type": "adult"
+                    }
+                ],
+                "xmlFile": "nomai/LibraryWall.xml"
+            },
+            {
+                "position": {
+                    "x": 38.19403,
+                    "y": 69.82825,
+                    "z": -35.26274
+                },
+                "normal": {
+                    "x": -8.34465E-07,
+                    "y": 1,
+                    "z": 3.129244E-07
+                },
+                "rename": "LibraryTopNomai",
+                "type": "wall",
+                "seed": 4895637,
+                "xmlFile": "nomai/LibraryBookcase.xml"
             }
         ]
     }
