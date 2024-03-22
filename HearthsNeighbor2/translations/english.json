@@ -48,6 +48,34 @@
         "$HN2EngineBattery9": "ACQUARIUS: ...",
         "$HN2EngineBattery10": "ACQUARIUS: I'm sure it'll be <![CDATA[<i>fiiiiine</i>]]>.",
 
+        // Library
+        "$HN2LibraryIntro1": "Welcome to my Grand Archives. Over the thousands of millenia I explored the cosmos, I have hoarded the knowledge of many civilizations and recorded them here in this library.",
+        "$HN2LibraryIntro2": "Unless you are also 20 feet tall, please do not attempt to take any books from the larger shelves. For books you can safely hold, please ask Vultos for assistance with getting a translated copy in your language.",
+
+        "$HN2LibraryArt1": "VESPA: Roja, how do you do it?",
+        "$HN2LibraryArt2": "ROJA: Oh, lots of practice, yes.",
+        "$HN2LibraryArt3": "VESPA: Well, all the practice in the world won't help with your...",
+        "$HN2LibraryArt4": "ROJA: Colorblindness? True, only being able to see ze world in various shades of red does make it difficult to paint, but it helps to do more abstract art like zis. Details become less important.",
+        "$HN2LibraryArt5": "VESPA: True, I have noticed you don't really paint landscape scenes like is common among my kind.",
+        "$HN2LibraryArt6": "ROJA: Ah, yes, I would love to see some of your culture's arts! I vonder vat kind of secrets you would hide in them.",
+
+        "$HN2LibraryRR1": "NOTICE: Access to the Reading Room is restricted while overdue books are taken out and unaccounted for. Please return the books to this table and they will be returned automatically.",
+        "$HN2LibraryRR2": "As of the last scan (2 hours ago) there are three missing books:",
+        "$HN2LibraryRR3": "SECRET LEGENDS: A Hero's Guide to Deciphering the Undecipherable, by Skip. Detected in: Dormatory, Vultos' room.",
+        "$HN2LibraryRR4": "THE COORDINATES CRASH, by Ixrecius. Detected in: Campfire Room",
+        "$HN2LibraryRR5": "THE ASTEROID ARCADE, by Sir Zen Quobois XLII. Detected in: Library, above intended reading space. CAUTION: There is no architecture leading to the estimated location, excercise caution if you intend to seek it out.",
+
+        "$HN2LibrarySecret1": "MAGISTER: Vultos, it does please me that you are just as interested in the secrets of the universe as I am.",
+        "$HN2LibrarySecret2": "VULTOS: Hmm? Oh, yeah, sure.",
+        "$HN2LibrarySecret3": "MAGISTER: Vultos, are you all right? You know you can always talk to me.",
+        "$HN2LibrarySecret4": "VULTOS: Oh, um, sure, thanks.",
+        "$HN2LibrarySecret5": "MAGISTER: Vultos, do you still blame yourself?",
+        "$HN2LibrarySecret6": "VULTOS: Look, I told you already, I'm not, I'm not ready to discuss that.",
+        "$HN2LibrarySecret7": "MAGISTER: May I ask when you will be ready?",
+        "$HN2LibrarySecret8": "VULTOS: Let's just focus on the Device. I think I've got a schematic written up, but I think I've hit a problem. The Device will have difficulty actually affecting someone with space protection.",
+        "$HN2LibrarySecret9": "MAGISTER: Oh, Vultos, I suppose I was unclear. While it will take us out there, we will be in a state where we do not need such protection. No clothing will be needed, though if I am reading this right, a thin layer of clothes should still work fine.",
+        "$HN2LibrarySecret10": "VULTOS: Hmm, yes, of course. I'll make sure to set the Device so that it doesn't even try to fire if you are wearing too much for it.",
+
         // Camp Room
         "$HN2Camp1": "VULTOS: Well, it seems that campfires are a constant of the universe.",
         "$HN2Camp2": "QUARTZ: You sure it's ok for me to set one up in here?",
@@ -214,7 +242,18 @@
 
         "$HN2HomeWall2_1": "LILY: I'm not usually one to brag, but I must say: my room looks quite a bit better than the others!",
         "$HN2HomeWall2_2": "LILY: Only Vespa's room really even compares, to be honest. The others are quite...flat.",
-        "$HN2HomeWall2_3": "LILY: I admit, surrounded by familiar architecture, I am beginning to miss home. But I know that they probably aren't missing me. And I'm part of something much bigger here, anyway."
+        "$HN2HomeWall2_3": "LILY: I admit, surrounded by familiar architecture, I am beginning to miss home. But I know that they probably aren't missing me. And I'm part of something much bigger here, anyway.",
+
+        "$HN2LibraryWall1": "VESPA: ayiuqiojdflkas safsadf-lo4;;;;;adfjajgafsaf455644444444faskjajg  afjasdfpdasec][-",
+        "$HN2LibraryWall2": "LILY: You press the keys like this. It can take some practice to learn how to use a writing staff.",
+        "$HN2LibraryWall3": "VESPA: liek That&",
+        "$HN2LibraryWall4": "LILY: Getting closer. Here, try adjusting your typing angle.",
+        "$HN2LibraryWall5": "VESPA: how do i music",
+        "$HN2LibraryWall6": "LILY: One complicated topic at a time, sorry.",
+
+        "$HN2LibraryBookcase1": "LILY: I saw Vultos climbing the central pillar once. I'm not quite that athletic, but I'm hoping I can see what is up there from here.",
+        "$HN2LibraryBookcase2": "LILY: He is reading on top of the artificial sun! What does he need that much privacy for?"
+
     },
     "ShipLogDictionary": {
 
