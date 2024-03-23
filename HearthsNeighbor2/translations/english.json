@@ -76,6 +76,11 @@
         "$HN2LibrarySecret9": "MAGISTER: Oh, Vultos, I suppose I was unclear. While it will take us out there, we will be in a state where we do not need such protection. No clothing will be needed, though if I am reading this right, a thin layer of clothes should still work fine.",
         "$HN2LibrarySecret10": "VULTOS: Hmm, yes, of course. I'll make sure to set the Device so that it doesn't even try to fire if you are wearing too much for it.",
 
+        "$HN2LibraryLamp1": "ROJA: Lamp. Lamp. Lamp. Lamp. Lamp.",
+        "$HN2LibraryLamp2": "VULTOS: AH! Roja! This is supposed to be my secret spot!",
+        "$HN2LibraryLamp3": "VULTOS: ...are you...hypnotized?",
+        "$HN2LibraryLamp4": "VULTOS: ...moths are <![CDATA[<i>weird</i>]]>.",
+
         // Camp Room
         "$HN2Camp1": "VULTOS: Well, it seems that campfires are a constant of the universe.",
         "$HN2Camp2": "QUARTZ: You sure it's ok for me to set one up in here?",
@@ -259,12 +264,14 @@
 
     },
     "UIDictionary": {
-
+        "$HN2PartyPrompt": "Party"
     },
     "OtherDictionary": {
-        "$HN2TimeStateLowGrav": "MAGISTRATION NOTIFICATION: POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS, INCLUDING GRAVITY.",
+        "$HN2TimeStateLowGrav": "MAGISTRATION NOTIFICATION: POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS.",
         "$HN2TimeStateNoGrav": "MAGISTRATION NOTIFICATION: POWER VERY LOW. CUTTING POWER TO GRAVITY",
         "$HN2TimeStateRedLights": "MAGISTRATION NOTIFICATION: EMERGENCY POWER ONLY. OXYGEN PRODUCTION OFFLINE. RESERVE OXYGEN WILL DEPLETE IN THREE MINUTES.",
-        "$HN2TimeStateDead": "MAGISTRATION NOTIFICATION: POWER DEPLETED,  SHUTTING DOWN..."
+        "$HN2TimeStateDead": "MAGISTRATION NOTIFICATION: POWER DEPLETED,  SHUTTING DOWN...",
+
+        "$HN2ItemBook": "Book"
     }
 }
