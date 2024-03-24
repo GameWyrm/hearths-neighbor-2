@@ -350,12 +350,12 @@
         "$HN2LogIntroRumor": "My ship has received the coordinates of a mysterious vessel above the Solar System called the \"Magistarium\".",
         "$HN2LogIntro1": "I found a ship above the Solar System called the Magistarium. It has a hatch I can access on one side.",
         "$HN2LogIntro2": "Oxygen is leaking out of the Magistarium.",
-        "$HN2LogIntro3": "The hatch can be controlled from within the Magister's room.",
-        "$HN2LogIntro4": "The ship's power weakens over time.",
-        "$HN2LogIntro5": "Near the end of the loop, the ship runs on emergency power and the on-board lights turn red.",
-        "$HN2LogIntro6": "Right before the loop ends, the power in the ship completely dies.",
+        "$HN2LogIntro3": "The ship's power weakens over time.",
+        "$HN2LogIntro4": "Near the end of the loop, the ship runs on emergency power and the on-board lights turn red.",
+        "$HN2LogIntro5": "Right before the loop ends, the power in the ship completely dies.",
 
         "$HN2LogGrandChamberName": "Grand Chamber",
+        "$HN2LogGrandChamberRumor": "There seems to be a large cavity in the center of the Magistarium.",
         "$HN2LogGrandChamber1": "The center of the Magistarium contains a massive chamber that appears to be a hub to several rooms.",
         "$HN2LogGrandChamber2": "I found a book in a room with a campfire.",
 
@@ -378,6 +378,7 @@
 
         "$HN2LogEngineName": "Engine Room",
         "$HN2LogEngineRumorName": "Power Source",
+        "$HN2LogEngineRumor": "The Magistarium's power is flunctuating.",
         "$HN2LogEngine1": "The bottom floor seems to contain some kind of engine room or generator. Lethal amounts of electricity are leaking from the machines. There is some kind of pedistal and a Memory Cube in the middle of the room.",
         "$HN2LogEngine2": "The engines do not have any form of breaker to cut off power to the room.",
 
@@ -389,6 +390,7 @@
         "$HN2LogDorms5": "One of the rooms is full of paintings of various colors.",
 
         "$HN2LogMagiName": "Magister's Room",
+        "$HN2LogMagiRumor": "The hatch can be controlled from within the Magister's room.",
         "$HN2LogMagi1": "I found a hidden vent that lead to the Magister's room.",
         "$HN2LogMagi2": "The Magister invited many people from various races to live on his ship to build the Device. He built an Immortality Crystal to allow them to live long beyond their lifespan.",
 

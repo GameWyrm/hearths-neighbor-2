@@ -3,6 +3,56 @@
 
   <ID>MAGISTARIUM</ID>
   <Entry>
+    <ID>HN2_DEVICE</ID>
+    <Name>$HN2LogEndName</Name>
+    <Curiosity>HN2_DEVICE</Curiosity>
+    <IsCuriosity/>
+
+    <RumorFact>
+      <ID>HN2_Device_RumorChamber</ID>
+      <!--<SourceID></SourceID>-->
+      <RumorName>$HN2LogEndNameRumor</RumorName>
+      <Text>$HN2LogEndRumorChamber</Text>
+    </RumorFact>
+
+    <RumorFact>
+      <ID>HN2_Device_RumorLibrary</ID>
+      <!--<SourceID></SourceID>-->
+      <RumorName>$HN2LogEndNameRumor</RumorName>
+      <Text>$HN2LogEndRumorLibrary</Text>
+    </RumorFact>
+
+    <RumorFact>
+      <ID>HN2_Device_RumorEngine</ID>
+      <!--<SourceID></SourceID>-->
+      <RumorName>$HN2LogEndNameRumor</RumorName>
+      <Text>$HN2LogEndRumorEngine</Text>
+    </RumorFact>
+
+    <RumorFact>
+      <ID>HN2_Device_RumorMagi</ID>
+      <!--<SourceID></SourceID>-->
+      <RumorName>$HN2LogEndNameRumor</RumorName>
+      <Text>$HN2LogEndRumorMagi</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN2_Device1</ID>
+      <Text>$HN2LogEnd1</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_Device2</ID>
+      <Text>$HN2LogEnd2</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_Device3</ID>
+      <Text>$HN2LogEnd3</Text>
+    </ExploreFact>
+  </Entry>
+  
+  <Entry>
     <ID>HN2_HN</ID>
     <Name>$HN2LogHNName</Name>
     <Curiosity>HN2_DEVICE</Curiosity>
@@ -55,12 +105,134 @@
       <ID>HN2_Intro5</ID>
       <Text>$HN2LogIntro5</Text>
     </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN2_GC</ID>
+    <Name>$HN2LogGrandChamberName</Name>
+    <Curiosity>HN2_DEVICE</Curiosity>
+
+    <RumorFact>
+      <ID>HN2_GC_Rumor</ID>
+      <SourceID>HN2_Intro</SourceID>
+      <Text>$HN2LogGrandChamberRumor</Text>
+    </RumorFact>
 
     <ExploreFact>
-      <ID>HN2_Intro6</ID>
-      <Text>$HN2LogIntro6</Text>
+      <ID>HN2_GC1</ID>
+      <Text>$HN2LogGrandChamber1</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_GC2</ID>
+      <Text>$HN2LogGrandChamber2</Text>
     </ExploreFact>
   </Entry>
+
+  <Entry>
+    <ID>HN2_LB</ID>
+    <Name>$HN2LogLibraryName</Name>
+    <Curiosity>HN2_DEVICE</Curiosity>
+
+    <ExploreFact>
+      <ID>HN2_LB1</ID>
+      <Text>$HN2LogLibrary1</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_LB2</ID>
+      <Text>$HN2LogLibrary2</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_LB3</ID>
+      <Text>$HN2LogLibrary3</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_LB4</ID>
+      <Text>$HN2LogLibrary4</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_LB5</ID>
+      <Text>$HN2LogLibrary5</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN2_EG</ID>
+    <Name>$HN2LogEngineName</Name>
+    <Curiosity>HN2_DEVICE</Curiosity>
+
+    <RumorFact>
+      <ID>HN2_EG_Rumor</ID>
+      <RumorName>$HN2LogEngineRumorName</RumorName>
+      <Text>$HN2LogEngineRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN2_EG1</ID>
+      <Text>$HN2LogEngine1</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_EG2</ID>
+      <Text>$HN2LogEngine2</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN2_DM</ID>
+    <Name>$HN2LogDormsName</Name>
+    <Curiosity>HN2_DEVICE</Curiosity>
+
+    <ExploreFact>
+      <ID>HN2_DM1</ID>
+      <Text>$HN2LogDorms1</Text>
+    </ExploreFact>
   
+    <ExploreFact>
+      <ID>HN2_DM2</ID>
+      <Text>$HN2LogDorms2</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_DM3</ID>
+      <Text>$HN2LogDorms3</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_DM4</ID>
+      <Text>$HN2LogDorms4</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_DM5</ID>
+      <Text>$HN2LogDorms5</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN2_MG</ID>
+    <Name>$HN2LogMagiName</Name>
+    <Curiosity>HN2_DEVICE</Curiosity>
+
+    <RumorFact>
+      <ID>HN2_MG_Rumor</ID>
+      <SourceID>HN2_Intro</SourceID>
+      <Text>$HN2LogMagiRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN2_MG1</ID>
+      <Text>$HN2LogMagi1</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_MG2</ID>
+      <Text>$HN2LogMagi2</Text>
+    </ExploreFact>
+  </Entry>
   
 </AstroObjectEntry>

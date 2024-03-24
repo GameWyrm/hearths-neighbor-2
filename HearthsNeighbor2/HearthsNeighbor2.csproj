@@ -57,9 +57,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="shiplogs\" />
-  </ItemGroup>
   <Target Name="PostBuild" AfterTargets="PostBuildEvent" Condition="Exists('$(UnityProjectPath)')">
     <ItemGroup>
       <DialogueDir Include="$(ProjectDir)dialogue\*" />
