@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
-    "name": "MAGISTRATION",
+    "name": "MAGISTARIUM",
     "starSystem": "Jam3",
     "Base": {
         "surfaceSize": 280,
@@ -106,6 +106,36 @@
                     "y": 0,
                     "z": 0
                 }
+            }
+        ],
+        "singularities": [
+            {
+                "position": {
+                    "x": 0,
+                    "y": 6,
+                    "z": 0
+                },
+                "parentPath": "Sector/Magistration",
+                "rename": "EndingBlackHole",
+                "uniqueID": "HN2BlackHole",
+                "pairedSingularity": "HN2WhiteHole",
+                "horizonRadius": 6,
+                "type": "blackHole",
+                "hasWarpEffects": false
+            },
+            {
+                "position": {
+                    "x": 0,
+                    "y": 1990,
+                    "z": 0
+                },
+                "parentPath": "Sector/Magistration",
+                "rename": "EndingWhiteHole",
+                "uniqueID": "HN2WhiteHole",
+                "pairedSingularity": "HN2BlackHole",
+                "horizonRadius": 0.5,
+                "type": "whiteHole",
+                "hasWarpEffects": false
             }
         ],
         "translatorText": [

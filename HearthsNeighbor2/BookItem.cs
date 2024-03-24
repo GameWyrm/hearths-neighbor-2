@@ -28,11 +28,18 @@ namespace HearthsNeighbor2
         public override void DropItem(Vector3 position, Vector3 normal, Transform parent, Sector sector, IItemDropTarget customDropTarget)
         {
             base.DropItem(position, normal, parent, sector, customDropTarget);
+            transform.localScale = Vector3.one;
             receiver.CheckBooks(gameObject, out isReturned);
             if (isReturned)
             {
                 _interactable = false;
             }
+        }
+
+        public override void PickUpItem(Transform holdTranform)
+        {
+            base.PickUpItem(holdTranform);
+            transform.localScale = Vector3.one * 0.4f;
         }
     }
 }

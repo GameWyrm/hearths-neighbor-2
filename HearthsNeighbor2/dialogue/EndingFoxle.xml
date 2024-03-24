@@ -1,0 +1,79 @@
+﻿<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
+  <NameField>Vultos</NameField>
+
+  <DialogueNode>
+    <Name>Start</Name>
+    <EntryCondition>DEFAULT</EntryCondition>
+    <Dialogue>
+      <Page>$HN2EndF1</Page>
+      <Page>$HN2EndF2</Page>
+    </Dialogue>
+    <DialogueOptionsList>
+      <DialogueOption>
+        <Text>$HN2EndFA</Text>
+        <DialogueTarget>IntroA</DialogueTarget>
+      </DialogueOption>
+      <DialogueOption>
+        <Text>$HN2EndFB</Text>
+        <DialogueTarget>IntroB</DialogueTarget>
+      </DialogueOption>
+    </DialogueOptionsList>
+  </DialogueNode>
+
+  <DialogueNode>
+    <Name>IntroA</Name>
+    <Dialogue>
+      <Page>$HN2EndFA1</Page>
+    </Dialogue>
+    <DialogueOptionsList>
+      <DialogueOption>
+        <Text>$HN2EndFHNA</Text>
+        <DialogueTarget>RegretA</DialogueTarget>
+      </DialogueOption>
+      <DialogueOption>
+        <Text>$HN2EndFHNB</Text>
+        <DialogueTarget>RegretB</DialogueTarget>
+      </DialogueOption>
+    </DialogueOptionsList>
+  </DialogueNode>
+
+  <DialogueNode>
+    <Name>IntroB</Name>
+    <Dialogue>
+      <Page>$HN2EndFB1</Page>
+    </Dialogue>
+    <DialogueOptionsList>
+      <DialogueOption>
+        <RequiredLogCondition>HN_POD_RESOLUTION</RequiredLogCondition>
+        <Text>$HN2EndFHNA</Text>
+        <DialogueTarget>RegretA</DialogueTarget>
+      </DialogueOption>
+      <DialogueOption>
+        <Text>$HN2EndFHNB</Text>
+        <DialogueTarget>RegretB</DialogueTarget>
+      </DialogueOption>
+    </DialogueOptionsList>
+  </DialogueNode>
+
+  <DialogueNode>
+    <Name>RegretA</Name>
+    <Dialogue>
+      <Page>$HN2EndFHNA1</Page>
+      <Page>$HN2EndFHNA2</Page>
+      <Page>$HN2EndFHNA3</Page>
+      <Page>$HN2EndFHNA4</Page>
+      <Page>$HN2EndFHNA5</Page>
+    </Dialogue>
+    <DialogueTargetShipLogCondition>HN_POD_RESOLUTION</DialogueTargetShipLogCondition>
+  </DialogueNode>
+
+  <DialogueNode>
+    <Name>RegretB</Name>
+    <Dialogue>
+      <Page>$HN2EndFHNB1</Page>
+      <Page>$HN2EndFHNA5</Page>
+    </Dialogue>
+  </DialogueNode>
+
+</DialogueTree>

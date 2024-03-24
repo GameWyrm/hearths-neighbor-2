@@ -1,0 +1,17 @@
+﻿<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
+  <NameField>Lily</NameField>
+
+  <DialogueNode>
+    <Name>Start</Name>
+    <EntryCondition>DEFAULT</EntryCondition>
+    <Dialogue>
+      <Page>$HN2EndN1</Page>
+      <Page>$HN2EndN2</Page>
+      <Page>$HN2EndN3</Page>
+      <Page>$HN2EndN4</Page>
+    </Dialogue>
+
+  </DialogueNode>
+
+</DialogueTree>

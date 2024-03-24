@@ -13,12 +13,16 @@ namespace HearthsNeighbor2
         public DirectionalForceVolume gravity;
         public GameObject oxygen;
         public GameObject electricity;
+        public GameObject endngPumpMusic;
         public Material lampMaterial;
         public MeshRenderer magistrationRenderer;
         public Color fullGravityColor;
         public Color lowGravityColor;
         public Animator deviceAnimator;
         public AudioSource deviceAudio;
+        public GameObject endingSector;
+        public GameObject endBlackHole;
+        public GameObject endWhiteHole;
 
         // time loop properties
         private readonly int lowGravTime = 6;
@@ -30,6 +34,7 @@ namespace HearthsNeighbor2
 
         private GameObject player;
         private List<Light> lights;
+
         private Material gravityFloor;
 
         private void Start()
@@ -58,6 +63,13 @@ namespace HearthsNeighbor2
             }
             lampMaterial.color = Color.white;
             transform.parent.Find("DeviceNomai").localScale = Vector3.one * 0.3f;
+
+            endBlackHole = transform.Find("EndingBlackHole").gameObject;
+            endWhiteHole = transform.Find("EndingWhiteHole").gameObject;
+            endBlackHole.SetActive(false);
+            endWhiteHole.SetActive(false);
+
+            endingSector.SetActive(false);
         }
 
         private void Update()
@@ -135,6 +147,11 @@ namespace HearthsNeighbor2
                     }
                     break;
             }
+            // TODO add requirement for ship logs and make more efficient
+            if (HearthsNeighbor2.Main.hasBattery && !PlayerState.IsWearingSuit() && Vector3.Distance(player.transform.position, transform.position) < 200)
+            {
+                endngPumpMusic.SetActive(true);
+            }
         }
 
         /// <summary>
@@ -147,6 +164,13 @@ namespace HearthsNeighbor2
             {
                 oxygen.gameObject.SetActive(on);
             }
+        }
+
+        public void FireDevice()
+        {
+            endBlackHole.SetActive(true);
+            endWhiteHole.SetActive(true);
+            endingSector.SetActive(true);
         }
     }
 }
