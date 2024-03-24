@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 40929684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb3addc254bb2b6c20b2ec554fbba293
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OW Assets/Audio/OW_PR_LockOn.ogg
+- Assets/OW Assets/Audio/OW_GD_ElectricBarrier_Idle_Loop.ogg
+- Assets/OW Assets/Audio/OW_TH_Campfire_loop_01.ogg
+- Assets/OW Assets/Audio/OW_NM_TractorBeamLP.ogg
+- Assets/OW Assets/Audio/Dreamworld Forest Ambience 2.ogg
+- Assets/HN2/Audio/astral_library.mp3
+- Assets/HN2/Audio/grand_chamber.mp3
+- Assets/HN2/Audio/surface.mp3
+- Assets/OW Assets/Audio/Dreamworld Base Ambience 1.ogg
+- Assets/HN2/Audio/roja.mp3
+- Assets/OW Assets/Audio/Dream World Water Ambience - Creek 1.ogg
+- Assets/HN2/Audio/we_have_giants_deep_at_home.mp3
+- Assets/OW Assets/Audio/OW_NM_ComputerAmbienceLP.ogg
+- Assets/OW Assets/Audio/BH_Ambience_Surface.ogg
+- Assets/HN2/Audio/magisters_room.mp3
+- Assets/HN2/Audio/grandest_chamber.mp3
+Dependencies: []

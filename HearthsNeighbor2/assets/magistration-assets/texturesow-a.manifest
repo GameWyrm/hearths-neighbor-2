@@ -1,0 +1,129 @@
+ManifestFileVersion: 0
+CRC: 1924616979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 759d1536e54498a95ea8a77f6c0f5fed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_Whiteboard_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Steel_n.png
+- Assets/OW Assets/Texture2D/Ocean_GD_Micro_h.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Mangrove_Wood_Light_d.png
+- Assets/Texture2D/Structure_IP_Iron_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Iron_n.png
+- Assets/Materials/environment/invisiblePlanet/Props/Tree_IP_RW_MangroveLeaves_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/Structure_IP_Mangrove_Wood_ao.png
+- Assets/OW Assets/Texture2D/Structure_HEA_VillageCloth_d.png
+- Assets/Materials/environment/invisiblePlanet/Props/dreamWorldOnly/Tree_DW_MangroveBark_d.png
+- Assets/Texture2D/Structure_IP_Mangrove_Wood_s.png
+- Assets/OW Assets/Texture2D/LOD_ObservatoryExterior_AO_0.png
+- Assets/Nomai Ruins/Resources/Materials/Props_NOM_NomaiTree_ao.png
+- Assets/Texture2D/Structure_IP_DullGlass_t.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Mangrove_Wood_Dark_s.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Trim_Iron_s.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Mangrove_Wood_Light_s.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Iron_ao.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_SandStone_s.png
+- Assets/Texture2D/Effects_IP_Grain16_n.png
+- Assets/Texture2D/Structure_IP_DullGlass_n.png
+- Assets/Texture2D/Structure_IP_Iron_ao.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_Whiteboard_mask.png
+- Assets/Materials/environment/invisiblePlanet/Props/Tree_IP_MangroveLeaves_d.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_Whiteboard_n.png
+- Assets/Texture2D/Effects_IP_Gem_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Iron_DarkPaint_New_ao.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Iron_LightPaint_New_ao.png
+- Assets/Nomai Ruins/Resources/Materials/Props_NOM_NomaiTreeDirt_d.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_PropTile_Color_n.png
+- Assets/Nomai Ruins/Resources/Materials/Props_NOM_NomaiTreeDirt_n.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Iron_LightPaint_New_n.png
+- Assets/OW Assets/Texture2D/Structure_HEA_VillageCabin_s.png
+- Assets/OW Assets/Texture2D/Structure_HEA_VillageMetal_d.png
+- Assets/Texture2D/Noise_d.png
+- Assets/OW Assets/Texture2D/LOD_Structure_IP_Mangrove_Wood_OffsetPlanks_Dark_d.png
+- Assets/Texture2D/Tree_IP_MangroveBark_n.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Mangrove_Wood_Red_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Trim_Iron_d.png
+- Assets/Texture2D/NoiseSubtle_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Iron_LightPaint_New_s.png
+- Assets/OW Assets/Texture2D/Effects_ElectricityBand_d.png
+- Assets/OW Assets/Texture2D/LOD_Effects_IP_RiverWaves_Main.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Iron_DarkPaint_New_s.png
+- Assets/Nomai Ruins/Resources/Materials/Props_NOM_NomaiTree_d.png
+- Assets/Nomai Ruins/Resources/Materials/Props_NOM_NomaiTreeDetail_n.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_SandStone_n.png
+- Assets/Texture2D/LOD_Tree_IP_MangroveLeaves_t.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_TrimPattern_s.png
+- Assets/Texture2D/Effects_IP_CyberspaceGlitterLinesGrayscale_d.png
+- Assets/Texture2D/LOD_Foliage_IP_Ground_t.png
+- Assets/OW Assets/Texture2D/ExtinctionGradient_TH_River_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Mangrove_Wood_Bleached_d.png
+- Assets/Materials/environment/invisiblePlanet/Props/Tree_IP_MangroveBark_s.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Trim_Wood_s.png
+- Assets/Nomai Ruins/Resources/Materials/Props_NOM_NomaiTree_t.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Mangrove_Wood_d.png
+- Assets/Materials/environment/invisiblePlanet/Props/Foliage_IP_RW_Ground_d.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_TrimPattern_n.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_PropTile_Color_d.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_HexagonTile_d.png
+- Assets/Texture2D/Effects_IP_SimulationGroundNoise.png
+- Assets/Nomai Ruins/Resources/Materials/Props_NOM_NomaiTree_n.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_TrimPattern_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Iron_DarkPaint_New_n.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_SandStone_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Mangrove_Wood_Dark_d.png
+- Assets/Nomai Ruins/Resources/Materials/Props_Nom_GavityCrystal_h.png
+- Assets/OW Assets/Texture2D/Structure_HEA_VillageMetal_n.png
+- Assets/OW Assets/Texture2D/LOD_Effects_IP_RiverWaves_Micro.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Mangrove_Wood_Bleached_s.png
+- Assets/OW Assets/Texture2D/Structure_HEA_VillageCloth_s.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Trim_Iron_n.png
+- Assets/OW Assets/Texture2D/LOD_Effects_IP_RiverWaves_Macro.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_PropTile_Color_s.png
+- Assets/OW Assets/Texture2D/Structure_HEA_VillageCabin_d.png
+- Assets/Nomai Ruins/Resources/Materials/NoiseWarm_d.png
+- Assets/Materials/environment/invisiblePlanet/Props/dreamWorldOnly/Props_IP_Rug_DW_Folds_n.png
+- Assets/OW Assets/Texture2D/LOD_Structure_IP_Mangrove_Wood_s.png
+- Assets/OW Assets/Texture2D/LOD_Structure_IP_Mangrove_Wood_n.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Trim_Wood_n.png
+- Assets/OW Assets/Texture2D/LOD_Structure_IP_PlankDetail_n.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Iron_LightPaint_New_d.png
+- Assets/OW Assets/Texture2D/ExtinctionGradient_IP_River_d.png
+- Assets/OW Assets/Texture2D/LOD_Structure_EYE_VillagePlanks_d.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_Spiral_White_d.png
+- Assets/Texture2D/Structure_IP_Iron_n.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_WovenGrooves_d.png
+- Assets/Texture2D/Structure_IP_DullGlass_d.png
+- Assets/Nomai Ruins/Resources/Materials/Props_NOM_GravityCrystal_n.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_PaintWhite_d.png
+- Assets/OW Assets/Texture2D/LOD_Structure_IP_Mangrove_Wood_OffsetPlanks_ao.png
+- Assets/Materials/environment/invisiblePlanet/Props/dreamWorldOnly/Foliage_DW_Ground_d.png
+- Assets/Materials/environment/invisiblePlanet/Props/Tree_IP_RW_MangroveLeaves_t.png
+- Assets/OW Assets/Texture2D/LOD_Structure_EYE_VillagePlanks_n.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Steel_s.png
+- Assets/OW Assets/Texture2D/Terrain_TH_CraterDirt_d.png
+- Assets/Texture2D/Structure_DW_Mangrove_Wood_s.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Mangrove_Wood_n.png
+- Assets/Texture2D/Tree_IP_MangroveBark_o.png
+- Assets/OW Assets/Texture2D/Structure_HEA_VillageCabin_n.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Iron_DarkPaint_New_d.png
+- Assets/Materials/environment/invisiblePlanet/Props/Tree_IP_RW_MangroveBark_d.png
+- Assets/OW Assets/Texture2D/Terrain_TH_CraterDirt_n.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_WovenGrooves_n.png
+- Assets/Materials/environment/invisiblePlanet/architecture/Structure_IP_Mangrove_Wood_n.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Trim_Wood_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Steel_ao.png
+- Assets/Materials/environment/invisiblePlanet/architecture/Structure_IP_Mangrove_Wood_Red_d.png
+- Assets/Texture2D/Foliage_IP_Ground_t.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_HexagonTile_n.png
+- Assets/Materials/environment/invisiblePlanet/Props/dreamWorldOnly/Props_IP_Rug_DW_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Steel_d.png
+Dependencies: []

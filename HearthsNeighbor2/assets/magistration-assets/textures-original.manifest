@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2580203502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0f5cf6d579eab748287ac0d56c2dc7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HN2/Texture/Eye.png
+- Assets/HN2/Texture/foxleChair_d.png
+- Assets/HN2/Texture/Wyrmstail.png
+- Assets/HN2/Texture/MothAntenna.png
+- Assets/HN2/Texture/PaintingRoja.png
+- Assets/HN2/Texture/PerlinNoise.png
+- Assets/HN2/Texture/Bookshelves_h.png
+- Assets/HN2/Texture/MagiFloor_e.png
+- Assets/HN2/Texture/PaintingAcquarius.png
+- Assets/HN2/Texture/EyeRound.png
+- Assets/HN2/Texture/MagiFloor.png
+- Assets/HN2/Texture/MagiFloor_n.png
+- Assets/HN2/Texture/Carpet.png
+- Assets/HN2/Texture/OwlkSprite.png
+- Assets/HN2/Texture/PaintingQuartz.png
+- Assets/HN2/Texture/FakeWallHint.png
+- Assets/HN2/Texture/BookSL.png
+- Assets/HN2/Texture/CarpetN.png
+- Assets/HN2/Texture/TextScripts.png
+- Assets/HN2/Texture/PaintingVespa.png
+- Assets/HN2/Texture/MagiFloor_m.png
+- Assets/HN2/Texture/Bookshelves.png
+- Assets/HN2/Texture/MagiWallNebula.png
+- Assets/HN2/Texture/EyeSymmetrical.png
+- Assets/HN2/Texture/Wheel4.png
+- Assets/HN2/Texture/Wheel3.png
+- Assets/HN2/Texture/RedeyeChair_d.png
+- Assets/HN2/Texture/Wheel2.png
+- Assets/HN2/Texture/MagiWallNew_e.png
+- Assets/HN2/Texture/StarParticles.png
+- Assets/HN2/Texture/FuelSketch.png
+- Assets/HN2/Texture/Fishie Colors.png
+- Assets/HN2/Texture/PaintingVultos.png
+- Assets/HN2/Texture/Book.png
+- Assets/HN2/Texture/Bookshelves_n.png
+- Assets/HN2/Texture/StarmapNew.png
+- Assets/HN2/Texture/Wheel1.png
+Dependencies: []

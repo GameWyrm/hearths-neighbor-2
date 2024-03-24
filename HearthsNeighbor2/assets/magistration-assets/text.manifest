@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 389567090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 947a67925cb197041710e7c80ae03741
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HN2/Dialogue/FoxleSecretCube.xml
+- Assets/HN2/Dialogue/EndingNomai.xml
+- Assets/HN2/Dialogue/GrandChamber.xml
+- Assets/HN2/Dialogue/EndingMagister.xml
+- Assets/HN2/Dialogue/CampCube.xml
+- Assets/HN2/Dialogue/LibraryArt.xml
+- Assets/HN2/Dialogue/LibrarySecret.xml
+- Assets/HN2/Dialogue/FoxleCube.xml
+- Assets/HN2/Dialogue/MapCubeOwlk.xml
+- Assets/HN2/Dialogue/EndingPiscen.xml
+- Assets/HN2/Dialogue/SignHearthianDevice.xml
+- Assets/HN2/Dialogue/MapCubeHN.xml
+- Assets/HN2/Dialogue/MagiEntrance.xml
+- Assets/HN2/Dialogue/LibraryRR.xml
+- Assets/HN2/Dialogue/EngineBatteryCube.xml
+- Assets/HN2/Dialogue/EndingOwlk.xml
+- Assets/HN2/Dialogue/MagiDoorCube.xml
+- Assets/HN2/Dialogue/HearthCube.xml
+- Assets/HN2/Dialogue/MagiCubeHearthian.xml
+- Assets/HN2/Dialogue/NomaiCube.xml
+- Assets/HN2/Dialogue/MagiCubePiscen.xml
+- Assets/HN2/Dialogue/MapCubeJam.xml
+- Assets/HN2/Dialogue/EndingFoxle.xml
+- Assets/HN2/Dialogue/MagiCubeFoxle.xml
+- Assets/HN2/Dialogue/SealedDoorCube.xml
+- Assets/HN2/Dialogue/MagiCubeOwlk.xml
+- Assets/HN2/Dialogue/MagiCubeRedeye.xml
+- Assets/HN2/Dialogue/LibraryLamp.xml
+- Assets/HN2/Dialogue/MagiCubeNomai.xml
+- Assets/HN2/Dialogue/EndingRedeye.xml
+- Assets/HN2/Dialogue/MapCubeOW.xml
+- Assets/HN2/Dialogue/EngineEntranceCube.xml
+- Assets/HN2/Dialogue/HatchControls.xml
+- Assets/HN2/Dialogue/OwlkHouse.xml
+- Assets/HN2/Dialogue/MagiCubeEye.xml
+- Assets/HN2/Dialogue/EntranceWarning.xml
+- Assets/HN2/Dialogue/MagiCubeStart.xml
+- Assets/HN2/Dialogue/OwlkHouseUpper.xml
+- Assets/HN2/Dialogue/MagiCubeLife.xml
+- Assets/HN2/Dialogue/MagiCubePoem.xml
+- Assets/HN2/Dialogue/EndingHeathian.xml
+- Assets/HN2/Dialogue/MagiCubeKirmby.xml
+- Assets/HN2/Dialogue/RedeyeCube.xml
+- Assets/HN2/Dialogue/LibraryIntro.xml
+Dependencies: []

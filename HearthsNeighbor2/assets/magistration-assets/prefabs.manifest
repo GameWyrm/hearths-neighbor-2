@@ -1,0 +1,211 @@
+ManifestFileVersion: 0
+CRC: 2924520742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d123282b4a29abfa42826ee67f455b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d54356ac329460023ef85ed73d13c3e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -2090824895, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dab2fbc1d63988697a57c20e75208116, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 204df73272a0e21fb01668cafcf47a13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a5bc582e4f904dcec905aaf2f0c035a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4237ce5351e9eb97fe42f42d8509304b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b446aa63b809cb3da1921800cd416866, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d213e1421b973fcb0ec6d3b7bb1aa62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b178abe66f0dd2519bfa341d78f0fd54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25360727eba447720234f7b1318798a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 235bf89714beeb03a641a16e1b851008, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7bc1228a33a64798dea9fa5e72efdb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f913c288c393f80a7e923fc1c775f4fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0053d129d589d30957bcc3b1958fc878, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25b7e56961bf1df33ed31b8c786ab1c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2145ed3a866d4bd5a94d98ee05d0fa4f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f3014da1c89ce2573a27c371d8ccd9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47aab37ceed8f8a800f7135fd21e363d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bda4e78dbfc9198a165897d3deca78b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d37ab8d4d1e425918e8172c84cb8288, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9721c64fc751e71766a8e19209725a0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1f326afd8115cd8f4068186646cea5d, type: 3}
+- Class: 114
+  Script: {fileID: 1689281519, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
+- Class: 114
+  Script: {fileID: 1265522291, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
+- Class: 114
+  Script: {fileID: 825622303, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Owlk Ruins/Prefabs/Clean/Wall_IP_Full.prefab
+- Assets/HN2/Meshes/ReturnTable.fbx
+- Assets/Owlk Ruins/Prefabs/Clean/plants/GroundFoliage_DW_ShortGrassWhiteFlower.prefab
+- Assets/HN2/Prefab/ChairRedeye.prefab
+- Assets/HN2/Meshes/Wyrmstail.fbx
+- Assets/Owlk Ruins/Prefabs/Clean/Prefab_IP_Table_Alcove.prefab
+- Assets/Nomai Ruins/Prefabs/Treepot.prefab
+- Assets/Nomai Ruins/Prefabs/Floor.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Railing_IP.prefab
+- Assets/Nomai Ruins/Prefabs/Wall Spiral Lamp.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Prefab_IP__Partition.prefab
+- Assets/HN2/Meshes/Magistration.fbx
+- Assets/Owlk Ruins/Prefabs/Clean/Props_IP_BoardGame.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Stairs_IP_Half_Railing.prefab
+- Assets/Nomai Ruins/Prefabs/Wall Diamond Lamp.prefab
+- Assets/HN2/Meshes/ChairHearthian.fbx
+- Assets/HN2/Prefab/FuelCanister.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/plants/Tree_DW_S_C.prefab
+- Assets/HN2/Meshes/Battery.fbx
+- Assets/HN2/Meshes/ChairRedeye.fbx
+- Assets/HN2/Meshes/BatteryCharger.fbx
+- Assets/HN2/Meshes/MemoryCube.fbx
+- Assets/Owlk Ruins/Prefabs/Clean/plants/GroundFoliage_DW_ShortGrass2.prefab
+- Assets/HN2/Meshes/MagiTable.fbx
+- Assets/HN2/Prefab/Eye.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/plants/GroundFoliage_DW_ShortGrassOrchid.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Props_IP_StaffArmature.prefab
+- Assets/HN2/Prefab/WeightItem.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Floor_IP.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Prefab_IP_Door_Interface.prefab
+- Assets/HN2/Meshes/FoxleEars.fbx
+- Assets/HN2/Meshes/Ears.fbx
+- Assets/HN2/Prefab/ChairPiscen.prefab
+- Assets/HN2/Meshes/BookGreen.fbx
+- Assets/HN2/Prefab/Library/BookcaseLongTurn.prefab
+- Assets/Nomai Ruins/Prefabs/NOMTree1 Dry.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/plants/Tree_DW_M.prefab
+- Assets/HN2/Meshes/GhostMatterFuelCanister.fbx
+- Assets/Nomai Ruins/Prefabs/Wall_Corner_R.prefab
+- Assets/Nomai Ruins/Prefabs/Shelf.prefab
+- Assets/HN2/Meshes/Kirmby.fbx
+- Assets/HN2/Meshes/Device.fbx
+- Assets/Nomai Ruins/Prefabs/Floor_Half.prefab
+- Assets/HN2/Meshes/MagiHatch.fbx
+- Assets/Owlk Ruins/Prefabs/Clean/Props_IP_Vase.prefab
+- Assets/Owlk Ruins/meshes/DWFoliageGround.fbx
+- Assets/Nomai Ruins/Prefabs/Wall_Corner_L.prefab
+- Assets/HN2/Prefab/BatteryItem.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Props_IP_Bowl.prefab
+- Assets/Nomai Ruins/Prefabs/NOMTree3.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/plants/Tree_DW_S_A.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/plants/GroundFoliage_DW_ShortGrass1.prefab
+- Assets/HN2/Prefab/Hammock.prefab
+- Assets/HN2/Meshes/Hammock.fbx
+- Assets/HN2/Prefab/MagiLamp.prefab
+- Assets/Nomai Ruins/Prefabs/Bed.prefab
+- Assets/HN2/Prefab/MemoryCube.prefab
+- Assets/Nomai Ruins/Prefabs/Wall_Half_Corner_L.prefab
+- Assets/Nomai Ruins/Prefabs/Fancy Door BOTH.prefab
+- Assets/Nomai Ruins/Prefabs/Giant Tree Ring.prefab
+- Assets/HN2/Meshes/Lamp.fbx
+- Assets/HN2/Meshes/LakeShrineIcon.fbx
+- Assets/Owlk Ruins/Prefabs/Clean/NookTableFull_IP.prefab
+- Assets/HN2/Prefab/Library/BookcaseLong.prefab
+- Assets/Owlk Ruins/Prefabs/Rotted/plants/Tree_RW_M_Straight_Var.prefab
+- Assets/HN2/Meshes/WeightBench.fbx
+- Assets/Nomai Ruins/Prefabs/CeilingLamp.prefab
+- Assets/HN2/Prefab/ChairFoxle.prefab
+- Assets/HN2/Prefab/Library/BookGreen.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Props_IP_Jug.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Prefab_IP_Chair.prefab
+- Assets/HN2/Meshes/DiscoBall.fbx
+- Assets/Nomai Ruins/Prefabs/Wall.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Prop_IP_Rug_Long_B_2M.prefab
+- Assets/HN2/Prefab/Library/BookcaseShort.prefab
+- Assets/Owlk Ruins/Prefabs/Rotted/plants/GroundFoliage_RW_ShortGrass2.prefab
+- Assets/HN2/Meshes/ChairFoxle.fbx
+- Assets/Nomai Ruins/Prefabs/Interior_Corner_Column.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/plants/GroundFoliage_DW_TallGrassOrchid.prefab
+- Assets/HN2/Meshes/Weight.fbx
+- Assets/HN2/Prefab/DiscoBall.prefab
+- Assets/HN2/Prefab/Device.prefab
+- Assets/Owlk Ruins/meshes/OwlkKitUnbatching.fbx
+- Assets/HN2/Prefab/Library/BookBlue.prefab
+- Assets/HN2/Prefab/ChairHearthian.prefab
+- Assets/Nomai Ruins/Prefabs/Table.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Props_IP_Goblet.prefab
+- Assets/Nomai Ruins/Prefabs/Stairs_R.prefab
+- Assets/HN2/Prefab/Library/BookRed.prefab
+- Assets/HN2/Meshes/ChairPiscen.fbx
+- Assets/Owlk Ruins/Prefabs/Clean/Prop_IP_Rug_Round_6M.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Prefab_GhostBed_IP.prefab
+- Assets/Nomai Ruins/Prefabs/Staff.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Props_IP_Crate_Sealed.prefab
+- Assets/Nomai Ruins/Prefabs/Chair.prefab
+- Assets/Owlk Ruins/Prefabs/Clean/Prop_IP_Rug_Long_C_4M.prefab
+- Assets/HN2/Meshes/Bookcases.fbx
+Dependencies:
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/animations
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/misc
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/music
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/text
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/textures-original
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/texturesow-a
