@@ -76,6 +76,11 @@
         "$HN2LibrarySecret9": "MAGISTER: Oh, Vultos, I suppose I was unclear. While it will take us out there, we will be in a state where we do not need such protection. No clothing will be needed, though if I am reading this right, a thin layer of clothes should still work fine.",
         "$HN2LibrarySecret10": "VULTOS: Hmm, yes, of course. I'll make sure to set the Device so that it doesn't even try to fire if you are wearing too much for it.",
 
+        "$HN2LibraryLamp1": "ROJA: Lamp. Lamp. Lamp. Lamp. Lamp.",
+        "$HN2LibraryLamp2": "VULTOS: AH! Roja! This is supposed to be my secret spot!",
+        "$HN2LibraryLamp3": "VULTOS: ...are you...hypnotized?",
+        "$HN2LibraryLamp4": "VULTOS: ...moths are <![CDATA[<i>weird</i>]]>.",
+
         // Camp Room
         "$HN2Camp1": "VULTOS: Well, it seems that campfires are a constant of the universe.",
         "$HN2Camp2": "QUARTZ: You sure it's ok for me to set one up in here?",
@@ -219,6 +224,90 @@
         "$HN2Poem6": "<![CDATA[<color=#FF8B00>To roast marshmallows, that friendship around a campfire may never end.</color>]]>",
         "$HN2Poem7": "To save the memory of a universe, that it may not die.",
 
+        // ENDING DIALOGUES
+        "$HN2EndMIntro1": "...",
+        "$HN2EndMIntro1A": "Who are you?",
+        "$HN2EndMIntro1B": "Where are we?",
+        "$HN2EndMIntro2": "Welcome to the Outer Planes, young one, the void beyond the Wilds. I am the Magister, the one who set this all in motion.",
+        "$HN2EndMIntro3": "You have joined us in a state that is not quite physical, in a space that is not quite in this universe. You still have some of your physical conciousness left, so you are unable to see what this place truly looks like quite yet; however, we can now finally communicate.",
+
+        "$HN2EndMHubA": "Why did you do this?",
+        "$HN2EndMHubB": "What have you found here?", // unused
+        "$HN2EndMHubC": "What's with all the cubes?", // unused
+        "$HN2EndMHubD": "Can I enter that room behind the big door in the Grand Chamber?",
+        "$HN2EndMHubLeave": "What happens now?",
+
+        "$HN2EndMWhy1": "I am an entity millions, if not billions, of years old. I have powers and knowledge beyond your comprehension. I have a vessel that responds to my every whim, even modifying its shape to be whatever I wanted. But, why?",
+        "$HN2EndMWhy2": "I do not know where I come from. I know I was created, but I do not know who created me. I had hypothesized that whoever they were, they were not of this universe. I began to come up with an idea for a device that would allow me to ascend beyond this universe, but my attempts and ideas went nowhere. I eventually gave up.",
+        "$HN2EndMWhy3": "But then...I discovered the mortality of this universe. The idea that it had to end.",
+        "$HN2EndMWhy4": "But I rejected that idea. Surely it was a lie.",
+        "$HN2EndMWhy5": "I realized that I wanted to defy that lie. I wanted to preserve the life in this universe, by any means neccessary. To that end, I revisited the idea of the Device. I was not powerful enough to stop the stars themselves from dying, but I could perhaps take at least a few people with me who did not mind the concept of surfing the unknown for eternity.",
+        "$HN2EndMWhy6": "And then, as I began to recruit people to help build the Device, this common goal began to take shape. I began to suspect my purpose was perhaps to build a community here, and as people joined us, I had more ideas about how to construct the Device.",
+        "$HN2EndMWhy7": "Finally, after seven of us had gathered, all from different backgrounds and time periods, we had everything we needed, and the Device was finished. I left it on, so that others interested could follow if they wished. Although, in my haste to finally ascend, I seem to have made some mistakes and did not properly prepare my vessel for foreign visitors. I apologize for making your journey more difficult than intended.",
+
+        "$HN2EndMDoor1": "Sure, if you think your mind can withstand the horrors within. You shall find the door gone on your next loop.",
+        "$HN2EndMDoor2": "Just, one question, do you like spiders?",
+        "$HN2EndMDoorA": "I like them!",
+        "$HN2EndMDoorB": "They're terrifying!",
+        "$HN2EndMDoor3A": "All right, then you should be fine.",
+        "$HN2EndMDoor3B": "I see. Do not worry then.",
+
+        "$HN2EndMFind1": "I have not found my creators. But, I have been able to see beyond...I have seen other worlds, other universes, other realities.",
+        "$HN2EndMFind2": "I saw you.",
+        "$HN2EndMFind3": "I am unsure whether they actually were you, or other versions of you, but I saw you, exploring other worlds, other realities.",
+        "$HN2EndMFind4": "You saw a solar neighborhood. You visited medleys of planets. You survived an alien incursion. You shared a vision.",
+        "$HN2EndMFind5": "You went on a quest to find a banjo. You were stalked in your dreams. You explored the surface of Dark Bramble and found a Friend. You discovered an ancient codec.",
+        "$HN2EndMFind6": "These realities moved like clockwork, in mysterious layers. Worlds were bigger on the inside, and hidden in plain sight.",
+        "$HN2EndMFind7": "But then...then I looked beyond. I saw strange creatures. Beings beyond any of these realities. Close, I saw a dragon, a shoe, a Hearthian in Nomai clothes, a...power button, and some pink puffball.",
+        "$HN2EndMFind8": "Further, there were more. A cow, a rock, a nebula, a Canadian, a fox, some turtles, a three-eyed cat, and many more. They seem to be a...community of their own. I began to suspect that these individuals were the creators of these realities. Perhaps even...my creators.",
+        "$HN2EndMFind9": "And then, I realized, they had already done what I wanted. They had subverted the lie. This universe indeed did not have to truly end, and they were repsonsible.",
+        "$HN2EndMFind10": "In the end, was my desire simply their desire? To contribute to increasing the lifespan of this universe?",
+        "$HN2EndMFind11": "If so, then I am glad to have served my purpose, and I am thankful to you for being their avatar.",
+        "$HN2EndMFind12": "And to these beings, if they can hear me, thank you.",
+        "$HN2EndMFind13": "I know that, truly, the lie will eventually become true. One will explore the Wilds for the final time, and the vortex will have the last laugh. But, it is because of you that this ending does not have to happen now.",
+        "$HN2EndMFind14": "As for you, young hatchling, all will be clear to you soon, after your physical form has fully dissolved into the void. However, your connection to the time loop depends on this physical consciousness, so anything you wish to do that you wish to remember, you should do now.",
+        "$HN2EndMFind15": "When you are ready to ascend with us, enter the red shape below where you entered here.",
+
+        // Vultos
+        "$HN2EndF1": "Hello. It has been a long time since I met someone with your curiosity.",
+        "$HN2EndF2": "Tell me, how does it feel to know the survival of your race hanges on your shoulders?",
+        "$HN2EndFA": "It's not easy. I shouldn't have to make that kind of decision.",
+        "$HN2EndFB": "I've come to accept it.",
+        "$HN2EndFA1": "I understand. I have lived with regret ever since...that day, and I do not know if I made the correct decision. But, I cannot imagine what it must be like to be perpetually stuck in a position where you must make that decision.",
+        "$HN2EndFB1": "I am glad to hear that. I hope that you do not end up regretting your decision. I have lived with regret ever since...that day.",
+        "$HN2EndFHNA": "You are the one who was in that escape pod I found on Timber Hearth, aren't you?",
+        "$HN2EndFHNB": "What is your regret?",
+        "$HN2EndFHNA1": "Ah, yes, you visited my homeland. You saw how my kind destroyed themselves over petty arguments.",
+        "$HN2EndFHNA2": "I happened to be awake when the Red Clan invaded. We were all supposed to be in cryo-pods during transit, but I snuck out.",
+        "$HN2EndFHNA3": "When they came, I rushed to the Escape Pods, and without even thinking of trying to save anyone else, I just launched the pod. Through some miracle, the pod managed to survive long enough to reach your world.",
+        "$HN2EndFHNA4": "Not a day goes by that I wonder if I made the correct decision. I feel like I should have tried to save some others, but if I had, then there is a good chance no one would have survived.",
+        "$HN2EndFHNA5": "Do not live with regret. It consumes you. I only got through it because of my friends. Never forget those who have brought you this far.",
+        "$HN2EndFHNB1": "In short, I made a choice to save myself, but that choice may have prevented any others from being saved.",
+
+        "$HN2EndO1": "Greetings. Do not fear. The unknown is scary, but beautiful.",
+        "$HN2EndO2": "I wish my race had maintained their curiosity like you, but in the end, they let their fear take over, and fear became hate.",
+        "$HN2EndO3": "But your curiosity, it is a wonderful thing. Never stop exploring.",
+
+        "$HN2EndP1": "Aye. If we were still corporial, I'd put you through a workout, you're a twig!",
+        "$HN2EndP2": "But, yer smart. You managed ta get all the way here. You'll do fine.",
+        "$HN2EndP3": "Also, ya really need ta invent chocolate. You're missing out.",
+
+        "$HN2EndN1": "Greetings. I am Lily. I am Nomai, but you already knew all that.",
+        "$HN2EndN2": "I do not know whether to envy you. You are potentially the ultimate explorer. You can explore anywhere without fear of consquence and death.",
+        "$HN2EndN3": "Yet, you are also unable to truly share your discoveries. Anything you learn will be forgotten in minutes.",
+        "$HN2EndN4": "To explore, and share our discoveries, that is the goal of the Nomai. It is why we became nomads in the first place.",
+
+        "$HN2EndR1": "Hiiiiii! I like your flashlight. I am so glad zat in zis state, I can see you in full color!",
+        "$HN2EndR2": "I hope you liked the art and and plants. I tried very hard to make them look good.",
+        "$HN2EndR3": "Oh, perhaps I can see you paint later? I'd love to be your friend.",
+
+        "$HN2EndH1": "Hey hatchling! Pull up a marshmallow stick!",
+        "$HN2EndH2": "Well, we'll have time to roast marshmallows again later. How is the village doing?",
+        "$HN2EndHA": "We went to space!",
+        "$HN2EndH3": "Really? Every Hearthian's dream to explore the Outer Wilds, it finally came true?",
+        "$HN2EndHB": "Yep! Hornfels, Feldspar, Gossan, Esker, and Slate founded Outer Wilds Ventures, a space program, and we've been exploring ever since.",
+        "$HN2EndH4": "Ah, I know those names! They were only little hatchlings when I left. I'm glad to see they grew up into such fine Hearthians. And you! You're following in their footsteps! I am so happy to see our legacy continue.",
+
         // NOMAI TEXT ------------------------------
         // Entrance wall
         "$HN2EntranceWall1": "LILY: Well... I'm here, it seems. The \"Magister\" invited me here; let's see if he's as cordial as his invitation.",
@@ -257,15 +346,62 @@
 
     },
     "ShipLogDictionary": {
+        "$HN2LogNameIntro": "The Magistarium",
+        "$HN2LogIntroRumor": "My ship has received the coordinates of a mysterious vessel above the Solar System called the \"Magistarium\".",
+        "$HN2LogIntro1": "I found a ship above the Solar System called the Magistarium. It has a hatch I can access on one side.",
+        "$HN2LogIntro2": "Oxygen is leaking out of the Magistarium.",
+        "$HN2LogIntro3": "The hatch can be controlled from within the Magister's room.",
+        "$HN2LogIntro4": "The ship's power weakens over time.",
+        "$HN2LogIntro5": "Near the end of the loop, the ship runs on emergency power and the on-board lights turn red.",
+        "$HN2LogIntro6": "Right before the loop ends, the power in the ship completely dies.",
 
+        "$HN2LogGrandChamberName": "Grand Chamber",
+        "$HN2LogGrandChamber1": "The center of the Magistarium contains a massive chamber that appears to be a hub to several rooms.",
+        "$HN2LogGrandChamber2": "I found a book in a room with a campfire.",
+
+        "$HN2LogEndName": "The Outer Planes",
+        "$HN2LogEndNameRumor": "The Device",
+        "$HN2LogEndRumorChamber": "In the center of the Grand Chamber is some kind of device. The device is surrounded with text in various languages, including Nomai and Hearthian.",
+        "$HN2LogEndRumorLibrary": "The device will not fire if someone on the platform is wearing too much. Thick protection, such as a spacesuit, needs to be removed before standing on the platform.",
+        "$HN2LogEndRumorEngine": "The device requires that the user hold a battery. Spare batteries can be found in one of the dormitories.",
+        "$HN2LogEndRumorMagi": "I found controls for the hatch. Air is no longer flowing away from the Device.",
+        "$HN2LogEnd1": "I managed to make the Device fire.",
+        "$HN2LogEnd2": "I met the Magister! He and the others who were on the ship decided to warp to another plane of existence with the Device in an attempt to preserve the memory of the universe and explore the unknown beyond this one.",
+        "$HN2LogEnd3": "The Magister figured out who his creators might be, and wanted to thank them for extending the lifespan of this universe.",
+
+        "$HN2LogLibraryName": "Library",
+        "$HN2LogLibrary1": "The top floor of the Magistarium is dedicated to a massive library.",
+        "$HN2LogLibrary2": "There is a reading room in the Library that is closed off. Access is denied until the overdue books scattered across the ship are returned to a returns table by the reading room door.",
+        "$HN2LogLibrary3": "I found a book on top of the artificial sun above the library.",
+        "$HN2LogLibrary4": "One of the ship's inhabitants, Roja, is colorblind, and only able to see the world in various shades of red.",
+        "$HN2LogLibrary5": "Roja mentioned that she wondered what kind of secrets others might hide in their paintings.",
+
+        "$HN2LogEngineName": "Engine Room",
+        "$HN2LogEngineRumorName": "Power Source",
+        "$HN2LogEngine1": "The bottom floor seems to contain some kind of engine room or generator. Lethal amounts of electricity are leaking from the machines. There is some kind of pedistal and a Memory Cube in the middle of the room.",
+        "$HN2LogEngine2": "The engines do not have any form of breaker to cut off power to the room.",
+
+        "$HN2LogDormsName": "Dormitories",
+        "$HN2LogDorms1": "There is a long hall with a several rooms connected to it. Each room appears to belong to a different culture.",
+        "$HN2LogDorms2": "I found a book on top of a bookcase in the first dorm.",
+        "$HN2LogDorms3": "One of the dorms includes a bunch of strange artifacts.",
+        "$HN2LogDorms4": "The Magister's room at the end of the hall is sealed off.",
+        "$HN2LogDorms5": "One of the rooms is full of paintings of various colors.",
+
+        "$HN2LogMagiName": "Magister's Room",
+        "$HN2LogMagi1": "I found a hidden vent that lead to the Magister's room.",
+        "$HN2LogMagi2": "The Magister invited many people from various races to live on his ship to build the Device. He built an Immortality Crystal to allow them to live long beyond their lifespan."
     },
     "UIDictionary": {
-
+        "$HN2PartyPrompt": "Party"
     },
     "OtherDictionary": {
-        "$HN2TimeStateLowGrav": "MAGISTRATION NOTIFICATION: POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS, INCLUDING GRAVITY.",
-        "$HN2TimeStateNoGrav": "MAGISTRATION NOTIFICATION: POWER VERY LOW. CUTTING POWER TO GRAVITY",
-        "$HN2TimeStateRedLights": "MAGISTRATION NOTIFICATION: EMERGENCY POWER ONLY. OXYGEN PRODUCTION OFFLINE. RESERVE OXYGEN WILL DEPLETE IN THREE MINUTES.",
-        "$HN2TimeStateDead": "MAGISTRATION NOTIFICATION: POWER DEPLETED,  SHUTTING DOWN..."
+        "$HN2TimeStateLowGrav": "MAGISTARIUM NOTIFICATION: POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS.",
+        "$HN2TimeStateNoGrav": "MAGISTARIUM NOTIFICATION: POWER VERY LOW. CUTTING POWER TO GRAVITY",
+        "$HN2TimeStateRedLights": "MAGISTARIUM NOTIFICATION: EMERGENCY POWER ONLY. OXYGEN PRODUCTION OFFLINE. RESERVE OXYGEN WILL DEPLETE IN THREE MINUTES.",
+        "$HN2TimeStateDead": "MAGISTARIUM NOTIFICATION: POWER DEPLETED,  SHUTTING DOWN...",
+
+        "$HN2ItemBook": "Book",
+        "$HN2ItemArtifact": "Artifact"
     }
 }

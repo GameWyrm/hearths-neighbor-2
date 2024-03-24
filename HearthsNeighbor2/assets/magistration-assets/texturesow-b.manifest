@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4256325340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c748716b62f908d00bb63fe0d39e6e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_PaintRed_d.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_PaintOrange_n.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_CopperOld_n.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_WovenGrooves_s.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_Spiral_Red_d.png
+- Assets/Materials/environment/invisiblePlanet/architecture/dreamWorldOnly/Structure_DW_Iron_s.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_PaintOrange_s.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_CopperOld_d.png
+- Assets/OW Assets/Texture2D/Effects_PlayerHologram_n.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_CopperOld_s.png
+- Assets/Texture2D/Structure_IP_Iron_s.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_Spiral_White_n.png
+- Assets/Nomai Ruins/Resources/Materials/Structure_NOM_Spiral_n.png
+Dependencies: []

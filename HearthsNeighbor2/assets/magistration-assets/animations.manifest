@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 377986086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5dadda2391d53b0e6e89ce526afb9167
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 38efa66c3aaeff7b25b83c2ca5409fcf
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HN2/Animation/Device/Device.controller
+- Assets/HN2/Animation/Eye/Eye.controller
+- Assets/HN2/Animation/Hatch/Open.anim
+- Assets/HN2/Animation/Hatch/Transition.anim
+- Assets/HN2/Animation/Eye/Opening.anim
+- Assets/HN2/Animation/Hatch/Closed.anim
+- Assets/HN2/Animation/MemoryCube/MemoryCube.controller
+- Assets/HN2/Animation/MemoryCube/rotate.anim
+- Assets/Cubemap/Effects_IP_SimulationRefractions.png
+- Assets/HN2/Animation/Hatch/Hatch.controller
+- Assets/HN2/Animation/Device/DeviceSpin.anim
+- Assets/HN2/Animation/Eye/Closed.anim
+Dependencies: []

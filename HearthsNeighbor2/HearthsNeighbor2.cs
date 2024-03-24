@@ -16,6 +16,7 @@ namespace HearthsNeighbor2
         public INewHorizons newHorizons;
 
         public bool isInSystem = false;
+        public bool hasBattery = false;
 
         private static HearthsNeighbor2 instance;
         private void Awake()
@@ -44,6 +45,10 @@ namespace HearthsNeighbor2
             newHorizons.GetStarSystemLoadedEvent().AddListener((system) => 
             { 
                 isInSystem = system == "Jam3"; 
+                if (isInSystem)
+                {
+                    hasBattery = false;
+                }
             });
         }
 
