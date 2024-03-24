@@ -49,10 +49,16 @@
     <None Include="assets\magistration-assets\*">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Remove="assets\magistration-assets\*.manifest"/>
+    <None Remove="assets\magistration-assets\*.manifest" />
     <None Include="subtitle.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include="shiplogs\*.*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="shiplogs\" />
   </ItemGroup>
   <Target Name="PostBuild" AfterTargets="PostBuildEvent" Condition="Exists('$(UnityProjectPath)')">
     <ItemGroup>

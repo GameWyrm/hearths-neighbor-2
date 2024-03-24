@@ -1,0 +1,66 @@
+﻿<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+
+  <ID>MAGISTARIUM</ID>
+  <Entry>
+    <ID>HN2_HN</ID>
+    <Name>$HN2LogHNName</Name>
+    <Curiosity>HN2_DEVICE</Curiosity>
+
+    <ExploreFact>
+      <ID>HN2_HN1</ID>
+      <IgnoreMoreToExplore/>
+      <Text>$HN2LogHN1</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_HN2</ID>
+      <IgnoreMoreToExplore/>
+      <Text>$HN2LogHN2</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN2_Intro</ID>
+    <Name>$HN2LogNameIntro</Name>
+    <Curiosity>HN2_DEVICE</Curiosity>
+
+    <RumorFact>
+      <ID>HN2_IntroRumor</ID>
+      <SourceID>HN2_HN</SourceID>
+      <Text>$HN2LogIntroRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN2_Intro1</ID>
+      <Text>$HN2LogIntro1</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_Intro2</ID>
+      <Text>$HN2LogIntro2</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_Intro3</ID>
+      <Text>$HN2LogIntro3</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_Intro4</ID>
+      <Text>$HN2LogIntro4</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_Intro5</ID>
+      <Text>$HN2LogIntro5</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_Intro6</ID>
+      <Text>$HN2LogIntro6</Text>
+    </ExploreFact>
+  </Entry>
+  
+  
+</AstroObjectEntry>

@@ -364,15 +364,37 @@
         "$HN2LogEndRumorChamber": "In the center of the Grand Chamber is some kind of device. The device is surrounded with text in various languages, including Nomai and Hearthian.",
         "$HN2LogEndRumorLibrary": "The device will not fire if someone on the platform is wearing too much. Thick protection, such as a spacesuit, needs to be removed before standing on the platform.",
         "$HN2LogEndRumorEngine": "The device requires that the user hold a battery. Spare batteries can be found in one of the dormitories.",
+        "$HN2LogEndRumorMagi": "I found controls for the hatch. Air is no longer flowing away from the Device.",
         "$HN2LogEnd1": "I managed to make the Device fire.",
-        "$HN2LogEnd2": "I met the Magister! ",
+        "$HN2LogEnd2": "I met the Magister! He and the others who were on the ship decided to warp to another plane of existence with the Device in an attempt to preserve the memory of the universe and explore the unknown beyond this one.",
+        "$HN2LogEnd3": "The Magister figured out who his creators might be, and wanted to thank them for extending the lifespan of this universe.",
 
         "$HN2LogLibraryName": "Library",
         "$HN2LogLibrary1": "The top floor of the Magistarium is dedicated to a massive library.",
         "$HN2LogLibrary2": "There is a reading room in the Library that is closed off. Access is denied until the overdue books scattered across the ship are returned to a returns table by the reading room door.",
         "$HN2LogLibrary3": "I found a book on top of the artificial sun above the library.",
+        "$HN2LogLibrary4": "One of the ship's inhabitants, Roja, is colorblind, and only able to see the world in various shades of red.",
+        "$HN2LogLibrary5": "Roja mentioned that she wondered what kind of secrets others might hide in their paintings.",
 
+        "$HN2LogEngineName": "Engine Room",
+        "$HN2LogEngineRumorName": "Power Source",
+        "$HN2LogEngine1": "The bottom floor seems to contain some kind of engine room or generator. Lethal amounts of electricity are leaking from the machines. There is some kind of pedistal and a Memory Cube in the middle of the room.",
+        "$HN2LogEngine2": "The engines do not have any form of breaker to cut off power to the room.",
 
+        "$HN2LogDormsName": "Dormitories",
+        "$HN2LogDorms1": "There is a long hall with a several rooms connected to it. Each room appears to belong to a different culture.",
+        "$HN2LogDorms2": "I found a book on top of a bookcase in the first dorm.",
+        "$HN2LogDorms3": "One of the dorms includes a bunch of strange artifacts.",
+        "$HN2LogDorms4": "The Magister's room at the end of the hall is sealed off.",
+        "$HN2LogDorms5": "One of the rooms is full of paintings of various colors.",
+
+        "$HN2LogMagiName": "Magister's Room",
+        "$HN2LogMagi1": "I found a hidden vent that lead to the Magister's room.",
+        "$HN2LogMagi2": "The Magister invited many people from various races to live on his ship to build the Device. He built an Immortality Crystal to allow them to live long beyond their lifespan.",
+
+        "$HN2LogHNName": "Hearth's Neighbor",
+        "$HN2LogHN1": "[You should only be seeing this entry if you beat the prequel to this mod, Hearth's Neighbor. Having this entry enables certain dialogue that contains minor spoilers but is unneeded to progress in Magistarium whatsoever.]",
+        "$HN2LogHN2": "After discovering a mysterious alien ship, my own ship received coordinates for a certain system that also happens to neighbor the Outer Wilds. I can get there using my ship's canonical warp drive."
     },
     "UIDictionary": {
         "$HN2PartyPrompt": "Party"

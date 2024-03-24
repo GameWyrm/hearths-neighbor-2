@@ -68,7 +68,7 @@
     "Props": {
         "details": [
             {
-                "assetBundle": "assets/hearthsneighbor2",
+                "assetBundle": "assets/magistration",
                 "path": "assets/hn2/prefab/magistration.prefab",
                 "position": {
                     "x": 0,
