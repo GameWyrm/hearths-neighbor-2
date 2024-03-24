@@ -9,7 +9,10 @@
       <Page>$HN2Warning1</Page>
       <Page>$HN2Warning2</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN2_Intro2</FactID>
+      <FactID>HN2_MG_Rumor</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>

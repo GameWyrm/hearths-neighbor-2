@@ -12,7 +12,9 @@
       <Page>$HN2LibraryRR4</Page>
       <Page>$HN2LibraryRR5</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN2_LB2</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>

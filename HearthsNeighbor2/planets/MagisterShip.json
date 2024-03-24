@@ -19,6 +19,116 @@
             {
                 "radius": 139.6
             }
+        ],
+        "revealVolumes": [
+            {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "radius": 200,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_Intro1"
+                ]
+            },
+            {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 106
+                },
+                "radius": 23,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_GC_Rumor"
+                ]
+            },
+            {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "radius": 45,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_GC1"
+                ]
+            },
+            {
+                "position": {
+                    "x": -3.74,
+                    "y": 51.04,
+                    "z": -58.56
+                },
+                "radius": 7,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_LB1"
+                ]
+            },
+            {
+                "position": {
+                    "x": 4.21,
+                    "y": -38.26,
+                    "z": -46.94
+                },
+                "radius": 7,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_EG1"
+                ]
+            },
+            {
+                "position": {
+                    "x": -44.61,
+                    "y": 6.59,
+                    "z": -63.02
+                },
+                "radius": 7,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_DM1"
+                ]
+            },
+            {
+                "position": {
+                    "x": -88.06,
+                    "y": 3.16,
+                    "z": -39.62
+                },
+                "radius": 7,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_DM3"
+                ]
+            },
+            {
+                "position": {
+                    "x": -95.57,
+                    "y": 3.16,
+                    "z": 11.31
+                },
+                "radius": 7,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_DM5"
+                ]
+            },
+            {
+                "position": {
+                    "x": -86.21,
+                    "y": 14.36,
+                    "z": 73.95
+                },
+                "radius": 3.6,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_MG1"
+                ]
+            }
         ]
     },
     "AmbientLights": [
@@ -32,39 +142,6 @@
             }
         }
     ],
-    "Spawn": {
-        "playerSpawn": {
-            "alignRadial": false,
-            "position": {
-                "x": 0,
-                "y": 4,
-                "z": 125
-            },
-            "rotation": {
-                "x": 0,
-                "y": 180,
-                "z": 0
-            },
-            "offset": {
-                "x": 0,
-                "y": 0,
-                "z": 0
-            }
-        },
-        "shipSpawn": {
-            "alignRadial": false,
-            "position": {
-                "x": 0,
-                "y": 4,
-                "z": 125
-            },
-            "rotation": {
-                "x": 0,
-                "y": 180,
-                "z": 0
-            }
-        }
-    },
     "ShipLog": {
         "xmlFile": "shiplogs/MagisterShip.xml",
         "mapMode": {

@@ -17,7 +17,9 @@
       <Page>$HN2EngineBattery9</Page>
       <Page>$HN2EngineBattery10</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN2_Device_RumorEngine</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>

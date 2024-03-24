@@ -14,7 +14,9 @@
       <Page>$HN2EngineEntrance6</Page>
       <Page>$HN2EngineEntrance7</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN2_EG2</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>

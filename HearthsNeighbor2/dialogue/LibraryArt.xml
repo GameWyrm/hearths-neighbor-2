@@ -13,7 +13,10 @@
       <Page>$HN2LibraryArt5</Page>
       <Page>$HN2LibraryArt6</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN2_LB4</FactID>
+      <FactID>HN2_LB5</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>

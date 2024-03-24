@@ -119,6 +119,10 @@
       <Page>$HN2EndMFind14</Page>
       <Page>$HN2EndMFind15</Page>
     </Dialogue>
+    <RevealFacts>
+      <FactID>HN2_Device2</FactID>
+      <FactID>HN2_Device3</FactID>
+    </RevealFacts>
     <SetCondition>HN2_ENDMAGISTER</SetCondition>
   </DialogueNode>
 

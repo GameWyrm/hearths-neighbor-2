@@ -10,6 +10,7 @@ namespace HearthsNeighbor2
     public class BookItem : OWItem
     {
         public BookReceiver receiver;
+        public string factReveal;
 
         private bool isReturned = false;
         private INewHorizons nh;
@@ -40,6 +41,7 @@ namespace HearthsNeighbor2
         {
             base.PickUpItem(holdTranform);
             transform.localScale = Vector3.one * 0.4f;
+            Locator.GetShipLogManager().RevealFact(factReveal);
         }
     }
 }

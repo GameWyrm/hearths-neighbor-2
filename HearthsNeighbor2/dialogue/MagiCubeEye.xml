@@ -11,7 +11,9 @@
       <Page>$HN2MagiEye3</Page>
       <Page>$HN2MagiEye4</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN2_MG3</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>

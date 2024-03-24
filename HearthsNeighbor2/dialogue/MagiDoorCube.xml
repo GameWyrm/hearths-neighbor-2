@@ -8,7 +8,9 @@
     <Dialogue>
       <Page>$HN2MagiDoor1</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN2_DM4</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>

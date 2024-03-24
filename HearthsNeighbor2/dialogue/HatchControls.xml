@@ -8,7 +8,9 @@
     <Dialogue>
       <Page>$HN2HatchControls</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN2_Device_RumorMagi</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>

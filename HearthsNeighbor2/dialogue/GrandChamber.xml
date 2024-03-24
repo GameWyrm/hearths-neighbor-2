@@ -15,7 +15,9 @@
       <Page>$HN2Chamber7</Page>
       <Page>$HN2Chamber8</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN2_Device_RumorChamber</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>

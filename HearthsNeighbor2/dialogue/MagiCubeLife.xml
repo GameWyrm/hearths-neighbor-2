@@ -10,7 +10,9 @@
       <Page>$HN2MagiLife2</Page>
       <Page>$HN2MagiLife3</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN2_MG2</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>
