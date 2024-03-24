@@ -365,12 +365,15 @@
         "$HN2LogEndRumorLibrary": "The device will not fire if someone on the platform is wearing too much. Thick protection, such as a spacesuit, needs to be removed before standing on the platform.",
         "$HN2LogEndRumorEngine": "The device requires that the user hold a battery. Spare batteries can be found in one of the dormitories.",
         "$HN2LogEnd1": "I managed to make the Device fire.",
-        "$HN2LogEnd2": "I met the Magister! ",
+        "$HN2LogEnd2": "I met the Magister! He and the others who were on the ship decided to warp to another plane of existence with the Device in an attempt to preserve the memory of the universe and explore the unknown beyond this one.",
+        "$HN2LogEnd3": "The Magister figured out who his creators might be, and wanted to thank them for extending the lifespan of this universe.",
 
         "$HN2LogLibraryName": "Library",
         "$HN2LogLibrary1": "The top floor of the Magistarium is dedicated to a massive library.",
         "$HN2LogLibrary2": "There is a reading room in the Library that is closed off. Access is denied until the overdue books scattered across the ship are returned to a returns table by the reading room door.",
         "$HN2LogLibrary3": "I found a book on top of the artificial sun above the library.",
+
+        "$HN2LogEngineName": "Engine Room"
 
 
     },
