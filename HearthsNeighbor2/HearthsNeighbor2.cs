@@ -1,5 +1,7 @@
 ﻿using OWML.Common;
 using OWML.ModHelper;
+using System.Collections;
+using UnityEngine;
 
 namespace HearthsNeighbor2
 {
@@ -47,11 +49,23 @@ namespace HearthsNeighbor2
                 isInSystem = system == "Jam3"; 
                 if (isInSystem)
                 {
+                    if (PlayerData.GetShipLogFactSave("HN_POD_RESOLUTION") != null)
+                    {
+                        StartCoroutine(RegisterConnectionLog());
+                    }
+
                     hasBattery = false;
                 }
             });
         }
 
+        IEnumerator RegisterConnectionLog()
+        {
+            yield return new WaitForEndOfFrame();
+            ShipLogManager manager = GameObject.FindObjectOfType<ShipLogManager>();
+            manager.RevealFact("HN2_HN1");
+            manager.RevealFact("HN2_HN2");
+        }
     }
 
 }

@@ -88,7 +88,12 @@ namespace HearthsNeighbor2
                     if (time >= lowGravTime)
                     {
                         gravity.SetFieldMagnitude(8);
-                        if (playerNear) NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateLowGrav"), 15));
+                        if (time >= noGravTime && playerNear)
+                        {
+                            NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateLowGrav"), 15));
+                            Locator.GetShipLogManager().RevealFact("HN2_EG_Rumor");
+                            Locator.GetShipLogManager().RevealFact("HN2_Intro3");
+                        }
 
                         foreach (Material mat in magistrationRenderer.sharedMaterials)
                         {
@@ -107,7 +112,12 @@ namespace HearthsNeighbor2
                     if (time >= noGravTime)
                     {
                         gravity.gameObject.SetActive(false);
-                        if (playerNear) NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateNoGrav"), 15)); 
+                        if (time >= redLightTime && playerNear)
+                        {
+                            NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateNoGrav"), 15));
+                            Locator.GetShipLogManager().RevealFact("HN2_EG_Rumor");
+                            Locator.GetShipLogManager().RevealFact("HN2_Intro3");
+                        }
                         foreach (Material mat in magistrationRenderer.sharedMaterials)
                         {
                             if (mat.name.Contains("MagistrationFloor"))
@@ -127,7 +137,12 @@ namespace HearthsNeighbor2
                             light.color = Color.red;
                         }
                         lampMaterial.color = Color.red;
-                        if (playerNear) NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateRedLights"), 15));
+                        if (time >= redLightTime && playerNear)
+                        {
+                            NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateRedLights"), 15));
+                            Locator.GetShipLogManager().RevealFact("HN2_EG_Rumor");
+                            Locator.GetShipLogManager().RevealFact("HN2_Intro4");
+                        }
                         timeState = TimeState.RedLights;
                     }
                     break;
@@ -141,7 +156,12 @@ namespace HearthsNeighbor2
                         lampMaterial.color = Color.black;
                         oxygen.SetActive(false);
                         deviceAudio.Stop();
-                        if (playerNear) NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateDead"), 15));
+                        if (playerNear)
+                        {
+                            NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateDead"), 15));
+                            Locator.GetShipLogManager().RevealFact("HN2_EG_Rumor");
+                            Locator.GetShipLogManager().RevealFact("HN2_Intro5");
+                        }
                         electricity.SetActive(false);
                         timeState = TimeState.Dead;
                     }

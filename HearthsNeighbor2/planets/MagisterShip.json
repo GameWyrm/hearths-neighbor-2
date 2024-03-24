@@ -65,6 +65,13 @@
             }
         }
     },
+    "ShipLog": {
+        "xmlFile": "shiplogs/MagisterShip.xml",
+        "mapMode": {
+            "revealedSprite": "planets/magistarium.png"
+        },
+        "spriteFolder": "shiplogs"
+    },
     "Props": {
         "details": [
             {

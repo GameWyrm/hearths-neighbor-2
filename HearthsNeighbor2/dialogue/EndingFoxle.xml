@@ -45,7 +45,7 @@
     </Dialogue>
     <DialogueOptionsList>
       <DialogueOption>
-        <RequiredLogCondition>HN_POD_RESOLUTION</RequiredLogCondition>
+        <RequiredLogCondition>HN2_HN1</RequiredLogCondition>
         <Text>$HN2EndFHNA</Text>
         <DialogueTarget>RegretA</DialogueTarget>
       </DialogueOption>
@@ -65,7 +65,7 @@
       <Page>$HN2EndFHNA4</Page>
       <Page>$HN2EndFHNA5</Page>
     </Dialogue>
-    <DialogueTargetShipLogCondition>HN_POD_RESOLUTION</DialogueTargetShipLogCondition>
+    <DialogueTargetShipLogCondition>HN2_HN1</DialogueTargetShipLogCondition>
   </DialogueNode>
 
   <DialogueNode>

@@ -2,6 +2,7 @@
                   xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
 
   <ID>MAGISTARIUM</ID>
+  <!--Device-->
   <Entry>
     <ID>HN2_DEVICE</ID>
     <Name>$HN2LogEndName</Name>
@@ -10,28 +11,28 @@
 
     <RumorFact>
       <ID>HN2_Device_RumorChamber</ID>
-      <!--<SourceID></SourceID>-->
+      <SourceID>HN2_GC</SourceID>
       <RumorName>$HN2LogEndNameRumor</RumorName>
       <Text>$HN2LogEndRumorChamber</Text>
     </RumorFact>
 
     <RumorFact>
       <ID>HN2_Device_RumorLibrary</ID>
-      <!--<SourceID></SourceID>-->
+      <SourceID>HN2_LB</SourceID>
       <RumorName>$HN2LogEndNameRumor</RumorName>
       <Text>$HN2LogEndRumorLibrary</Text>
     </RumorFact>
 
     <RumorFact>
       <ID>HN2_Device_RumorEngine</ID>
-      <!--<SourceID></SourceID>-->
+      <SourceID>HN2_EG</SourceID>
       <RumorName>$HN2LogEndNameRumor</RumorName>
       <Text>$HN2LogEndRumorEngine</Text>
     </RumorFact>
 
     <RumorFact>
       <ID>HN2_Device_RumorMagi</ID>
-      <!--<SourceID></SourceID>-->
+      <SourceID>HN2_MG</SourceID>
       <RumorName>$HN2LogEndNameRumor</RumorName>
       <Text>$HN2LogEndRumorMagi</Text>
     </RumorFact>
@@ -52,6 +53,7 @@
     </ExploreFact>
   </Entry>
   
+  <!--Hearth's Neighbor-->
   <Entry>
     <ID>HN2_HN</ID>
     <Name>$HN2LogHNName</Name>
@@ -70,6 +72,7 @@
     </ExploreFact>
   </Entry>
 
+  <!--Intro-->
   <Entry>
     <ID>HN2_Intro</ID>
     <Name>$HN2LogNameIntro</Name>
@@ -107,6 +110,7 @@
     </ExploreFact>
   </Entry>
 
+  <!--Grand Chamber-->
   <Entry>
     <ID>HN2_GC</ID>
     <Name>$HN2LogGrandChamberName</Name>
@@ -129,6 +133,7 @@
     </ExploreFact>
   </Entry>
 
+  <!--Library-->
   <Entry>
     <ID>HN2_LB</ID>
     <Name>$HN2LogLibraryName</Name>
@@ -160,6 +165,7 @@
     </ExploreFact>
   </Entry>
 
+  <!--Engine Room-->
   <Entry>
     <ID>HN2_EG</ID>
     <Name>$HN2LogEngineName</Name>
@@ -167,6 +173,7 @@
 
     <RumorFact>
       <ID>HN2_EG_Rumor</ID>
+      <SourceID>HN2_Intro</SourceID>
       <RumorName>$HN2LogEngineRumorName</RumorName>
       <Text>$HN2LogEngineRumor</Text>
     </RumorFact>
@@ -182,6 +189,7 @@
     </ExploreFact>
   </Entry>
 
+  <!--Dormitories-->
   <Entry>
     <ID>HN2_DM</ID>
     <Name>$HN2LogDormsName</Name>
@@ -211,9 +219,8 @@
       <ID>HN2_DM5</ID>
       <Text>$HN2LogDorms5</Text>
     </ExploreFact>
-  </Entry>
-
-  <Entry>
+  
+    <Entry>
     <ID>HN2_MG</ID>
     <Name>$HN2LogMagiName</Name>
     <Curiosity>HN2_DEVICE</Curiosity>
@@ -233,6 +240,12 @@
       <ID>HN2_MG2</ID>
       <Text>$HN2LogMagi2</Text>
     </ExploreFact>
+  
+    <ExploreFact>
+        <ID>HN2_MG3</ID>
+        <Text>$HN2LogMagi3</Text>
+      </ExploreFact>
+    </Entry>
   </Entry>
   
 </AstroObjectEntry>

@@ -208,7 +208,7 @@
         "$HN2MagiHearthian1": "Our deadline approaches. The Device is nearly complete, but we need one more component. I went to visit the vortex again, but on a nearby planet, I caught sight of a local Hearthian who had accidentally launched themself into space via a geyser.",
         "$HN2MagiHearthian2": "They haven't even discovered space flight yet, but...well, I need help. Maybe this one, named Quartz, will provide the last component we need.",
 
-        "$HN2JamSystem": "SYSTEM DESIGNATION: X3NJ-AM3\nPOPULATION: Unknown\nScanning in the immediate system running into interference\nInterference origin: The sheer amount of communities that have once called this system their home\nInterference also provides ideal environment for firing of the Device! Interdimensional barriers strained!",
+        "$HN2JamSystem": "SYSTEM DESIGNATION: X3NJ-AM3\nCURRENT LOCATION!\nPOPULATION: Unknown\nScanning in the immediate system running into interference\nInterference origin: The sheer amount of communities that have once called this system their home\nInterference also provides ideal environment for firing of the Device! Interdimensional barriers strained!",
         "$HN2OWSystem": "SYSTEM DESIGNATION: Outer Wilds\nPOPULATION: 22.16\nHome of the Hearthians\nWARNING (Ignored): VORTEX SIGNAL NOT DETECTED",
         "$HN2OwlkSystem": "SYSTEM DESIGNATION: J0NC-RB3\nPOPULATION: None\nPreviously held a thriving civilization on a moon, the same moon is now a barren wasteland.",
         "$HN2HNSystem": "SYSTEM DESIGNATION: Hearth's Neighbor\nPOPULATION: None\nExtreme amounts of deadly matter and warped space detected.",
@@ -393,6 +393,7 @@
         "$HN2LogMagiRumor": "The hatch can be controlled from within the Magister's room.",
         "$HN2LogMagi1": "I found a hidden vent that lead to the Magister's room.",
         "$HN2LogMagi2": "The Magister invited many people from various races to live on his ship to build the Device. He built an Immortality Crystal to allow them to live long beyond their lifespan.",
+        "$HN2LogMagi3": "The Magister discovered some kind of vortex that told him about the end of the universe. He did not believe that the universe had to end, and called this the \"Lie of the Universe\".",
 
         "$HN2LogHNName": "Hearth's Neighbor",
         "$HN2LogHN1": "[You should only be seeing this entry if you beat the prequel to this mod, Hearth's Neighbor. Having this entry enables certain dialogue that contains minor spoilers but is unneeded to progress in Magistarium whatsoever.]",
