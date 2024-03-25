@@ -363,7 +363,7 @@
 
         "HN2Ernesto1": "Hey it's me...",
         "HN2Ernesto1A": "Yeah, yeah, yeah, Ernesto the Magic Talking Anglerfish. Don't you guys have any more creative Easter Eggs?",
-        "HN2Ernesto2": ">sad anglerfish noises\<"
+        "HN2Ernesto2": "<![CDATA[<i>sad anglerfish noises</i>]]>"
     },
     "ShipLogDictionary": {
         "$HN2LogNameIntro": "The Magistarium",
