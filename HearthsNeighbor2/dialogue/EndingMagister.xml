@@ -81,6 +81,7 @@
         <DialogueTarget>DoorB</DialogueTarget>
       </DialogueOption>
     </DialogueOptionsList>
+    <SetCondition>HN2_REDUCEDFRIGHT</SetCondition>
     <SetPersistentCondition>HN2_P_HORRORDOOR</SetPersistentCondition>
   </DialogueNode>
 

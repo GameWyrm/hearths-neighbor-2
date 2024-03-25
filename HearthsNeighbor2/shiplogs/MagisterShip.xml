@@ -219,6 +219,26 @@
       <ID>HN2_DM5</ID>
       <Text>$HN2LogDorms5</Text>
     </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_DM6</ID>
+      <Text>$HN2LogDorms6</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_DM7</ID>
+      <Text>$HN2LogDorms7</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_DM8</ID>
+      <Text>$HN2LogDorms8</Text>
+    </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_DM9</ID>
+      <Text>$HN2LogDorms9</Text>
+    </ExploreFact>
   
     <Entry>
     <ID>HN2_MG</ID>

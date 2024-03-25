@@ -29,7 +29,11 @@ namespace HearthsNeighbor2
         private void OnDialogueConditionChanged(string condition, bool state)
         {
             if (condition == "HN2_ENDMAGISTER" && state == true) SetUpFinish();
-            if (condition == "HN2_REDUCEDFRIGHT") PlayerData.SetPersistentCondition("HN2_P_REDUCEDFRIGHT", state);
+            if (condition == "HN2_REDUCEDFRIGHT")
+            {
+                HearthsNeighbor2.Main.ModHelper.Console.WriteLine($"Reduced Fright {(state ? "ENABLED" : "DISABLED")}");
+                PlayerData.SetPersistentCondition("HN2_P_REDUCEDFRIGHT", state);
+            }
         }
 
         // happens after talking to Magister
@@ -37,6 +41,7 @@ namespace HearthsNeighbor2
         {
             foreach (GameObject go in otherNpcs)
             {
+                if (go == null) continue;
                 go.SetActive(true);
                 foreach (Animator anim in go.GetComponentsInChildren<Animator>())
                 {

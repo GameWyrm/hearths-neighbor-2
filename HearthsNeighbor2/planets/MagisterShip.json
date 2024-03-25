@@ -20,6 +20,21 @@
                 "radius": 139.6
             }
         ],
+        "creditsVolume": [
+            {
+                "parentPath": "Sector/Magistration/Sectors/Ending/Volumes/EndingVolume",
+                "radius": 2,
+                "creditsType": "fast",
+                "deathType": "supernova",
+                "gameOverText": "$HN2EndingText",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "isRelativeToParent": true
+            }
+        ],
         "revealVolumes": [
             {
                 "position": {
@@ -115,6 +130,54 @@
                 "revealOn": "enter",
                 "reveals": [
                     "HN2_DM5"
+                ]
+            },
+            {
+                "position": {
+                    "x": -67,
+                    "y": 2,
+                    "z": -65
+                },
+                "radius": 3.5,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_DM6"
+                ]
+            },
+            {
+                "position": {
+                    "x": -85,
+                    "y": 2,
+                    "z": 37
+                },
+                "radius": 3.5,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_DM7"
+                ]
+            },
+            {
+                "position": {
+                    "x": -46,
+                    "y": 2,
+                    "z": -81
+                },
+                "radius": 3.5,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_DM8"
+                ]
+            },
+            {
+                "position": {
+                    "x": -97,
+                    "y": 1.5,
+                    "z": -17.5
+                },
+                "radius": 3.5,
+                "revealOn": "enter",
+                "reveals": [
+                    "HN2_DM9"
                 ]
             },
             {

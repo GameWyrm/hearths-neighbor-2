@@ -266,7 +266,7 @@
         "$HN2EndMFind12": "And to these beings, if they can hear me, thank you.",
         "$HN2EndMFind13": "I know that, truly, the lie will eventually become true. One will explore the Wilds for the final time, and the vortex will have the last laugh. But, it is because of you that this ending does not have to happen now.",
         "$HN2EndMFind14": "As for you, young hatchling, all will be clear to you soon, after your physical form has fully dissolved into the void. However, your connection to the time loop depends on this physical consciousness, so anything you wish to do that you wish to remember, you should do now.",
-        "$HN2EndMFind15": "When you are ready to ascend with us, enter the red shape below where you entered here.",
+        "$HN2EndMFind15": "When you are ready to ascend with us, enter the shape below where you entered here.",
 
         // Vultos
         "$HN2EndF1": "Hello. It has been a long time since I met someone with your curiosity.",
@@ -342,8 +342,28 @@
         "$HN2LibraryWall6": "LILY: One complicated topic at a time, sorry.",
 
         "$HN2LibraryBookcase1": "LILY: I saw Vultos climbing the central pillar once. I'm not quite that athletic, but I'm hoping I can see what is up there from here.",
-        "$HN2LibraryBookcase2": "LILY: He is reading on top of the artificial sun! What does he need that much privacy for?"
+        "$HN2LibraryBookcase2": "LILY: He is reading on top of the artificial sun! What does he need that much privacy for?",
 
+        // Devs
+        "HN2DevGameWyrm1": "Congrats on finishing Magistarium! I hope you enjoyed it. I'm GameWyrm, the team lead who did all the level design, writing, and coding, as well as some of the models.",
+        "HN2DevGameWyrm2": "For this mod, I obviously wanted to close out the story of Hearth's Neighbor (not neighboUr), but I was originally planning to not use very many custom assets. Well, you saw where that went, and I think this mod has even more custom assets than HN1!",
+        "HN2DevGameWyrm3": "Anyway, thanks so much for playing. This mod was made in 11 days for the Outer Wilds 2024 modding jam, where all contestants were challenged to create a single planet within the same system. You should definitely check out the other entries if you haven't already!",
+        "HN2DevGameWyrm4": "Oh, by the way, this room was made pretty early in development, but we had no idea what to do with it, so it was cut and repurposed into the dev room. Because of that, there's nothing in here, so don't bother going to the end of the hall.",
+
+        "HN2DevShoe1": "BOO!!! Did I get you? Grew in size a lot compared to the last jam, real nice to to be in my true form as the Origin Lace Weaver, and if you recognize the color scheme, nice to meet another fan.",
+        "HN2DevShoeAlt1": "Aw man, you had to seal my true form... not truly as ready for the horrors within this room as you promised the magister.",
+        "HN2DevShoe2": "Anyways it was fun to be working with the same-ish team from last time, although I did leave decision making with the rest of the team. Hopes to us winning the March 2024 Jam.",
+        "HN2DevShoe3": "Also for xen i made 21 models for this mod, ripped one or two, and took a few from the past then made 16 models for godot wilds all on time so I was NOT LAZY!!!!!!!!!",
+
+        "HN2DevLuna1": "Hello! Congrats on finishing! I’m Luna, I made most of the textures and concept art for the mod!",
+        "HN2DevLuna2": "This is the first mod jam I’ve participated in, and the first time I’ve contributed to a mod in production. I hope you had just as much fun playing it as I did helping to create it!",
+        "HN2DevLuna3": "Thank you for playing!",
+
+        "HN2DevEndgame1": "PLACEHOLDER",
+
+        "HN2Ernesto1": "Hey it's me...",
+        "HN2Ernesto1A": "Yeah, yeah, yeah, Ernesto the Magic Talking Anglerfish. Don't you guys have any more creative Easter Eggs?",
+        "HN2Ernesto2": ">sad anglerfish noises<"
     },
     "ShipLogDictionary": {
         "$HN2LogNameIntro": "The Magistarium",
@@ -388,6 +408,10 @@
         "$HN2LogDorms3": "One of the dorms includes a bunch of strange artifacts.",
         "$HN2LogDorms4": "The Magister's room at the end of the hall is sealed off.",
         "$HN2LogDorms5": "One of the rooms is full of paintings of various colors.",
+        "$HN2LogDorms6": "One of the rooms is made of wood and its inhabitant is very tall.",
+        "$HN2LogDorms7": "The room at the end appears to be Hearthian! There is some fuel using a design that predates Outer Wilds Ventures.",
+        "$HN2LogDorms8": "The room at the front of the hall is filled with carpet and has a strange symbol on the wall.",
+        "$HN2LogDorms9": "One of the rooms appears Nomai in origin. It's full of Nomai writing and standard Nomai equipment.",
 
         "$HN2LogMagiName": "Magister's Room",
         "$HN2LogMagiRumor": "The hatch can be controlled from within the Magister's room.",
@@ -400,7 +424,8 @@
         "$HN2LogHN2": "After discovering a mysterious alien ship, my own ship received coordinates for a certain system that also happens to neighbor the Outer Wilds. I can get there using my ship's canonical warp drive."
     },
     "UIDictionary": {
-        "$HN2PartyPrompt": "Party"
+        "$HN2PartyPrompt": "Party",
+        "$HN2EndingText": "YOU ASCENDED INTO ANOTHER STATE OF BEING.\nTHANK YOU OUTER WILDS MODDING COMMUNITY."
     },
     "OtherDictionary": {
         "$HN2TimeStateLowGrav": "MAGISTARIUM NOTIFICATION: POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS.",

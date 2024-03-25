@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3299265097
+CRC: 3401126232
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a11389f0f5d0af56f9d3197ebde593b6
+    Hash: 01f6131ef34bfc7cdebb9e951bc83ffb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5d92f9326117607f3dde5ab14fc5c9d9
+    Hash: cfdb298d11b64ad7d1e4dffbb725ea85
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -69,8 +69,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: fbb2498122f7e23a2e87544333cb528f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dab2fbc1d63988697a57c20e75208116, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 204df73272a0e21fb01668cafcf47a13, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b510d252798b94e5d72fb33fbb25a1ad, type: 3}
 - Class: 114
@@ -357,6 +355,7 @@ Assets:
 - Assets/Owlk Ruins/Prefabs/Clean/plants/Tree_DW_S_A.prefab
 - Assets/Owlk Ruins/Prefabs/Clean/plants/GroundFoliage_DW_ShortGrass1.prefab
 - Assets/Nomai Ruins/Resources/Meshes/Structure_NOM_Wall_Geo.asset
+- Assets/HN2/Prefab/ThingRing.prefab
 - Assets/HN2/Prefab/Hammock.prefab
 - Assets/Scenes/DreamWorld/Streamingmeshes_effects/Structure_IP_NookTableFull.asset
 - Assets/Scenes/RingWorld/Streamingmeshes_props/Base.asset

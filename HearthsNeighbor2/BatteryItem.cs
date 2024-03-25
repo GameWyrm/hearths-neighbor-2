@@ -9,6 +9,8 @@ namespace HearthsNeighbor2
 {
     public class BatteryItem : OWItem
     {
+        public bool isAuthentic;
+
         public override string GetDisplayName()
         {
             return HearthsNeighbor2.Main.newHorizons.GetTranslationForOtherText("$HN2ItemArtifact");
@@ -18,14 +20,14 @@ namespace HearthsNeighbor2
         {
             base.PickUpItem(holdTranform);
             transform.localScale = Vector3.one * 0.3f;
-            HearthsNeighbor2.Main.hasBattery = true;
+            if (isAuthentic) HearthsNeighbor2.Main.hasBattery = true;
         }
 
         public override void DropItem(Vector3 position, Vector3 normal, Transform parent, Sector sector, IItemDropTarget customDropTarget)
         {
             base.DropItem(position, normal, parent, sector, customDropTarget);
             transform.localScale = Vector3.one;
-            HearthsNeighbor2.Main.hasBattery = false;
+            if (isAuthentic) HearthsNeighbor2.Main.hasBattery = false;
         }
     }
 }

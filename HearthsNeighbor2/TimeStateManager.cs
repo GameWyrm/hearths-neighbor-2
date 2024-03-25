@@ -23,6 +23,10 @@ namespace HearthsNeighbor2
         public GameObject endingSector;
         public GameObject endBlackHole;
         public GameObject endWhiteHole;
+        public GameObject devDoor;
+        public GameObject devCube;
+        public GameObject laceWeaver;
+        public GameObject shoe;
 
         // time loop properties
         private readonly int lowGravTime = 6;
@@ -70,6 +74,8 @@ namespace HearthsNeighbor2
             endWhiteHole.SetActive(false);
 
             endingSector.SetActive(false);
+
+            if (PlayerData.GetPersistentCondition("HN2_P_HORRORDOOR")) EnableDevRoom(PlayerData.GetPersistentCondition("HN2_P_REDUCEDFRIGHT"));
         }
 
         private void Update()
@@ -172,6 +178,14 @@ namespace HearthsNeighbor2
             {
                 endngPumpMusic.SetActive(true);
             }
+        }
+
+        private void EnableDevRoom(bool reducedFright)
+        {
+            devCube.SetActive(false);
+            devDoor.SetActive(false);
+            laceWeaver.SetActive(!reducedFright);
+            shoe.SetActive(reducedFright);
         }
 
         /// <summary>
