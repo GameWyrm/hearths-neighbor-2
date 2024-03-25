@@ -258,8 +258,8 @@
         "$HN2EndMFind4": "You saw a solar neighborhood. You visited medleys of planets. You survived an alien incursion. You shared a vision.",
         "$HN2EndMFind5": "You went on a quest to find a banjo. You were stalked in your dreams. You explored the surface of Dark Bramble and found a Friend. You discovered an ancient codec.",
         "$HN2EndMFind6": "These realities moved like clockwork, in mysterious layers. Worlds were bigger on the inside, and hidden in plain sight.",
-        "$HN2EndMFind7": "But then...then I looked beyond. I saw strange creatures. Beings beyond any of these realities. Close, I saw a dragon, a shoe, a Hearthian in Nomai clothes, a...power button, and some pink puffball.",
-        "$HN2EndMFind8": "Further, there were more. A cow, a rock, a nebula, a Canadian, a fox, some turtles, a three-eyed cat, and many more. They seem to be a...community of their own. I began to suspect that these individuals were the creators of these realities. Perhaps even...my creators.",
+        "$HN2EndMFind7": "But then...then I looked beyond. I saw strange creatures. Beings beyond any of these realities. Close, I saw a dragon, a shoe, a Hearthian in Nomai clothes, a turtle, and some pink puffball.",
+        "$HN2EndMFind8": "Further, there were more. A cow, a rock, a nebula, a Canadian, a fox, more turtles, a three-eyed cat, and many more. They seem to be a...community of their own. I began to suspect that these individuals were the creators of these realities. Perhaps even...my creators.",
         "$HN2EndMFind9": "And then, I realized, they had already done what I wanted. They had subverted the lie. This universe indeed did not have to truly end, and they were repsonsible.",
         "$HN2EndMFind10": "In the end, was my desire simply their desire? To contribute to increasing the lifespan of this universe?",
         "$HN2EndMFind11": "If so, then I am glad to have served my purpose, and I am thankful to you for being their avatar.",
@@ -277,10 +277,10 @@
         "$HN2EndFB1": "I am glad to hear that. I hope that you do not end up regretting your decision. I have lived with regret ever since...that day.",
         "$HN2EndFHNA": "You are the one who was in that escape pod I found on Timber Hearth, aren't you?",
         "$HN2EndFHNB": "What is your regret?",
-        "$HN2EndFHNA1": "Ah, yes, you visited my homeland. You saw how my kind destroyed themselves over petty arguments.",
+        "$HN2EndFHNA1": "Ah, yes, you visited my homeworld. You saw how my kind destroyed themselves over petty arguments.",
         "$HN2EndFHNA2": "I happened to be awake when the Red Clan invaded. We were all supposed to be in cryo-pods during transit, but I snuck out.",
         "$HN2EndFHNA3": "When they came, I rushed to the Escape Pods, and without even thinking of trying to save anyone else, I just launched the pod. Through some miracle, the pod managed to survive long enough to reach your world.",
-        "$HN2EndFHNA4": "Not a day goes by that I wonder if I made the correct decision. I feel like I should have tried to save some others, but if I had, then there is a good chance no one would have survived.",
+        "$HN2EndFHNA4": "Not a day goes by that I don't wonder if I made the correct decision. I feel like I should have tried to save some others, but if I had, then there is a good chance no one would have survived.",
         "$HN2EndFHNA5": "Do not live with regret. It consumes you. I only got through it because of my friends. Never forget those who have brought you this far.",
         "$HN2EndFHNB1": "In short, I made a choice to save myself, but that choice may have prevented any others from being saved.",
 
@@ -288,7 +288,7 @@
         "$HN2EndO2": "I wish my race had maintained their curiosity like you, but in the end, they let their fear take over, and fear became hate.",
         "$HN2EndO3": "But your curiosity, it is a wonderful thing. Never stop exploring.",
 
-        "$HN2EndP1": "Aye. If we were still corporial, I'd put you through a workout, you're a twig!",
+        "$HN2EndP1": "Aye. If we were still corporial, I'd put you through a workout. You're a twig!",
         "$HN2EndP2": "But, yer smart. You managed ta get all the way here. You'll do fine.",
         "$HN2EndP3": "Also, ya really need ta invent chocolate. You're missing out.",
 
@@ -363,7 +363,7 @@
 
         "HN2Ernesto1": "Hey it's me...",
         "HN2Ernesto1A": "Yeah, yeah, yeah, Ernesto the Magic Talking Anglerfish. Don't you guys have any more creative Easter Eggs?",
-        "HN2Ernesto2": ">sad anglerfish noises<"
+        "HN2Ernesto2": ">sad anglerfish noises\<"
     },
     "ShipLogDictionary": {
         "$HN2LogNameIntro": "The Magistarium",
@@ -382,8 +382,8 @@
         "$HN2LogEndName": "The Outer Planes",
         "$HN2LogEndNameRumor": "The Device",
         "$HN2LogEndRumorChamber": "In the center of the Grand Chamber is some kind of device. The device is surrounded with text in various languages, including Nomai and Hearthian.",
-        "$HN2LogEndRumorLibrary": "The device will not fire if someone on the platform is wearing too much. Thick protection, such as a spacesuit, needs to be removed before standing on the platform.",
-        "$HN2LogEndRumorEngine": "The device requires that the user hold a battery. Spare batteries can be found in one of the dormitories.",
+        "$HN2LogEndRumorLibrary": "The Device will not fire if someone on the platform is wearing too much. Thick protection, such as a spacesuit, needs to be removed before standing on the platform.",
+        "$HN2LogEndRumorEngine": "The Device requires that the user hold a battery. Spare batteries can be found in one of the dormitories.",
         "$HN2LogEndRumorMagi": "I found controls for the hatch. Air is no longer flowing away from the Device.",
         "$HN2LogEnd1": "I managed to make the Device fire.",
         "$HN2LogEnd2": "I met the Magister! He and the others who were on the ship decided to warp to another plane of existence with the Device in an attempt to preserve the memory of the universe and explore the unknown beyond this one.",
@@ -398,34 +398,34 @@
 
         "$HN2LogEngineName": "Engine Room",
         "$HN2LogEngineRumorName": "Power Source",
-        "$HN2LogEngineRumor": "The Magistarium's power is flunctuating.",
-        "$HN2LogEngine1": "The bottom floor seems to contain some kind of engine room or generator. Lethal amounts of electricity are leaking from the machines. There is some kind of pedistal and a Memory Cube in the middle of the room.",
+        "$HN2LogEngineRumor": "The Magistarium's power is fluctuating.",
+        "$HN2LogEngine1": "The bottom floor seems to contain some kind of engine room or generator. Lethal amounts of electricity are leaking from the machines. There is some kind of pedestal and a Memory Cube in the middle of the room.",
         "$HN2LogEngine2": "The engines do not have any form of breaker to cut off power to the room.",
 
         "$HN2LogDormsName": "Dormitories",
         "$HN2LogDorms1": "There is a long hall with a several rooms connected to it. Each room appears to belong to a different culture.",
         "$HN2LogDorms2": "I found a book on top of a bookcase in the first dorm.",
-        "$HN2LogDorms3": "One of the dorms includes a bunch of strange artifacts.",
+        "$HN2LogDorms3": "One of the dorms includes a pool and a bunch of strange artifacts.",
         "$HN2LogDorms4": "The Magister's room at the end of the hall is sealed off.",
-        "$HN2LogDorms5": "One of the rooms is full of paintings of various colors.",
+        "$HN2LogDorms5": "One of the rooms is full of plants, and its walls hold paintings of various colors.",
         "$HN2LogDorms6": "One of the rooms is made of wood and its inhabitant is very tall.",
         "$HN2LogDorms7": "The room at the end appears to be Hearthian! There is some fuel using a design that predates Outer Wilds Ventures.",
         "$HN2LogDorms8": "The room at the front of the hall is filled with carpet and has a strange symbol on the wall.",
-        "$HN2LogDorms9": "One of the rooms appears Nomai in origin. It's full of Nomai writing and standard Nomai equipment.",
+        "$HN2LogDorms9": "One of the rooms appears Nomaian in origin. It's full of Nomai writing and standard Nomai equipment.",
 
         "$HN2LogMagiName": "Magister's Room",
         "$HN2LogMagiRumor": "The hatch can be controlled from within the Magister's room.",
-        "$HN2LogMagi1": "I found a hidden vent that lead to the Magister's room.",
-        "$HN2LogMagi2": "The Magister invited many people from various races to live on his ship to build the Device. He built an Immortality Crystal to allow them to live long beyond their lifespan.",
+        "$HN2LogMagi1": "I found a hidden vent that leads from the room full of paintings to the Magister's room.",
+        "$HN2LogMagi2": "The Magister invited many people from various races to live on his ship to build the Device. He built an Immortality Crystal to allow them to live long beyond their natural lifespans.",
         "$HN2LogMagi3": "The Magister discovered some kind of vortex that told him about the end of the universe. He did not believe that the universe had to end, and called this the \"Lie of the Universe\".",
 
         "$HN2LogHNName": "Hearth's Neighbor",
-        "$HN2LogHN1": "[You should only be seeing this entry if you beat the prequel to this mod, Hearth's Neighbor. Having this entry enables certain dialogue that contains minor spoilers but is unneeded to progress in Magistarium whatsoever.]",
+        "$HN2LogHN1": "[You should only be seeing this entry if you beat Hearth's Neighbor, to which this mod is a sequel. Having this entry enables certain dialogue that contains minor spoilers but is completely unneeded to progress in Magistarium.]",
         "$HN2LogHN2": "After discovering a mysterious alien ship, my own ship received coordinates for a certain system that also happens to neighbor the Outer Wilds. I can get there using my ship's canonical warp drive."
     },
     "UIDictionary": {
         "$HN2PartyPrompt": "Party",
-        "$HN2EndingText": "YOU ASCENDED INTO ANOTHER STATE OF BEING.\nTHANK YOU OUTER WILDS MODDING COMMUNITY."
+        "$HN2EndingText": "YOU ASCENDED INTO ANOTHER STATE OF BEING.\nTHANK YOU, OUTER WILDS MODDING COMMUNITY."
     },
     "OtherDictionary": {
         "$HN2TimeStateLowGrav": "MAGISTARIUM NOTIFICATION: POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS.",
