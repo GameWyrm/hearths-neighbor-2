@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 879117459
+CRC: 4158547149
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a5e01a2f8887afb50116e6b525472354
+    Hash: 2fcd629da072a9863c60bfecc25ae7dd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ce99d551b8d344fad70e3e12addf8798
+    Hash: a387abcebcfa8d8adbec5016ef7682a6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -123,6 +123,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 9721c64fc751e71766a8e19209725a0e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a1f326afd8115cd8f4068186646cea5d, type: 3}
+- Class: 114
+  Script: {fileID: 1293456834, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 120
@@ -419,6 +421,7 @@ Assets:
 - Assets/Scenes/DreamWorld/Streamingmeshes_structures/Rotating_Ring 2.asset
 - Assets/HN2/Materials/Kirmby/Feesh.mat
 - Assets/Nomai Ruins/Resources/Meshes/Props_NOM_Staff_Geo.asset
+- Assets/HN2/Prefab/Ending.prefab
 - Assets/Mesh/Rotating_Ring.asset
 - Assets/Nomai Ruins/Resources/Meshes/Structure_NOM_HCT_Stairs_Solid_R_Geo.asset
 - Assets/HN2/Materials/Memories/MemoryOwlk.mat

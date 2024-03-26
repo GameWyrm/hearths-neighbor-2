@@ -69,8 +69,10 @@ namespace HearthsNeighbor2
             lampMaterial.color = Color.white;
             transform.parent.Find("DeviceNomai").localScale = Vector3.one * 0.3f;
 
+            endingSector = transform.parent.Find("Ending").gameObject;
+
             endBlackHole = transform.Find("EndingBlackHole").gameObject;
-            endWhiteHole = transform.Find("EndingWhiteHole").gameObject;
+            endWhiteHole = endingSector.transform.Find("EndingWhiteHole").gameObject;
             endBlackHole.SetActive(false);
             endWhiteHole.SetActive(false);
 

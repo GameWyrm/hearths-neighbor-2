@@ -22,7 +22,7 @@
         ],
         "creditsVolume": [
             {
-                "parentPath": "Sector/Magistration/Sectors/Ending/Volumes/EndingVolume",
+                "parentPath": "Sector/Ending/Volumes/EndingVolume",
                 "radius": 2,
                 "creditsType": "fast",
                 "deathType": "supernova",
@@ -223,6 +223,33 @@
                     "z": 0
                 },
                 "alignRadial": false,
+                "keepLoaded": false
+            },
+            {
+                "assetBundle": "assets/magistration",
+                "path": "assets/hn2/prefab/ending.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 2000,
+                    "z": 0
+                },
+                "alignRadial": false,
+                "keepLoaded": true
+            },
+            {
+                "assetBundle": "assets/magistration",
+                "path": "assets/hn2/prefab/MagistrationLOD.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": {
+                    "x": -90,
+                    "y": 0,
+                    "z": 0
+                },
+                "alignRadial": false,
                 "keepLoaded": true
             },
             {
@@ -273,10 +300,11 @@
             {
                 "position": {
                     "x": 0,
-                    "y": 1990,
+                    "y": -5,
                     "z": 0
                 },
-                "parentPath": "Sector/Magistration",
+                "parentPath": "Sector/Ending",
+                "isRelativeToParent": true,
                 "rename": "EndingWhiteHole",
                 "uniqueID": "HN2WhiteHole",
                 "pairedSingularity": "HN2BlackHole",
