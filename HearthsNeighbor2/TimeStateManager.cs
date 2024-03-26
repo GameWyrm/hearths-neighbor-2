@@ -27,6 +27,7 @@ namespace HearthsNeighbor2
         public GameObject devCube;
         public GameObject laceWeaver;
         public GameObject shoe;
+        public EndingManager endingManager;
 
         // time loop properties
         private readonly int lowGravTime = 6;
@@ -73,6 +74,7 @@ namespace HearthsNeighbor2
             endBlackHole.SetActive(false);
             endWhiteHole.SetActive(false);
 
+            endingManager = endingSector.GetComponentInChildren<EndingManager>();
             endingSector.SetActive(false);
 
             if (PlayerData.GetPersistentCondition("HN2_P_HORRORDOOR")) EnableDevRoom(PlayerData.GetPersistentCondition("HN2_P_REDUCEDFRIGHT"));
@@ -205,6 +207,10 @@ namespace HearthsNeighbor2
             endBlackHole.SetActive(true);
             endWhiteHole.SetActive(true);
             endingSector.SetActive(true);
+            foreach (Animator anim in endingManager.magister.GetComponentsInChildren<Animator>())
+            {
+                anim.SetTrigger("Close");
+            }
             Locator.GetShipLogManager().RevealFact("HN2_Device1");
         }
     }

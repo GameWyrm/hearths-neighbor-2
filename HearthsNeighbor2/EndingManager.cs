@@ -7,6 +7,7 @@ namespace HearthsNeighbor2
         public GameObject magister;
         public GameObject[] otherNpcs;
         public GameObject deathCube;
+        public GameObject music;
 
 
         private void Start()
@@ -23,6 +24,7 @@ namespace HearthsNeighbor2
                 {
                     anim.SetTrigger("Open");
                 }
+                music.SetActive(true);
             }
         }
 
@@ -43,10 +45,6 @@ namespace HearthsNeighbor2
             {
                 if (go == null) continue;
                 go.SetActive(true);
-                foreach (Animator anim in go.GetComponentsInChildren<Animator>())
-                {
-                    anim.SetTrigger("Open");
-                }
             }
             deathCube.SetActive(true);
         }

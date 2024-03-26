@@ -65,7 +65,6 @@
       <Page>$HN2EndFHNA4</Page>
       <Page>$HN2EndFHNA5</Page>
     </Dialogue>
-    <DialogueTargetShipLogCondition>HN2_HN1</DialogueTargetShipLogCondition>
   </DialogueNode>
 
   <DialogueNode>

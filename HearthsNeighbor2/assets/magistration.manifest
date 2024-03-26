@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3401126232
+CRC: 879117459
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 01f6131ef34bfc7cdebb9e951bc83ffb
+    Hash: a5e01a2f8887afb50116e6b525472354
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cfdb298d11b64ad7d1e4dffbb725ea85
+    Hash: ce99d551b8d344fad70e3e12addf8798
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -46,9 +46,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 1689281519, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
 - Class: 114
-  Script: {fileID: 1265522291, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
-- Class: 114
   Script: {fileID: 825622303, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
+- Class: 114
+  Script: {fileID: 1265522291, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
 - Class: 114
   Script: {fileID: 754140971, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
 - Class: 114
@@ -89,6 +89,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2ca598178f775e7dc1b937bc0b32aae7, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 25360727eba447720234f7b1318798a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b46f87957d67cf3ace514870d9c92c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 235bf89714beeb03a641a16e1b851008, type: 3}
 - Class: 114
@@ -268,6 +270,7 @@ Assets:
 - Assets/OW Assets/Shader/Outer Wilds_Environment_Water.asset
 - Assets/Nomai Ruins/Resources/Meshes/Props_NOM_SimpleChair_Geo.asset
 - Assets/Scenes/DreamWorld/Streamingmeshes_structures/Railing_R 1.asset
+- Assets/HN2/Prefab/MagistrationLOD.prefab
 - Assets/HN2/Materials/MagistrationExt.mat
 - Assets/Nomai Ruins/Resources/Meshes/Props_NOM_Lamp_Glow_Diamond_Wall.asset
 - Assets/Scenes/DreamWorld/Streamingmeshes_props/Prop_IP_DW_Rug_Long_C_4M.asset

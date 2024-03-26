@@ -308,27 +308,6 @@
         "$HN2EndHB": "Yep! Hornfels, Feldspar, Gossan, Esker, and Slate founded Outer Wilds Ventures, a space program, and we've been exploring ever since.",
         "$HN2EndH4": "Ah, I know those names! They were only little hatchlings when I left. I'm glad to see they grew up into such fine Hearthians. And you! You're following in their footsteps! I am so happy to see our legacy continue.",
 
-        // Devs
-        "HN2DevGameWyrm1": "Congrats on finishing Magistarium! I hope you enjoyed it. I'm GameWyrm, the team lead who did all the level design, writing, and coding, as well as some of the models.",
-        "HN2DevGameWyrm2": "For this mod, I obviously wanted to close out the story of Hearth's Neighbor (not neighboUr), but I was originally planning to not use very many custom assets. Well, you saw where that went, and I think this mod has even more custom assets than HN1!",
-        "HN2DevGameWyrm3": "Anyway, thanks so much for playing. This mod was made in 11 days for the Outer Wilds 2024 modding jam, where all contestants were challenged to create a single planet within the same system. You should definitely check out the other entries if you haven't already!",
-        "HN2DevGameWyrm4": "Oh, by the way, this room was made pretty early in development, but we had no idea what to do with it, so it was cut and repurposed into the dev room. Because of that, there's nothing in here, so don't bother going to the end of the hall.",
-
-        "HN2DevShoe1": "BOO!!! Did I get you? Grew in size a lot compared to the last jam, real nice to to be in my true form as the Origin Lace Weaver, and if you recognize the color scheme, nice to meet another fan.",
-        "HN2DevShoeAlt1": "Aw man, you had to seal my true form... not truly as ready for the horrors within this room as you promised the magister.",
-        "HN2DevShoe2": "Anyways it was fun to be working with the same-ish team from last time, although I did leave decision making with the rest of the team. Hopes to us winning the March 2024 Jam.",
-        "HN2DevShoe3": "Also for xen i made 21 models for this mod, ripped one or two, and took a few from the past then made 16 models for godot wilds all on time so I was NOT LAZY!!!!!!!!!",
-
-        "HN2DevLuna1": "Hello! Congrats on finishing! I’m Luna, I made most of the textures and concept art for the mod!",
-        "HN2DevLuna2": "This is the first mod jam I’ve participated in, and the first time I’ve contributed to a mod in production. I hope you had just as much fun playing it as I did helping to create it!",
-        "HN2DevLuna3": "Thank you for playing!",
-
-        "HN2DevEndgame1": "PLACEHOLDER",
-
-        "HN2Ernesto1": "Hey it's me...",
-        "HN2Ernesto1A": "Yeah, yeah, yeah, Ernesto the Magic Talking Anglerfish. Don't you guys have any more creative Easter Eggs?",
-        "HN2Ernesto2": ">sad anglerfish noises\<",
-
         // NOMAI TEXT ------------------------------
         // Entrance wall
         "$HN2EntranceWall1": "LILY: Well... I'm here, it seems. The \"Magister\" invited me here; let's see if he's as cordial as his invitation.",
@@ -368,8 +347,9 @@
         // Devs
         "HN2DevGameWyrm1": "Congrats on finishing Magistarium! I hope you enjoyed it. I'm GameWyrm, the team lead who did all the level design, writing, and coding, as well as some of the models.",
         "HN2DevGameWyrm2": "For this mod, I obviously wanted to close out the story of Hearth's Neighbor (not neighboUr), but I was originally planning to not use very many custom assets. Well, you saw where that went, and I think this mod has even more custom assets than HN1!",
-        "HN2DevGameWyrm3": "Anyway, thanks so much for playing. This mod was made in 11 days for the Outer Wilds 2024 modding jam, where all contestants were challenged to create a single planet within the same system. You should definitely check out the other entries if you haven't already!",
-        "HN2DevGameWyrm4": "Oh, by the way, this room was made pretty early in development, but we had no idea what to do with it, so it was cut and repurposed into the dev room. Because of that, there's nothing in here, so don't bother going to the end of the hall.",
+        "HN2DevGameWyrm3": "A big component of this mod's design was trying to utilize the time loop, a feature I feel is rarely actually implemented even in full length story mods. Our implementation may have been simple, but I hope it was effective and memorable!",
+        "HN2DevGameWyrm4": "Anyway, thanks so much for playing. This mod was made in 11 days for the Outer Wilds 2024 modding jam, where all contestants were challenged to create a single planet within the same system. You should definitely check out the other entries if you haven't already!",
+        "HN2DevGameWyrm5": "Oh, by the way, this room was made pretty early in development, but we had no idea what to do with it, so it was cut and repurposed into the dev room. Because of that, there's nothing in here, so don't bother going to the end of the hall.",
 
         "HN2DevShoe1": "BOO!!! Did I get you? Grew in size a lot compared to the last jam, real nice to to be in my true form as the Origin Lace Weaver, and if you recognize the color scheme, nice to meet another fan.",
         "HN2DevShoeAlt1": "Aw man, you had to seal my true form... not truly as ready for the horrors within this room as you promised the magister.",
@@ -380,7 +360,11 @@
         "HN2DevLuna2": "This is the first mod jam I’ve participated in, and the first time I’ve contributed to a mod in production. I hope you had just as much fun playing it as I did helping to create it!",
         "HN2DevLuna3": "Thank you for playing!",
 
-        "HN2DevEndgame1": "PLACEHOLDER",
+        "HN2DevEndgame1": "Welcome to the dev room! I'm EndgameZero, the composer for Magistarium. (I also edited much of the dialogue.)",
+        "HN2DevEndgame2": "Overall, I'm pretty happy with this soundtrack. I made fewer songs than in Hearth's Neighbor (especially when you consider that a few of the songs are variations of the same one), but I think they turned out better individually.",
+        "HN2DevEndgame3": "This soundtrack took a lot of inspiration from the TUNIC soundtrack, and I referenced the Outer Wilds soundtrack less than I did in Hearth's Neighbor. (I will be quite impressed if you can figure out the one reference to the Outer Wilds soundtrack in the Grand Chamber theme.)",
+        "HN2DevEndgame4": "Anyway, I decided to be a turtle at the last minute (sorry for any confusion with other modding turtles), so hopefully Shoe got the turtle model done by the time this released.",
+        "HN2DevEndgame5": "Thanks for playing (and listening)!",
 
         "HN2Ernesto1": "Hey it's me...",
         "HN2Ernesto1A": "Yeah, yeah, yeah, Ernesto the Magic Talking Anglerfish. Don't you guys have any more creative Easter Eggs?",
@@ -416,6 +400,7 @@
         "$HN2LogLibrary3": "I found a book on top of the artificial sun above the library.",
         "$HN2LogLibrary4": "One of the ship's inhabitants, Roja, is colorblind, and only able to see the world in various shades of red.",
         "$HN2LogLibrary5": "Roja mentioned that she wondered what kind of secrets others might hide in their paintings.",
+        "$HN2LogLibrary6": "There is some kind of ball in the library painting area that shoots light when powered. The light makes the paintings in the area look different.",
 
         "$HN2LogEngineName": "Engine Room",
         "$HN2LogEngineRumorName": "Power Source",

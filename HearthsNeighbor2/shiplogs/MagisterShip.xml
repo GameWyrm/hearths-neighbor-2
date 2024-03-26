@@ -163,6 +163,11 @@
       <ID>HN2_LB5</ID>
       <Text>$HN2LogLibrary5</Text>
     </ExploreFact>
+
+    <ExploreFact>
+      <ID>HN2_LB6</ID>
+      <Text>$HN2LogLibrary5</Text>
+    </ExploreFact>
   </Entry>
 
   <!--Engine Room-->
