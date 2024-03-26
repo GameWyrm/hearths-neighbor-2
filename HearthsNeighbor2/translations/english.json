@@ -81,6 +81,15 @@
         "$HN2LibraryLamp3": "VULTOS: ...are you...hypnotized?",
         "$HN2LibraryLamp4": "VULTOS: ...moths are <![CDATA[<i>weird</i>]]>.",
 
+        "$HN2LibraryMagi1": "QUARTZ: You know, forgive me if this a bit of an inappropriate question, but, well, do any of you guys know what the Magister, well, looks like?",
+        "$HN2LibraryMagi2": "ACQUARIUS: Admittedly, I've often wondered the same thing. Boss never leaves 'is room without 'is mask and robe, unless he's disguised.",
+        "$HN2LibraryMagi3": "VULTOS: I've always just assumed he was some kind of eldritch monstrosity, to be honest.",
+        "$HN2LibraryMagi4": "LILY: Hypothesis, what we see is not even his true form, but he has taken it because it is something we can comprehend.",
+        "$HN2LibraryMagi5": "VESPA: Perhaps he believes we will find his appearance frightening.",
+        "$HN2LibraryMagi6": "ROJA: Yes, I've seen it...you do not vant to...I still have not recovered.",
+        "$HN2LibraryMagi7": "VESPA: You saw his true self, dear? Oh, no, come here, we didn't mean to stress you out.",
+        "$HN2LibraryMagi8": "VULTOS: ...eldritch monstrosity it is, I guess.",
+
         // Camp Room
         "$HN2Camp1": "VULTOS: Well, it seems that campfires are a constant of the universe.",
         "$HN2Camp2": "QUARTZ: You sure it's ok for me to set one up in here?",
