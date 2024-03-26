@@ -1,1 +1,19 @@
-bleh 😛
+# HEARTH'S NEIGHBOR 2: MAGISTARIUM
+(Or just "Magistarium", if you prefer)
+
+![MAGISTARIUM LOGO](HN2Logo.png)
+
+You've received a set of coordinates for a mysterious vessel in a solar system containing a many communities. Explore a mysterious station, solve puzzles, and discover the station's secrets.
+
+Made in 11 days for the Outer Wilds Modding Jam. Requires the Mod Jam 3 mod.
+
+This mod is a sequel to Hearth's Neighbor. While playing the prequel isn't required to beat Magistarium, it is highly recommended.
+
+If the bobbing of the Memory Cubes become too annoying, I recommend turning on "Freeze Time While Talking To Others" on the Pre-Flight checklist.
+
+* GameWyrm: Team Lead, level designer, writer, and programmer
+* FunkyShoeMan: Prop 3D artist
+* EndgameZero: Musician and editor
+* CelestialsStorm: 2D artist
+
+Special thanks to those who playtested the mods, and John Corby, xen42, MegaPiggy, and others who answered questions and were very helpful with answering questions.
