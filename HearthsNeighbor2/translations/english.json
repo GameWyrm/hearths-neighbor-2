@@ -136,7 +136,7 @@
         "$HN2NomaiCube3": "QUARTZ: I wish, but all the Nomai my kind have found have died long ago. There are plenty of ruins of theirs, but we have no idea what happened to them. Their buildings are all abandoned.",
         "$HN2NomaiCube4": "LILY: ...oh.",
         "$HN2NomaiCube5": "QUARTZ: Oh, sorry, I, I didn't think about it. I mean, I'm sure there are more Nomai out there...",
-        "$HN2NomaiCube6": "LILY: Oh, no, don't let me be a downer! Come on, you still have many others to meet! And we still need to determins what technology you can contribute to the Device.",
+        "$HN2NomaiCube6": "LILY: Oh, no, don't let me be a downer! Come on, you still have many others to meet! And we still need to determine what technology you can contribute to the Device.",
         "$HN2NomaiCube7": "QUARTZ: Yeah, of course!",
 
         // Redeye Dorm
@@ -144,7 +144,7 @@
         "$HN2RedeyeCube2": "VULTOS: This is quite a garden you've got here. I guess you have a lot of experience with plants?",
         "$HN2RedeyeCube3": "ROJA: Oh! I did not see you zere! Yes, I am a master gardener. It vas my main hobby back home, and quite a valueable profession.",
         "$HN2RedeyeCube4": "VULTOS: Oh, really, why is that?",
-        "$HN2RedeyeCube5": "ROJA: Oh, vell you see, my kind has extremely limited color vision. Many colors you can distinguish appear identical to us. As ve are an herbivorous species, being able to determine vat a plant vas vis our far more limited ability to really see zem vas an invaluable skill",
+        "$HN2RedeyeCube5": "ROJA: Oh, vell you see, my kind has extremely limited color vision. Many colors you can distinguish appear identical to us. As ve are an herbivorous species, being able to determine vat a plant vas vis our far more limited ability to really see zem vas an invaluable skill.",
         "$HN2RedeyeCube6": "VULTOS: I see. Well, I'm glad you have a hobby you enjoy so much, and you're able to be a big help to your kind.",
         "$HN2RedeyeCube7": "ROJA: Sank you for ze kind vords!",
         "$HN2RedeyeCube8": "VULTOS: Brightening up other people's days is my calling.",
@@ -178,7 +178,7 @@
         "$HN2MagiEye4": "The idea that all must end...that is the Lie of the Universe.... There must be a way to preserve the life of this universe beyond.",
 
         "$HN2MagiFox1": "As I was making my centennial trip to the vortex to see if there had been any new developments, I received a distress signal from a nearby planet. A young creature had been stranded there in his escape pod, and with his lack of survival skills, he would have surely died of starvation, or worse.",
-        "$HN2MagiFox2": "I rescued him, of course, but when I asked him where he his home was so I could take him back, he said he had none. His kind had killed themselves off in a war, and he was the sole survivor of his race. His own planet was no longer even fit to live on. With that, he broke down sobbing.",
+        "$HN2MagiFox2": "I rescued him, of course, but when I asked him where his home was so I could take him back, he said he had none. His kind had killed themselves off in a war, and he was the sole survivor of his race. His own planet was no longer even fit to live on. With that, he broke down sobbing.",
         "$HN2MagiFox3": "When he recovered, I offered him board, in return for his assistance. I had a plan to counter the Lie, and for that I would need to build a Device. However, this Device was based on connections, on community, and in order for it to function, I would need the collaboration of many others.",
         "$HN2MagiFox4": "Without hesitation, he agreed. I created a room for him, and we exchanged more information about each other. His name is Vultos. And my name is...my name...I...I told him that I am the Magister.",
 
@@ -208,7 +208,7 @@
         "$HN2MagiHearthian1": "Our deadline approaches. The Device is nearly complete, but we need one more component. I went to visit the vortex again, but on a nearby planet, I caught sight of a local Hearthian who had accidentally launched themself into space via a geyser.",
         "$HN2MagiHearthian2": "They haven't even discovered space flight yet, but...well, I need help. Maybe this one, named Quartz, will provide the last component we need.",
 
-        "$HN2JamSystem": "SYSTEM DESIGNATION: X3NJ-AM3\nCURRENT LOCATION!\nPOPULATION: Unknown\nScanning in the immediate system running into interference\nInterference origin: The sheer amount of communities that have once called this system their home\nInterference also provides ideal environment for firing of the Device! Interdimensional barriers strained!",
+        "$HN2JamSystem": "SYSTEM DESIGNATION: X3NJ-AM3\nCURRENT LOCATION!\nPOPULATION: Unknown\nScanning in the immediate system running into interference\nInterference origin: The sheer number of communities that have once called this system their home\nInterference also provides ideal environment for firing of the Device! Interdimensional barriers strained!",
         "$HN2OWSystem": "SYSTEM DESIGNATION: Outer Wilds\nPOPULATION: 22.16\nHome of the Hearthians\nWARNING (Ignored): VORTEX SIGNAL NOT DETECTED",
         "$HN2OwlkSystem": "SYSTEM DESIGNATION: J0NC-RB3\nPOPULATION: None\nPreviously held a thriving civilization on a moon, the same moon is now a barren wasteland.",
         "$HN2HNSystem": "SYSTEM DESIGNATION: Hearth's Neighbor\nPOPULATION: None\nExtreme amounts of deadly matter and warped space detected.",
@@ -307,6 +307,27 @@
         "$HN2EndH3": "Really? Every Hearthian's dream to explore the Outer Wilds, it finally came true?",
         "$HN2EndHB": "Yep! Hornfels, Feldspar, Gossan, Esker, and Slate founded Outer Wilds Ventures, a space program, and we've been exploring ever since.",
         "$HN2EndH4": "Ah, I know those names! They were only little hatchlings when I left. I'm glad to see they grew up into such fine Hearthians. And you! You're following in their footsteps! I am so happy to see our legacy continue.",
+
+        // Devs
+        "HN2DevGameWyrm1": "Congrats on finishing Magistarium! I hope you enjoyed it. I'm GameWyrm, the team lead who did all the level design, writing, and coding, as well as some of the models.",
+        "HN2DevGameWyrm2": "For this mod, I obviously wanted to close out the story of Hearth's Neighbor (not neighboUr), but I was originally planning to not use very many custom assets. Well, you saw where that went, and I think this mod has even more custom assets than HN1!",
+        "HN2DevGameWyrm3": "Anyway, thanks so much for playing. This mod was made in 11 days for the Outer Wilds 2024 modding jam, where all contestants were challenged to create a single planet within the same system. You should definitely check out the other entries if you haven't already!",
+        "HN2DevGameWyrm4": "Oh, by the way, this room was made pretty early in development, but we had no idea what to do with it, so it was cut and repurposed into the dev room. Because of that, there's nothing in here, so don't bother going to the end of the hall.",
+
+        "HN2DevShoe1": "BOO!!! Did I get you? Grew in size a lot compared to the last jam, real nice to to be in my true form as the Origin Lace Weaver, and if you recognize the color scheme, nice to meet another fan.",
+        "HN2DevShoeAlt1": "Aw man, you had to seal my true form... not truly as ready for the horrors within this room as you promised the magister.",
+        "HN2DevShoe2": "Anyways it was fun to be working with the same-ish team from last time, although I did leave decision making with the rest of the team. Hopes to us winning the March 2024 Jam.",
+        "HN2DevShoe3": "Also for xen i made 21 models for this mod, ripped one or two, and took a few from the past then made 16 models for godot wilds all on time so I was NOT LAZY!!!!!!!!!",
+
+        "HN2DevLuna1": "Hello! Congrats on finishing! I’m Luna, I made most of the textures and concept art for the mod!",
+        "HN2DevLuna2": "This is the first mod jam I’ve participated in, and the first time I’ve contributed to a mod in production. I hope you had just as much fun playing it as I did helping to create it!",
+        "HN2DevLuna3": "Thank you for playing!",
+
+        "HN2DevEndgame1": "PLACEHOLDER",
+
+        "HN2Ernesto1": "Hey it's me...",
+        "HN2Ernesto1A": "Yeah, yeah, yeah, Ernesto the Magic Talking Anglerfish. Don't you guys have any more creative Easter Eggs?",
+        "HN2Ernesto2": ">sad anglerfish noises\<",
 
         // NOMAI TEXT ------------------------------
         // Entrance wall
