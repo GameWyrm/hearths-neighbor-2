@@ -181,7 +181,7 @@
         "$HN2MagiStart3": "And...I do not believe I have amnesia. I was...created here. This ship, created for me. But by whom?",
         "$HN2MagiStart4": "Well, there is a whole universe out there for me to explore.... The answer must be out there somewhere.",
 
-        "$HN2MagiEye1": "Today I found something...universe shaking. A vortex, a power older than the universe, and I feel some...kinship, with it.",
+        "$HN2MagiEye1": "Today I found something...universe-shaking. A vortex, a power older than the universe, and I feel some...kinship, with it.",
         "$HN2MagiEye2": "I spoke with it, and it did not have any answers for me. It simply told me its purpose: to end all, that all might be born anew. Despite the tone some might interpret as sinister, it bears no ill will. Like...a decomposer, it serves a critical role in recycling death, so that more life may rise from the dead.",
         "$HN2MagiEye3": "But, must all end? True, this universe has a limited lifespan, but what if, what if we were not bound by this universe?",
         "$HN2MagiEye4": "The idea that all must end...that is the Lie of the Universe.... There must be a way to preserve the life of this universe beyond.",
@@ -191,7 +191,7 @@
         "$HN2MagiFox3": "When he recovered, I offered him board, in return for his assistance. I had a plan to counter the Lie, and for that I would need to build a Device. However, this Device was based on connections, on community, and in order for it to function, I would need the collaboration of many others.",
         "$HN2MagiFox4": "Without hesitation, he agreed. I created a room for him, and we exchanged more information about each other. His name is Vultos. And my name is...my name...I...I told him that I am the Magister.",
 
-        "$HN2MagiLife1": "I have encountered a major problem. I am immortal, and while the idea that a being would have a limited lifespawn is a known fact to me, it has just not occurred to me just how short a life is.",
+        "$HN2MagiLife1": "I have encountered a major problem. I am immortal, and while the idea that a being would have a limited lifespan is a known fact to me, it has just not occurred to me just how short a life is.",
         "$HN2MagiLife2": "Vultos is aging quite rapidly, and while he has been an invaluable asset in the creation of the Device, he will not live nearly long enough to see it be fired.",
         "$HN2MagiLife3": "Fortunately, I have a solution. An Immortality Crystal, installed as part of the Device, and completely preventing aging. It will not work for our ultimate goal, but it should allow anyone on this ship to survive long enough to see the day it is reached.",
 
@@ -225,7 +225,7 @@
         "$HN2HatchControls": "HATCH CONTROLS\nPlease stand clear of the docking bay while hatch is in motion.",
 
         // Memory Poem Cube
-        "$HN2Poem1": "<![CDATA[<color=#0013FF>To wash away reget, that the sun may shine brighter tomorrow.</color>]]>",
+        "$HN2Poem1": "<![CDATA[<color=#0013FF>To wash away regret, that the sun may shine brighter tomorrow.</color>]]>",
         "$HN2Poem2": "<![CDATA[<color=#00FF9F>To overcome fear, that the unknown may be greeted with open arms.</color>]]>",
         "$HN2Poem3": "<![CDATA[<color=#3490FF>To build new monuments, that our mark may be left everlasting.</color>]]>",
         "$HN2Poem4": "<![CDATA[<color=#8451FF>To preserve advancement, that the next generation may not suffer from our mistakes.</color>]]>",
