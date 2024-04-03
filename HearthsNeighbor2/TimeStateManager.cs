@@ -14,6 +14,7 @@ namespace HearthsNeighbor2
         public GameObject oxygen;
         public GameObject electricity;
         public GameObject endngPumpMusic;
+        public GameObject suction;
         public Material lampMaterial;
         public MeshRenderer magistrationRenderer;
         public Color fullGravityColor;
@@ -165,6 +166,7 @@ namespace HearthsNeighbor2
                         }
                         lampMaterial.color = Color.black;
                         oxygen.SetActive(false);
+                        suction.SetActive(false);
                         deviceAudio.Stop();
                         if (playerNear)
                         {
