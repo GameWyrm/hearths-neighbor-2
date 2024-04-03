@@ -7,5 +7,11 @@
         "assets/magistration-assets/textures-original",
         "assets/magistration-assets/texturesow-a",
         "assets/magistration-assets/texturesow-b"
+    ],
+    "credits": [
+        "GameWyrm#Team Lead, level designer, writer, and programmer",
+        "FunkyShoeMan#Prop 3D artist",
+        "EndgameZero#Musician and editor",
+        "CelestialsStorm#2D artist"
     ]
 }
