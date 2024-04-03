@@ -86,7 +86,7 @@
         "$HN2LibraryMagi1": "QUARTZ: You know, forgive me if this is a bit of an inappropriate question, but, well, do any of you guys know what the Magister, well, looks like?",
         "$HN2LibraryMagi2": "ACQUARIUS: Admittedly, I've often wondered the same thing. Boss never leaves 'is room without 'is mask and robe, unless he's disguised.",
         "$HN2LibraryMagi3": "VULTOS: I've always just assumed he was some kind of cosmic horror, to be honest.",
-        "$HN2LibraryMagi4": "LILY: Hypothesis, what we see is not even his true form, but he has taken it because it is something we can comprehend.",
+        "$HN2LibraryMagi4": "LILY: Hypothesis: what we see is not even his true form, but he has taken it because it is something we can comprehend.",
         "$HN2LibraryMagi5": "VESPA: Perhaps he believes we will find his appearance frightening.",
         "$HN2LibraryMagi6": "ROJA: Yes, I've seen it...you do not vant to...I still have not recovered.",
         "$HN2LibraryMagi7": "VESPA: You saw his true self, dear? Oh, no, come here, we didn't mean to stress you out.",
@@ -183,7 +183,7 @@
         "$HN2MagiStart3": "And...I do not believe I have amnesia. I was...created here. This ship, created for me. But by whom?",
         "$HN2MagiStart4": "Well, there is a whole universe out there for me to explore.... The answer must be out there somewhere.",
 
-        "$HN2MagiEye1": "Today I found something...universe shaking. A vortex, a power older than the universe, and I feel some...kinship, with it.",
+        "$HN2MagiEye1": "Today I found something...universe-shaking. A vortex, a power older than the universe, and I feel some...kinship, with it.",
         "$HN2MagiEye2": "I spoke with it, and it did not have any answers for me. It simply told me its purpose: to end all, that all might be born anew. Despite the tone some might interpret as sinister, it bears no ill will. Like...a decomposer, it serves a critical role in recycling death, so that more life may rise from the dead.",
         "$HN2MagiEye3": "But, must all end? True, this universe has a limited lifespan, but what if, what if we were not bound by this universe?",
         "$HN2MagiEye4": "The idea that all must end...that is the Lie of the Universe.... There must be a way to preserve the life of this universe beyond.",
@@ -379,7 +379,7 @@
         "HN2DevEndgame1": "Welcome to the dev room! I'm EndgameZero, the composer for Magistarium. (I also edited much of the dialogue.)",
         "HN2DevEndgame2": "Overall, I'm pretty happy with this soundtrack. I made fewer songs than in Hearth's Neighbor (especially when you consider that a few of the songs are variations of the same one), but I think they turned out better individually.",
         "HN2DevEndgame3": "This soundtrack took a lot of inspiration from the TUNIC soundtrack, and I referenced the Outer Wilds soundtrack less than I did in Hearth's Neighbor. (I will be quite impressed if you can figure out the one reference to the Outer Wilds soundtrack in the Grand Chamber theme.)",
-        "HN2DevEndgame4": "Anyway, I decided to be a turtle at the last minute (sorry for any confusion with other modding turtles), so hopefully Shoe got the turtle model done by the time this released.",
+        "HN2DevEndgame4": "Anyway, I decided to be a turtle at the last minute (sorry for any confusion with other modding turtles); thanks to Shoe for getting the turtle model done on such short notice!",
         "HN2DevEndgame5": "Thanks for playing (and listening)!",
 
         "HN2Ernesto1": "Hey it's me...",
