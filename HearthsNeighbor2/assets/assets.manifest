@@ -1,31 +1,31 @@
 ManifestFileVersion: 0
-CRC: 3909192529
+CRC: 414194448
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: magistration
       Dependencies:
-        Dependency_0: magistration-assets/music
-        Dependency_1: magistration-assets/animations
-        Dependency_2: magistration-assets/text
-        Dependency_3: magistration-assets/textures-original
-        Dependency_4: magistration-assets/texturesow-a
-        Dependency_5: magistration-assets/texturesow-b
+        Dependency_0: magistration-assets/text
+        Dependency_1: magistration-assets/textures-original
+        Dependency_2: magistration-assets/texturesow-a
+        Dependency_3: magistration-assets/music
+        Dependency_4: magistration-assets/texturesow-b
+        Dependency_5: magistration-assets/animations
     Info_1:
-      Name: magistration-assets/music
-      Dependencies: {}
-    Info_2:
-      Name: magistration-assets/animations
-      Dependencies: {}
-    Info_3:
       Name: magistration-assets/text
       Dependencies: {}
-    Info_4:
+    Info_2:
       Name: magistration-assets/textures-original
       Dependencies: {}
-    Info_5:
+    Info_3:
       Name: magistration-assets/texturesow-a
       Dependencies: {}
-    Info_6:
+    Info_4:
+      Name: magistration-assets/music
+      Dependencies: {}
+    Info_5:
       Name: magistration-assets/texturesow-b
+      Dependencies: {}
+    Info_6:
+      Name: magistration-assets/animations
       Dependencies: {}

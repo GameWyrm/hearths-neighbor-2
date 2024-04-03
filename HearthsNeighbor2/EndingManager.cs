@@ -2,13 +2,23 @@
 
 namespace HearthsNeighbor2
 {
-    public class EndingManager : MonoBehaviour
+
+    [RequireComponent(typeof(OWTriggerVolume))]
+    public class EndingManager : SectoredMonoBehaviour
     {
         public GameObject magister;
         public GameObject[] otherNpcs;
         public GameObject deathCube;
         public GameObject music;
 
+        private OWTriggerVolume _triggerVolume;
+
+        public override void Awake()
+        {
+            base.Awake();
+            _triggerVolume = this.GetRequiredComponent<OWTriggerVolume>();
+            _triggerVolume.OnEntry += OnTriggerVolumeEntry;
+        }
 
         private void Start()
         {
@@ -16,9 +26,9 @@ namespace HearthsNeighbor2
             HearthsNeighbor2.Main.ModHelper.Console.WriteLine("Subbed!");
         }
 
-        private void OnTriggerEnter(Collider other)
+        public void OnTriggerVolumeEntry(GameObject hitObj)
         {
-            if (other.CompareTag("Player"))
+            if (hitObj.CompareTag("PlayerDetector"))
             {
                 foreach (Animator anim in magister.GetComponentsInChildren<Animator>())
                 {

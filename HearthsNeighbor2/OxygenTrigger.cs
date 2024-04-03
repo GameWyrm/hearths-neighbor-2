@@ -7,14 +7,24 @@ using UnityEngine;
 
 namespace HearthsNeighbor2
 {
-    public class OxygenTrigger : MonoBehaviour
+    [RequireComponent(typeof(OWTriggerVolume))]
+    public class OxygenTrigger : SectoredMonoBehaviour
     {
         public bool turnOnOxygen = false;
         public TimeStateManager timeManager;
 
-        private void OnTriggerEnter(Collider other)
+        private OWTriggerVolume _triggerVolume;
+
+        public override void Awake()
         {
-            if (other.CompareTag("Player"))
+            base.Awake();
+            _triggerVolume = this.GetRequiredComponent<OWTriggerVolume>();
+            _triggerVolume.OnEntry += OnTriggerVolumeEntry;
+        }
+
+        public void OnTriggerVolumeEntry(GameObject hitObj)
+        {
+            if (hitObj.CompareTag("PlayerDetector"))
             {
                 timeManager.SetOxygenState(turnOnOxygen);
             }

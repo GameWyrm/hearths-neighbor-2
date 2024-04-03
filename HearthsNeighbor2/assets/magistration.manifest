@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 932122005
+CRC: 3135418557
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c63e0382fd428c6df253659b98117eec
+    Hash: 866bd7e570679b18dd7254ce7e2e415f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ca583acc3e5dce7aecb61a374e8e335d
+    Hash: 4b887132d4bc73748e78b34599eb817b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -122,6 +122,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4d37ab8d4d1e425918e8172c84cb8288, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 53852ddec1714b153640fbaacc81ae2e, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 9721c64fc751e71766a8e19209725a0e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a1f326afd8115cd8f4068186646cea5d, type: 3}
@@ -171,7 +173,6 @@ Assets:
 - Assets/Scenes/DreamWorld/Streamingmeshes_effects/Archway 1.asset
 - Assets/Scenes/DreamWorld/Streamingmeshes_props/Props_IP_Chair.asset
 - Assets/HN2/Meshes/Wyrmstail.fbx
-- Assets/OW Assets/Shader/Standard (BRDF Lookup).asset
 - Assets/Owlk Ruins/Prefabs/Clean/Prefab_IP_Table_Alcove.prefab
 - Assets/Nomai Ruins/Resources/Meshes/GEO_NomaiTree_2_Trunk.asset
 - Assets/Nomai Ruins/Prefabs/Treepot.prefab
@@ -184,7 +185,6 @@ Assets:
 - Assets/Mesh/Mangrove_Hanging_RW_0.asset
 - Assets/Scenes/DreamWorld/Streamingmeshes_effects/Pillar 3.asset
 - Assets/Scenes/DreamWorld/Streamingmeshes_structures/GhostBed_Base.asset
-- Assets/OW Assets/Shader/Legacy Shaders_VertexLit.asset
 - Assets/Scenes/DreamWorld/Streamingmeshes_props/Tree_DW_S_C.asset
 - Assets/Nomai Ruins/Prefabs/Floor.prefab
 - Assets/Shader/Outer Wilds_Environment_Foliage.asset
@@ -230,7 +230,6 @@ Assets:
 - Assets/Nomai Ruins/Resources/Meshes/GEO_NomaiTree_1_Trunk.asset
 - Assets/HN2/Meshes/ChairRedeye.fbx
 - Assets/HN2/Meshes/BatteryCharger.fbx
-- Assets/OW Assets/Shader/Unlit_Color.asset
 - Assets/Scenes/DreamWorld/Streamingmeshes_props/BoardGame_Eye.asset
 - Assets/Mesh/COL_IP_Door_A_2.asset
 - Assets/HN2/Shader/FakeWall.shader
@@ -407,7 +406,6 @@ Assets:
 - Assets/OW Assets/Material/Terrain_TH_Dirt_mat.mat
 - Assets/Mesh/COL_Mangrove_Trunk_DW.asset
 - Assets/HN2/Meshes/Lamp.fbx
-- Assets/OW Assets/Shader/Standard.asset
 - Assets/HN2/Meshes/LakeShrineIcon.fbx
 - Assets/Owlk Ruins/Prefabs/Clean/NookTableFull_IP.prefab
 - Assets/HN2/Materials/Paintings/PaintingRoja.mat
@@ -470,9 +468,7 @@ Assets:
 - Assets/Nomai Ruins/Resources/Materials/Structure_NOM_Ceiling_mat.mat
 - Assets/HN2/Meshes/ChairFoxle.fbx
 - Assets/Owlk Ruins/materials/Tree_DW_MangroveBark_mat.mat
-- Assets/OW Assets/Shader/Unlit_Texture.asset
 - Assets/HN2/Prefab/Magistration.prefab
-- Assets/OW Assets/Shader/Standard_0.asset
 - Assets/Mesh/COL_Wall_Full_A.asset
 - Assets/Scenes/DreamWorld/Streamingmeshes_props/Prop_IP_DW_Rug_Long_B_2M.asset
 - Assets/Nomai Ruins/Resources/Meshes/Structure_NOM_Floor_Intact_Collider.asset
@@ -524,7 +520,6 @@ Assets:
 - Assets/Owlk Ruins/Prefabs/Clean/Prop_IP_Rug_Round_6M.prefab
 - Assets/Owlk Ruins/Prefabs/Clean/Prefab_GhostBed_IP.prefab
 - Assets/HN2/Materials/MagistrationFloor.mat
-- Assets/Shader/Standard.asset
 - Assets/Nomai Ruins/Prefabs/Staff.prefab
 - Assets/Scenes/DreamWorld/Streamingmeshes_props/Props_IP_Bowl.asset
 - Assets/Nomai Ruins/Resources/Materials/Structure_NOM_WhiteBoardTile_mat.mat

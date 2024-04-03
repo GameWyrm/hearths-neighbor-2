@@ -31,8 +31,8 @@
         // Engine room
         "$HN2EngineEntrance1": "MAGISTER: Acquarius, are you all right?",
         "$HN2EngineEntrance2": "ACQUARIUS: Yeah, I'm fine, I've had far worse shocks. Shoulda turned the breaker off first, but I couldn't find it.",
-        "$HN2EngineEntrance3": "MAGISTER: Oh, there is no breaker. Here. <snaps fingers> There, the power should be off.",
-        "$HN2EngineEntrance4": "MAGISTER: Please, do not hesistate to ask me to turn off the power for you. I do not mind.",
+        "$HN2EngineEntrance3": "MAGISTER: Oh, there is no breaker. Here. There, the power should be off.",
+        "$HN2EngineEntrance4": "MAGISTER: Please, do not hesitate to ask me to turn off the power for you. I do not mind.",
         "$HN2EngineEntrance5": "ACQUARIUS: 'preciate it, boss, but I was more worried about disruptin' the others.",
         "$HN2EngineEntrance6": "ROJA: ACQUARIUS, DID YOU BREAK ZE LIGHTING? It's hard enough for me to paint normally!",
         "$HN2EngineEntrance7": "ACQUARIUS: ...case in point.",
@@ -40,8 +40,8 @@
         "$HN2EngineBattery1": "ACQUARIUS: ...and that's the last battery charged, including the spares.",
         "$HN2EngineBattery2": "LILY: What are the spares for?",
         "$HN2EngineBattery3": "ACQUARIUS: Boss wants me to put some extras in my room in case someone else comes and wants to follow us.",
-        "$HN2EngineBattery4": "LILY: Actually, I have been wondering: after we step into the device with our batteries in hand, we're not going to be able to come back. Who is going to turn the device off?",
-        "$HN2EngineBattery5": "ACQUARIUS: Oh, it won't be shut off. It's a little too complicated to just turn back on, so others who want to follow just need to read the mem'ry cubes and head into the device with one of the spare batteries.",
+        "$HN2EngineBattery4": "LILY: Actually, I have been wondering: After we step into the Device with our batteries in hand, we're not going to be able to come back. Who is going to turn the Device off?",
+        "$HN2EngineBattery5": "ACQUARIUS: Oh, it won't be shut off. It's a little too complicated to just turn it back on, so others who want to follow just need to read the mem'ry cubes and head into the Device with one of the spare batteries.",
         "$HN2EngineBattery6": "LILY: But won't that drain all the power? The Device certainly won't function without energy.",
         "$HN2EngineBattery7": "ACQUARIUS: Don't worry, Boss says the reserve power should last right up until the sun goes Supernova.",
         "$HN2EngineBattery8": "LILY: Well, what about this room? Certainly all the power draw is going to cause a lot of stress on the ship. How will we know if the ship even survives until then?",
@@ -49,7 +49,7 @@
         "$HN2EngineBattery10": "ACQUARIUS: I'm sure it'll be <![CDATA[<i>fiiiiine</i>]]>.",
 
         // Library
-        "$HN2LibraryIntro1": "Welcome to my Grand Archives. Over the thousands of millenia I explored the cosmos, I have hoarded the knowledge of many civilizations and recorded all of it here in this library.",
+        "$HN2LibraryIntro1": "Welcome to my Grand Archives. Over the thousands of millenia I have explored the cosmos, I have hoarded the knowledge of many civilizations and recorded all of it here in this library.",
         "$HN2LibraryIntro2": "Unless you are also 20 feet tall, please do not attempt to take any books from the larger shelves. For books you can safely hold, please ask Vultos for assistance with getting a translated copy in your language.",
 
         "$HN2LibraryArt1": "VESPA: Roja, how do you do it?",
@@ -58,12 +58,14 @@
         "$HN2LibraryArt4": "ROJA: Colorblindness? True, only being able to see ze world in various shades of red does make it difficult to paint, but it helps to do more abstract art like zis. Details become less important.",
         "$HN2LibraryArt5": "VESPA: True, I have noticed you don't really paint landscape scenes like is common among my kind.",
         "$HN2LibraryArt6": "ROJA: Ah, yes, I vould love to see some of your culture's arts! I vonder vat kind of secrets you would hide in zem.",
+        "$HN2LibraryArt7": "VESPA: Well, it's not unheard of to hide secrets behind paintings, but that has never been an interest of mine, personally. Do you like hiding secrets in your paintings?",
+        "$HN2LibraryArt8": "ROJA: ...well, zat is a secret, now, isn't it?",
 
-        "$HN2LibraryRR1": "NOTICE: Access to the Reading Room is restricted while overdue books are taken out and unaccounted for. Please bring the books to this table and they will be returned automatically.",
-        "$HN2LibraryRR2": "As of the last scan (2 hours ago) there are three missing books:",
+        "$HN2LibraryRR1": "NOTICE: Access to the Reading Room is restricted while overdue books are taken out and unaccounted for. Please bring the books to this table and they will be returned shortly.",
+        "$HN2LibraryRR2": "As of the last scan (2 hours ago), there are three missing books:",
         "$HN2LibraryRR3": "SECRET LEGENDS: A Hero's Guide to Deciphering the Undecipherable, by Skip. Detected in: Dormatory, Vultos' room.",
         "$HN2LibraryRR4": "THE COORDINATES CRASH, by Ixrecius. Detected in: Campfire Room",
-        "$HN2LibraryRR5": "THE ASTEROID ARCADE, by Sir Zen Quobois XLII. Detected in: Library, above intended reading space. CAUTION: There is no architecture leading to the estimated location, excercise caution if you intend to seek it out.",
+        "$HN2LibraryRR5": "THE ASTEROID ARCADE, by Sir Zen Quobois XLII. Detected in: Library, above intended reading space. CAUTION: There is no architecture leading to the estimated location, exercise caution if you intend to seek it out.",
 
         "$HN2LibrarySecret1": "MAGISTER: Vultos, it does please me that you are just as interested in the secrets of the universe as I am.",
         "$HN2LibrarySecret2": "VULTOS: Hmm? Oh, yeah, sure.",
@@ -81,14 +83,14 @@
         "$HN2LibraryLamp3": "VULTOS: ...are you...hypnotized?",
         "$HN2LibraryLamp4": "VULTOS: ...moths are <![CDATA[<i>weird</i>]]>.",
 
-        "$HN2LibraryMagi1": "QUARTZ: You know, forgive me if this a bit of an inappropriate question, but, well, do any of you guys know what the Magister, well, looks like?",
+        "$HN2LibraryMagi1": "QUARTZ: You know, forgive me if this is a bit of an inappropriate question, but, well, do any of you guys know what the Magister, well, looks like?",
         "$HN2LibraryMagi2": "ACQUARIUS: Admittedly, I've often wondered the same thing. Boss never leaves 'is room without 'is mask and robe, unless he's disguised.",
-        "$HN2LibraryMagi3": "VULTOS: I've always just assumed he was some kind of eldritch monstrosity, to be honest.",
+        "$HN2LibraryMagi3": "VULTOS: I've always just assumed he was some kind of cosmic horror, to be honest.",
         "$HN2LibraryMagi4": "LILY: Hypothesis, what we see is not even his true form, but he has taken it because it is something we can comprehend.",
         "$HN2LibraryMagi5": "VESPA: Perhaps he believes we will find his appearance frightening.",
         "$HN2LibraryMagi6": "ROJA: Yes, I've seen it...you do not vant to...I still have not recovered.",
         "$HN2LibraryMagi7": "VESPA: You saw his true self, dear? Oh, no, come here, we didn't mean to stress you out.",
-        "$HN2LibraryMagi8": "VULTOS: ...eldritch monstrosity it is, I guess.",
+        "$HN2LibraryMagi8": "VULTOS: ...cosmic horror it is, I guess.",
 
         // Camp Room
         "$HN2Camp1": "VULTOS: Well, it seems that campfires are a constant of the universe.",
@@ -99,7 +101,7 @@
         "$HN2Camp6": "ROJA: Mmm, delicious!",
         "$HN2Camp7": "MAGISTER: Yes, quite, the flavor is...something. But I believe it's incomplete...",
         "$HN2Camp8": "QUARTZ: What? You dare insult the Hearthian Magnum Opus?",
-        "$HN2Camp9": "MAGISTER: Oh, I would not dream of it. It is quite a flavor, even on its own. But, perhaps with the several of us here, the flavor can be enhanced. Lily, do you have any of those honey crackers?",
+        "$HN2Camp9": "MAGISTER: Oh, I would not dream of it. It has quite a flavor, even on its own. But, perhaps with the several of us here, the flavor can be enhanced. Lily, do you have any of those honey crackers?",
         "$HN2Camp10": "LILY: Of course, Magister! Here, I have a pack right now.",
         "$HN2Camp11": "MAGISTER: Wonderful! And Acquarius, do you have any chocolate?",
         "$HN2Camp12": "ACQUARIUS: Salted or unsalted? I got 'em both.",
@@ -115,7 +117,7 @@
         "$HN2FoxleCube5": "QUARTZ: By the way, what's your story, Vultos? You've been here the longest, right?",
         "$HN2FoxleCube6": "VULTOS: Well, not quite: the Magister was here first. No one really knows his story. But, he did find me and rescue me. My escape pod landed on an uninhabited planet, and I lacked the skills for survival. I would have died, if he hadn't found me and brought me on board.",
         "$HN2FoxleCube7": "QUARTZ: And it was then he presented you the idea for the Device, right? I admit, I still find the whole idea a little weird.",
-        "$HN2FoxleCube8": "VULTOS: It's undertandable to doubt our goal here. But it's for the good of all. We must ensure this universe does not truly die.",
+        "$HN2FoxleCube8": "VULTOS: It's understandable to doubt our goal here. But it's for the good of all. We must ensure this universe does not truly die.",
 
         // Foxle Dorm Secret
         "$HN2FoxleSecret1": "VULTOS: It's really been 200 years since that day, huh. 200 years since...I ran like a coward.",
@@ -151,7 +153,7 @@
         // Redeye Dorm
         "$HN2RedeyeCube1": "ROJA: *soothing humming*",
         "$HN2RedeyeCube2": "VULTOS: This is quite a garden you've got here. I guess you have a lot of experience with plants?",
-        "$HN2RedeyeCube3": "ROJA: Oh! I did not see you zere! Yes, I am a master gardener. It vas my main hobby back home, and quite a valueable profession.",
+        "$HN2RedeyeCube3": "ROJA: Oh! I did not see you zere! Yes, I am a master gardener. It vas my main hobby back home, and quite a valuable profession.",
         "$HN2RedeyeCube4": "VULTOS: Oh, really, why is that?",
         "$HN2RedeyeCube5": "ROJA: Oh, vell you see, my kind has extremely limited color vision. Many colors you can distinguish appear identical to us. As ve are an herbivorous species, being able to determine vat a plant vas vis our far more limited ability to really see zem vas an invaluable skill.",
         "$HN2RedeyeCube6": "VULTOS: I see. Well, I'm glad you have a hobby you enjoy so much, and you're able to be a big help to your kind.",
@@ -166,14 +168,14 @@
         "$HN2HearthCube5": "ROJA: Zat is true.... Just promise me zat you von't cause a fire. I'd hate for something to happen to you, or my plants next door.",
         "$HN2HearthCube6": "QUARTZ: Of course! I shall do my best to ensure this is maintained responsibly.",
         "$HN2HearthCube7": "ROJA: Sank you. By the vay, vy do you even have it?",
-        "$HN2HearthCube8": "QUARTZ: It's a special blend of flammable tree sap. I figure if there's anything I can contribute to the device, it's the Hearthian special fuel.",
+        "$HN2HearthCube8": "QUARTZ: It's a special blend of flammable tree sap. I figure if there's anything I can contribute to the Device, it's the Hearthian special fuel.",
 
         // Magister Dorm Entrance
-        "$HN2MagiDoor1": "The Magister is not in right now. Entrance to his quarters are currently denied. Please come back later, the Magister will return in: 999,999 YEARS.",
+        "$HN2MagiDoor1": "The Magister is not in right now. Entrance to his quarters is currently denied. Please come back later, the Magister will return in: 999,999 YEARS.",
 
         // Magister Dorm Cubes
         "$HN2MagiKirmby1": "I found this figure at a gift shop in some forgotten land. There were several versions of this character in various configurations, and almost all of them looked...adorable.",
-        "$HN2MagiKirmby2": "But this one, this one...something about it just...fills me with a sense of ANGER and MALICE. As if...the only thing I want when I look at it is to BAN it from existance.",
+        "$HN2MagiKirmby2": "But this one, this one...something about it just...fills me with a sense of ANGER and MALICE. As if...the only thing I want when I look at it is to BAN it from existence.",
         "$HN2MagiKirmby3": "Perhaps it was unwise to obtain something that affects me so negatively, but I am just so...intrigued by it.",
 
         "$HN2MagiStart1": "I woke up in this mysterious vessel.... I do not know who I am...what I am...or why I am here.",
@@ -191,26 +193,26 @@
         "$HN2MagiFox3": "When he recovered, I offered him board, in return for his assistance. I had a plan to counter the Lie, and for that I would need to build a Device. However, this Device was based on connections, on community, and in order for it to function, I would need the collaboration of many others.",
         "$HN2MagiFox4": "Without hesitation, he agreed. I created a room for him, and we exchanged more information about each other. His name is Vultos. And my name is...my name...I...I told him that I am the Magister.",
 
-        "$HN2MagiLife1": "I have encountered a major problem. I am immortal, and while the idea that a being would have a limited lifespawn is a known fact to me, it has just not occurred to me just how short a life is.",
+        "$HN2MagiLife1": "I have encountered a major problem. I am immortal, and while the idea that a being would have a limited lifespan is a known fact to me, it has just not occurred to me just how short a life is.",
         "$HN2MagiLife2": "Vultos is aging quite rapidly, and while he has been an invaluable asset in the creation of the Device, he will not live nearly long enough to see it be fired.",
         "$HN2MagiLife3": "Fortunately, I have a solution. An Immortality Crystal, installed as part of the Device, and completely preventing aging. It will not work for our ultimate goal, but it should allow anyone on this ship to survive long enough to see the day it is reached.",
 
         "$HN2MagiOwlk1": "I passed by an inhabited moon, and in disguise I visited the population in search of someone who would be willing to work on the Device. The beings here are bird-like, with antlers.",
-        "$HN2MagiOwlk2": "I was recommended the house of one of them who was a young inventor, Vespa. She had created a telescope powered by flame, capable of detecting signals from space.",
+        "$HN2MagiOwlk2": "I was recommended the house of one of them, who was a young inventor, Vespa. She had created a telescope powered by flame, capable of detecting signals from space.",
         "$HN2MagiOwlk3": "It took some convincing, as she was understandably quite scared of the idea, but when I turned to leave, she changed her mind. It seemed that her fear of the unknown was overcome by her desire to see the cosmos she had studied all her life.",
         "$HN2MagiOwlk4": "On the ship, we talked about her and her kind. The name for their race roughly translates to \"Inhabitants\", but Vultos, spooked by her when she first arrived, wanted to call her \"Ghost Bird.\". She's not really a fan of the nickname, though. Considering that she seems to share traits with both owls and elks, I've presented the idea O-[REMAINING RECORDING CORRUPTED]",
 
-        "$HN2MagiPiscen1": "Today we crashed into an ocean planet. There was a malfunction with the engines and the ship was unable to counter the massive gravity when we tried to park.",
+        "$HN2MagiPiscen1": "Today we crashed into an ocean planet. There was a malfunction with the engines, and the ship was unable to counter the massive gravity when we tried to park.",
         "$HN2MagiPiscen2": "Fortunately, this planet is occupied by a friendly race of semiaquatic four-armed shark people, and one of them was kind enough to come aboard and try to fix the engines.",
-        "$HN2MagiPiscen3": "He's an electrical engineer named Acquarius, and he's quite friendly despite how initimidating poor old Vultos finds him. He's even taller than Vespa, though of course nowhere near my true stature.",
+        "$HN2MagiPiscen3": "He's an electrical engineer named Acquarius, and he's quite friendly despite how intimidating poor old Vultos finds him. He's even taller than Vespa, though of course nowhere near my true stature.",
         "$HN2MagiPiscen4": "He was absolutely fascinated by all of the equipment on our ship, and he actually asked to join our crew. Well, welcome aboard!",
 
         "$HN2MagiNomai1": "I came across yet another escape pod today, this one Nomaian in origin. Despite the massive capacity, there was only one member on board, by the name of Lily.",
-        "$HN2MagiNomai2": "Like Vespa, she was an inventor, and she had created a Warp Core Anti-Distortion Safeguard. This component, meant to be equipped to their Vessels, would essentially \"ping\" the area a Vessel is attempting to warp to and check for distorted space. If such space was found, it would modify the warp coordinates slightly to prevent a potential disaster.",
-        "$HN2MagiNomai3": "She planned to present this at a Festival, but her clan laughed at the idea. Distorted space was an unproven concept and the component was quite expensive to create. In a fit of anger, she used an Escape Pod in an attempt to get as far from her clan as possible.",
+        "$HN2MagiNomai2": "Like Vespa, she was an inventor, and she had created a Warp Core Anti-Distortion Safeguard. This component, meant to be equipped to their Vessels, would essentially \"ping\" the area a Vessel is attempting to warp to and check for distorted space. If such space were found, it would modify the warp coordinates slightly to prevent a potential disaster.",
+        "$HN2MagiNomai3": "She planned to present this at a Festival, but her clan laughed at the idea. Distorted space was an unproven concept, and the component was quite expensive to create. In a fit of anger, she used an Escape Pod in an attempt to get as far from her clan as possible.",
         "$HN2MagiNomai4": "I, however, was very interested in her tech and theories, and welcomed her aboard.",
 
-        "$HN2MagiRedeye1": "Roja: botanist and fashion guru. Why did I let her on board?",
+        "$HN2MagiRedeye1": "Roja: botanist and painter. Why did I let her on board?",
         "$HN2MagiRedeye2": "Do not get me wrong, I am happy to have a new member on our crew, but she is so...mischevious. I fear that she is one day going to poke around in this ship where she does not belong.",
         "$HN2MagiRedeye3": "Sigh...I am sure she will calm herself in time.",
 
@@ -222,10 +224,10 @@
         "$HN2OwlkSystem": "SYSTEM DESIGNATION: J0NC-RB3\nPOPULATION: None\nPreviously held a thriving civilization on a moon, the same moon is now a barren wasteland.",
         "$HN2HNSystem": "SYSTEM DESIGNATION: Hearth's Neighbor\nPOPULATION: None\nExtreme amounts of deadly matter and warped space detected.",
 
-        "$HN2HatchControls": "HATCH CONTROLS\nPlease stand clear of the docking bay while hatch is in motion.",
+        "$HN2HatchControls": "HATCH CONTROLS ENGAGED!\nPlease stand clear of the docking bay while hatch is in motion.",
 
         // Memory Poem Cube
-        "$HN2Poem1": "<![CDATA[<color=#0013FF>To wash away reget, that the sun may shine brighter tomorrow.</color>]]>",
+        "$HN2Poem1": "<![CDATA[<color=#0013FF>To wash away regret, that the sun may shine brighter tomorrow.</color>]]>",
         "$HN2Poem2": "<![CDATA[<color=#00FF9F>To overcome fear, that the unknown may be greeted with open arms.</color>]]>",
         "$HN2Poem3": "<![CDATA[<color=#3490FF>To build new monuments, that our mark may be left everlasting.</color>]]>",
         "$HN2Poem4": "<![CDATA[<color=#8451FF>To preserve advancement, that the next generation may not suffer from our mistakes.</color>]]>",
@@ -238,7 +240,7 @@
         "$HN2EndMIntro1A": "Who are you?",
         "$HN2EndMIntro1B": "Where are we?",
         "$HN2EndMIntro2": "Welcome to the Outer Planes, young one, the void beyond the Wilds. I am the Magister, the one who set this all in motion.",
-        "$HN2EndMIntro3": "You have joined us in a state that is not quite physical, in a space that is not quite in this universe. You still have some of your physical conciousness left, so you are unable to see what this place truly looks like quite yet; however, we can now finally communicate.",
+        "$HN2EndMIntro3": "You have joined us in a state that is not quite physical, in a space that is not quite in this universe. You still have some of your physical consciousness left, so you are unable to see what this place truly looks like quite yet; however, we can now finally communicate.",
 
         "$HN2EndMHubA": "Why did you do this?",
         "$HN2EndMHubB": "What have you found here?", // unused
@@ -247,10 +249,10 @@
         "$HN2EndMHubLeave": "What happens now?",
 
         "$HN2EndMWhy1": "I am an entity millions, if not billions, of years old. I have powers and knowledge beyond your comprehension. I have a vessel that responds to my every whim, even modifying its shape to be whatever I wanted. But, why?",
-        "$HN2EndMWhy2": "I do not know where I come from. I know I was created, but I do not know who created me. I had hypothesized that whoever they were, they were not of this universe. I began to come up with an idea for a device that would allow me to ascend beyond this universe, but my attempts and ideas went nowhere. I eventually gave up.",
+        "$HN2EndMWhy2": "I do not know where I come from. I know I was created, but I do not know who created me. I had hypothesized that whoever they were, they were not of this universe. I began to come up with an idea for a Device that would allow me to ascend beyond this universe, but my attempts and ideas went nowhere. I eventually gave up.",
         "$HN2EndMWhy3": "But then...I discovered the mortality of this universe. The idea that it had to end.",
         "$HN2EndMWhy4": "But I rejected that idea. Surely it was a lie.",
-        "$HN2EndMWhy5": "I realized that I wanted to defy that lie. I wanted to preserve the life in this universe, by any means neccessary. To that end, I revisited the idea of the Device. I was not powerful enough to stop the stars themselves from dying, but I could perhaps take at least a few people with me who did not mind the concept of surfing the unknown for eternity.",
+        "$HN2EndMWhy5": "I realized that I wanted to defy that lie. I wanted to preserve the life in this universe, by any means necessary. To that end, I revisited the idea of the Device. I was not powerful enough to stop the stars themselves from dying, but I could perhaps take at least a few people with me who did not mind the concept of surfing the unknown for eternity.",
         "$HN2EndMWhy6": "And then, as I began to recruit people to help build the Device, this common goal began to take shape. I began to suspect my purpose was perhaps to build a community here, and as people joined us, I had more ideas about how to construct the Device.",
         "$HN2EndMWhy7": "Finally, after seven of us had gathered, all from different backgrounds and time periods, we had everything we needed, and the Device was finished. I left it on, so that others interested could follow if they wished. Although, in my haste to finally ascend, I seem to have made some mistakes and did not properly prepare my vessel for foreign visitors. I apologize for making your journey more difficult than intended.",
 
@@ -269,7 +271,7 @@
         "$HN2EndMFind6": "These realities moved like clockwork, in mysterious layers. Worlds were bigger on the inside, and hidden in plain sight.",
         "$HN2EndMFind7": "But then...then I looked beyond. I saw strange creatures. Beings beyond any of these realities. Close, I saw a dragon, a shoe, a Hearthian in Nomai clothes, a turtle, and some pink puffball.",
         "$HN2EndMFind8": "Further, there were more. A cow, a rock, a nebula, a Canadian, a fox, more turtles, a three-eyed cat, and many more. They seem to be a...community of their own. I began to suspect that these individuals were the creators of these realities. Perhaps even...my creators.",
-        "$HN2EndMFind9": "And then, I realized, they had already done what I wanted. They had subverted the lie. This universe indeed did not have to truly end, and they were repsonsible.",
+        "$HN2EndMFind9": "And then, I realized, they had already done what I wanted. They had subverted the lie. This universe indeed did not have to truly end, and they were responsible.",
         "$HN2EndMFind10": "In the end, was my desire simply their desire? To contribute to increasing the lifespan of this universe?",
         "$HN2EndMFind11": "If so, then I am glad to have served my purpose, and I am thankful to you for being their avatar.",
         "$HN2EndMFind12": "And to these beings, if they can hear me, thank you.",
@@ -279,7 +281,7 @@
 
         // Vultos
         "$HN2EndF1": "Hello. It has been a long time since I met someone with your curiosity.",
-        "$HN2EndF2": "Tell me, how does it feel to know the survival of your race hanges on your shoulders?",
+        "$HN2EndF2": "Tell me, how does it feel to know the survival of your race hangs on your shoulders?",
         "$HN2EndFA": "It's not easy. I shouldn't have to make that kind of decision.",
         "$HN2EndFB": "I've come to accept it.",
         "$HN2EndFA1": "I understand. I have lived with regret ever since...that day, and I do not know if I made the correct decision. But, I cannot imagine what it must be like to be perpetually stuck in a position where you must make that decision.",
@@ -293,28 +295,33 @@
         "$HN2EndFHNA5": "Do not live with regret. It consumes you. I only got through it because of my friends. Never forget those who have brought you this far.",
         "$HN2EndFHNB1": "In short, I made a choice to save myself, but that choice may have prevented any others from being saved.",
 
+        // Vespa
         "$HN2EndO1": "Greetings. Do not fear. The unknown is scary, but beautiful.",
         "$HN2EndO2": "I wish my race had maintained their curiosity like you, but in the end, they let their fear take over, and fear became hate.",
         "$HN2EndO3": "But your curiosity, it is a wonderful thing. Never stop exploring.",
 
+        // Acquarius
         "$HN2EndP1": "Aye. If we were still corporial, I'd put you through a workout. You're a twig!",
         "$HN2EndP2": "But, yer smart. You managed ta get all the way here. You'll do fine.",
         "$HN2EndP3": "Also, ya really need ta invent chocolate. You're missing out.",
 
+        // Lily
         "$HN2EndN1": "Greetings. I am Lily. I am Nomai, but you already knew all that.",
-        "$HN2EndN2": "I do not know whether to envy you. You are potentially the ultimate explorer. You can explore anywhere without fear of consquence and death.",
+        "$HN2EndN2": "I do not know whether to envy you. You are potentially the ultimate explorer. You can explore anywhere without fear of consequence and death.",
         "$HN2EndN3": "Yet, you are also unable to truly share your discoveries. Anything you learn will be forgotten in minutes.",
         "$HN2EndN4": "To explore, and share our discoveries, that is the goal of the Nomai. It is why we became nomads in the first place.",
 
+        // Roja
         "$HN2EndR1": "Hiiiiii! I like your flashlight. I am so glad zat in zis state, I can see you in full color!",
-        "$HN2EndR2": "I hope you liked the art and and plants. I tried very hard to make them look good.",
+        "$HN2EndR2": "I hope you liked the art and plants. I tried very hard to make them look good.",
         "$HN2EndR3": "Oh, perhaps I can see you paint later? I'd love to be your friend.",
 
+        // Quartz
         "$HN2EndH1": "Hey hatchling! Pull up a marshmallow stick!",
         "$HN2EndH2": "Well, we'll have time to roast marshmallows again later. How is the village doing?",
         "$HN2EndHA": "We went to space!",
         "$HN2EndH3": "Really? Every Hearthian's dream to explore the Outer Wilds, it finally came true?",
-        "$HN2EndHB": "Yep! Hornfels, Feldspar, Gossan, Esker, and Slate founded Outer Wilds Ventures, a space program, and we've been exploring ever since.",
+        "$HN2EndHB": "Yep! Hornfels, Feldspar, Gossan, Esker, and Slate founded Outer Wilds Ventures, a space program, and we've been exploring the stars ever since.",
         "$HN2EndH4": "Ah, I know those names! They were only little hatchlings when I left. I'm glad to see they grew up into such fine Hearthians. And you! You're following in their footsteps! I am so happy to see our legacy continue.",
 
         // NOMAI TEXT ------------------------------
@@ -334,7 +341,7 @@
 
         // Dorm Walls
         "$HN2HomeWall1_1": "LILY: We have a new friend today! Her name is Roja.",
-        "$HN2HomeWall1_2": "LILY: She's a botanist, which I find very interesting. The way she sees plants must be quite unique. She's also an artist, and uses some interesting pallettes.",
+        "$HN2HomeWall1_2": "LILY: She's a botanist, which I find very interesting. The way she sees plants must be quite unique. She's also an artist, and uses some interesting palettes.",
         "$HN2HomeWall1_3": "LILY: The Magister put her room right after mine, so I'm no longer at the end of the hallway.",
         "$HN2HomeWall1_4": "LILY: It's always quite a sight to see the Magister at work, manipulating the shape of this Vessel at will.",
 
@@ -395,7 +402,7 @@
 
         "$HN2LogEndName": "The Outer Planes",
         "$HN2LogEndNameRumor": "The Device",
-        "$HN2LogEndRumorChamber": "In the center of the Grand Chamber is some kind of device. The device is surrounded with text in various languages, including Nomai and Hearthian.",
+        "$HN2LogEndRumorChamber": "In the center of the Grand Chamber is some kind of Device on a platform. The Device is surrounded with text in various languages, including Nomai and Hearthian.",
         "$HN2LogEndRumorLibrary": "The Device will not fire if someone on the platform is wearing too much. Thick protection, such as a spacesuit, needs to be removed before standing on the platform.",
         "$HN2LogEndRumorEngine": "The Device requires that the user hold a battery. Spare batteries can be found in one of the dormitories.",
         "$HN2LogEndRumorMagi": "I found controls for the hatch. Air is no longer flowing away from the Device.",
@@ -445,7 +452,7 @@
     "OtherDictionary": {
         "$HN2TimeStateLowGrav": "MAGISTARIUM NOTIFICATION: POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS.",
         "$HN2TimeStateNoGrav": "MAGISTARIUM NOTIFICATION: POWER VERY LOW. CUTTING POWER TO GRAVITY",
-        "$HN2TimeStateRedLights": "MAGISTARIUM NOTIFICATION: EMERGENCY POWER ONLY. OXYGEN PRODUCTION OFFLINE. RESERVE OXYGEN WILL DEPLETE IN THREE MINUTES.",
+        "$HN2TimeStateRedLights": "MAGISTARIUM NOTIFICATION: EMERGENCY POWER ONLY. OXYGEN PRODUCTION OFFLINE. RESERVE OXYGEN AND POWER WILL DEPLETE IN THREE MINUTES.",
         "$HN2TimeStateDead": "MAGISTARIUM NOTIFICATION: POWER DEPLETED,  SHUTTING DOWN...",
 
         "$HN2ItemBook": "Book",
