@@ -11,24 +11,24 @@ namespace HearthsNeighbor2
     {
         public Animator hatchAnim;
         public GameObject[] objectsToToggle;
+        public MemoryCube hatchCube;
         public bool hatchOpen = true;
 
-        private SingleInteractionVolume _interactVolume;
-
-        private void Awake()
+        private void Start()
         {
-            _interactVolume = this.GetRequiredComponent<SingleInteractionVolume>();
-            _interactVolume.OnPressInteract += OnPressInteract;
+            GetComponentInParent<MemoryCube>().onFinishedReading += ToggleHatchControls;
         }
 
-        private void OnPressInteract()
+        private void ToggleHatchControls()
         {
             hatchOpen = !hatchOpen;
             hatchAnim.SetBool("HatchOpen", hatchOpen);
+            HearthsNeighbor2.Main.ModHelper.Console.WriteLine($"Hatch controls set to {(hatchOpen ? "OPEN" : "CLOSED")}", OWML.Common.MessageType.Info);
             foreach (var obj in objectsToToggle)
             {
                 obj.SetActive(hatchOpen);
             }
+            hatchCube.ChangeActiveState(false);
         }
     }
 }

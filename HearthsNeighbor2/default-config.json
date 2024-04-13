@@ -1,4 +1,17 @@
 {
-  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json",
-  "enabled": true
+    "enabled": true,
+    "settings": {
+        "EasyMode": {
+            "title": "Highlight Important Memory Cubes",
+            "type": "toggle",
+            "value": false,
+            "tooltip": "There is a lot of text in Magistarium! If you don't want to read it all, this setting will highlight Memory Cubes that grant a ship log entry with an orange outline, instead of the default white. (Does not apply if you've already read the cube this cycle, nor does it affect text from sources other than Memory Cubes.)"
+        },
+        "FocusOnCubes": {
+            "title": "Follow Memory Cubes As They Move",
+            "type": "toggle",
+            "value": true,
+            "tooltip": "Is the bobbing of the Memory Cubes annoying you, but you don't want to Freeze Time While Talking To Others?\nThis will keep the camera still when you interact with them."
+        }
+    }
 }

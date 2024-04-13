@@ -1,5 +1,6 @@
 ﻿using OWML.Common;
 using OWML.ModHelper;
+using System;
 using System.Collections;
 using UnityEngine;
 
@@ -19,6 +20,11 @@ namespace HearthsNeighbor2
 
         public bool isInSystem = false;
         public bool hasBattery = false;
+
+        public bool easyMode = false;
+        public bool focusOnCubes = true;
+
+        public event Action configsUpdated;
 
         private static HearthsNeighbor2 instance;
         private void Awake()
@@ -49,14 +55,27 @@ namespace HearthsNeighbor2
                 isInSystem = system == "Jam3"; 
                 if (isInSystem)
                 {
-                    if (PlayerData.GetShipLogFactSave("HN_POD_RESOLUTION") != null)
+                    if (PlayerData.GetShipLogFactSave("HN_POD_RESOLUTION") != null && PlayerData.GetShipLogFactSave("HN_POD_RESOLUTION").revealOrder > -1)
                     {
+                        ModHelper.Console.WriteLine("Player has finished Hearth's Neighbor 1! Special treat for you!", MessageType.Success);
                         StartCoroutine(RegisterConnectionLog());
                     }
 
                     hasBattery = false;
                 }
             });
+
+            // Load settings
+            easyMode = ModHelper.Config.GetSettingsValue<bool>("EasyMode");
+            focusOnCubes = ModHelper.Config.GetSettingsValue<bool>("FocusOnCubes");
+        }
+
+        public override void Configure(IModConfig config)
+        {
+            easyMode = ModHelper.Config.GetSettingsValue<bool>("EasyMode");
+            focusOnCubes = ModHelper.Config.GetSettingsValue<bool>("FocusOnCubes");
+
+            configsUpdated?.Invoke();
         }
 
         IEnumerator RegisterConnectionLog()

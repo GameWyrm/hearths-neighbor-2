@@ -27,6 +27,14 @@ namespace HearthsNeighbor2
             rend = GetComponent<MeshRenderer>();
             sector = GetComponentInParent<Sector>();
             sector.OnSectorOccupantsUpdated += () => CheckStatus(sector.GetOccupants().Count);
+            GlobalMessenger.AddListener("EnterMapView", () =>
+            {
+                if (mainPlanetLoaded) rend.enabled = true;
+            });
+            GlobalMessenger.AddListener("ExitMapView", () =>
+            {
+                if (mainPlanetLoaded) rend.enabled = false;
+            });
         }
 
         private void CheckStatus(int occupants)
