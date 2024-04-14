@@ -305,7 +305,7 @@
         "$HN2EndFHNB1": "In short, I made a choice to save myself, but that choice may have prevented any others from being saved.",
 
         // Vespa
-        // Her name comes from a Hollow Knight character, specifically the queen of the bees. This name was chosen as many Owlks are internally references to pop culture, including Hollow Knight.
+        // Her name comes from a Hollow Knight character, specifically the queen of the bees. This name was chosen as many Owlks are internally references to stories with dream worlds, including Hollow Knight.
         "$HN2VespaName": "Vespa",
         "$HN2EndO1": "Greetings. Do not fear. The unknown is scary, but beautiful.",
         "$HN2EndO2": "I wish my race had maintained their curiosity like you, but in the end, they let their fear take over, and fear became hate.",
@@ -313,7 +313,7 @@
 
         // Acquarius
         // Unlike the others there's not much thought put into this name other than it being something that incorporated the term "Aqua"
-        "$HN2AquariusName": "Aquarius",
+        "$HN2AquariusName": "Acquarius",
         "$HN2EndP1": "Aye. If we were still corporial, I'd put you through a workout. You're a twig!",
         "$HN2EndP2": "But, yer smart. You managed ta get all the way here. You'll do fine.",
         "$HN2EndP3": "Also, ya really need ta invent chocolate. You're missing out.",
@@ -373,14 +373,14 @@
         "$HN2HomeWall3_2": "LILY: I would love to be able to actually contribute to something important, and be appreciated. I'll be working with four others.",
         "$HN2HomeWall3_A1": "LILY: The leader of this vessel is an enigmatic figure who calls himself \"The Magister.\" He is quite powerful, able to manipulate this vessel at will, and can change his size...and appearance.",
         "$HN2HomeWall3_A2": "LILY: Normally, he keeps his appearance to be a tall, cloaked figure, with his five glowing eyes visible behind his mask. His size is immense, easily twice the size of Acquarius, who himself is about four times my own size.",
-        "$HN2HomeWall3_A3": "LILY: Despite his immensity, though, he is very friendly and polite. When speaking with him, it's easy to forget the difference in our sizes and not be intimidated. I very much enjoy discussing advanced topics with him!",
+        "$HN2HomeWall3_A3": "LILY: Despite his immensity, though, he is very friendly and polite. When speaking with him, it's easy to forget the difference in our sizes and not be intimidated. I very much enjoy discussing complex topics with him!",
         "$HN2HomeWall3_B1": "LILY: The first person to have joined the Magister's crew is a bibliophile named Vultos. He is covered in fur like myself, aside from a hard shell on his back and partially running down his forehead, and has a long, bushy tail.",
         "$HN2HomeWall3_B2": "LILY: He normally has quite a cheerful demeanor, and I love spending time with him. He enjoys playing games with us and cracking jokes, when he's not hiding somewhere absorbed in some volume.",
         "$HN2HomeWall3_B3": "LILY: Still, I sense a sadness within him. He has some deep regret, but I am reluctant to ask him about it. I am sure the opportunity will arise.",
-        "$HN2HomeWall3_C1": "LILY: One of my fellow crewmates is a tall, feathered, but antlered individual named Vespa. She is also an inventor, much like myself!",
+        "$HN2HomeWall3_C1": "LILY: One of my fellow crewmates is a tall, feathered, and antlered individual named Vespa. She is also an inventor, much like myself!",
         "$HN2HomeWall3_C2": "LILY: She loves seeing the stars, and discussing technology!",
-        "$HN2HomeWall3_D1": "LILY: The newest member of the crew (before me of course) is a tall, acquatic individual named Acquarius.",
-        "$HN2HomeWall3_D2": "LILY: He's very mechanically minded, and likes to work out. He's quite a strong hunk!",
+        "$HN2HomeWall3_D1": "LILY: The newest member of the crew (before me of course) is a tall, aquatic individual named Acquarius.",
+        "$HN2HomeWall3_D2": "LILY: He's very mechanically-minded, and likes to work out. He's quite a strong hunk!",
         "$HN2HomeWall3_D3": "LILY: He also likes to build little mechanisms, and he's lined his shelves with them, along with his tools.",
 
 
