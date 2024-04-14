@@ -395,6 +395,143 @@
                 "xmlFile": "nomai/HomeWall2.xml"
             },
             {
+                "parentPath": "Sector/Magistration/Sectors/Dorms/Nomai/SecondFloor/Walls/GreatNomaiWall/TextOrigin",
+                "isRelativeToParent": true,
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rename": "HomeNomai3",
+                "type": "wall",
+                "seed": 954382,
+                "xmlFile": "nomai/HomeWall3.xml",
+                "arcInfo": [
+                    //1
+                    {
+                        "mirror": false,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "zRotation": 333.3748
+                    },
+                    //2
+                    {
+                        "mirror": true,
+                        "position": {
+                            "x": 0.3618,
+                            "y": 0.4509
+                        },
+                        "zRotation": 358.4
+                    },
+                    //3
+                    {
+                        "mirror": true,
+                        "position": {
+                            "x": 0.2455,
+                            "y": 1.013
+                        },
+                        "zRotation": 241.2
+                    },
+                    //4
+                    {
+                        "mirror": false,
+                        "position": {
+                            "x": 1.2806,
+                            "y": 1.6634
+                        },
+                        "zRotation": 277.1
+                    },
+                    //5
+                    {
+                        "mirror": true,
+                        "position": {
+                            "x": 1.8382,
+                            "y": 0.7128
+                        },
+                        "zRotation": 190
+                    },
+                    //6
+                    {
+                        "mirror": false,
+                        "position": {
+                            "x": -0.2964,
+                            "y": 1.5091
+                        },
+                        "zRotation": 358.8
+                    },
+                    //7
+                    {
+                        "mirror": false,
+                        "position": {
+                            "x": 0.6745,
+                            "y": 1.8255
+                        },
+                        "zRotation": 356
+                    },
+                    //8
+                    {
+                        "mirror": false,
+                        "position": {
+                            "x": 1.8254,
+                            "y": 2.6909
+                        },
+                        "zRotation": 277.5
+                    },
+                    //9
+                    {
+                        "mirror": true,
+                        "position": {
+                            "x": -0.6054,
+                            "y": 1.4909
+                        },
+                        "zRotation": 329
+                    },
+                    //10
+                    {
+                        "mirror": true,
+                        "position": {
+                            "x": -1.2545,
+                            "y": 2.7136
+                        },
+                        "zRotation": 9.5
+                    },
+                    //11
+                    {
+                        "mirror": true,
+                        "position": {
+                            "x": -0.7909,
+                            "y": 1.0291
+                        },
+                        "zRotation": 78.2
+                    },
+                    //12
+                    {
+                        "mirror": false,
+                        "position": {
+                            "x": -1.7709,
+                            "y": 0
+                        },
+                        "zRotation": 106.5
+                    },
+                    //13
+                    {
+                        "mirror": false,
+                        "position": {
+                            "x": -2.6727,
+                            "y": 0.6302
+                        },
+                        "zRotation": 59.3
+                    }
+                ]
+            },
+            {
                 "position": {
                     "x": 4.841661,
                     "y": 45.85664,

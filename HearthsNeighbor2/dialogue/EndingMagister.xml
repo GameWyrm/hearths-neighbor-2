@@ -1,6 +1,6 @@
 ﻿<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                   xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
-  <NameField>the Magister</NameField>
+  <NameField>$HN2MagisterName</NameField>
 
   <DialogueNode>
     <Name>Start</Name>
@@ -24,6 +24,7 @@
     <Name>Intro2</Name>
     <Dialogue>
       <Page>$HN2EndMIntro2</Page>
+      <Page>$HN2EndMIntro3</Page>
     </Dialogue>
     <DialogueTarget>Hub</DialogueTarget>
   </DialogueNode>
@@ -31,7 +32,7 @@
   <DialogueNode>
     <Name>Hub</Name>
     <Dialogue>
-      <Page>$HN2EndMIntro3</Page>
+      <Page>$HN2EndMHub1</Page>
     </Dialogue>
     <DialogueOptionsList>
       <DialogueOption>
@@ -43,8 +44,11 @@
         <DialogueTarget>Door</DialogueTarget>
       </DialogueOption>
       <DialogueOption>
-        <Text>$HN2EndMHubLeave</Text>
-        <DialogueTarget>Leave</DialogueTarget>
+        <Text>$HN2EndMHubE</Text>
+        <DialogueTarget>Find</DialogueTarget>
+      </DialogueOption>
+      <DialogueOption>
+        <Text>$HN2EndMHubQuit</Text>
       </DialogueOption>
     </DialogueOptionsList>
   </DialogueNode>
@@ -102,7 +106,7 @@
   </DialogueNode>
 
   <DialogueNode>
-    <Name>Leave</Name>
+    <Name>Find</Name>
     <Dialogue>
       <Page>$HN2EndMFind1</Page>
       <Page>$HN2EndMFind2</Page>

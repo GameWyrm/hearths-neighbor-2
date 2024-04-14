@@ -37,6 +37,7 @@ namespace HearthsNeighbor2
             });
         }
 
+
         private void CheckStatus(int occupants)
         {
             if (occupants <= 0)

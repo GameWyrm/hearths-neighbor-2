@@ -2,6 +2,8 @@
     "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
     "DialogueDictionary": {
         // MEMORY CUBES ----------------------------
+        "$HN2MemoryCubeName": "Memory Cube",
+
         // Entrance dialogue
         "$HN2Entrance1": "TARGET RACE: \"Hearthian\"\nLANGUAGE FOUND IN DATABASE\nCONFIGURING ON-BOARD MEMORY STONES...DONE",
         "$HN2Entrance2": "Welcome, [HEARTHIAN]! Whether you are here seeking a new life, or have simply come to visit out of curiosity, the Magister welcomes you to our humble community!",
@@ -236,17 +238,22 @@
         "$HN2Poem7": "To save the memory of a universe, that it may not die.",
 
         // ENDING DIALOGUES
+        "$HN2MagisterName": "the Magister",
+
         "$HN2EndMIntro1": "...",
         "$HN2EndMIntro1A": "Who are you?",
         "$HN2EndMIntro1B": "Where are we?",
         "$HN2EndMIntro2": "Welcome to the Outer Planes, young one, the void beyond the Wilds. I am the Magister, the one who set this all in motion.",
         "$HN2EndMIntro3": "You have joined us in a state that is not quite physical, in a space that is not quite in this universe. You still have some of your physical consciousness left, so you are unable to see what this place truly looks like quite yet; however, we can now finally communicate.",
 
+        "$HN2EndMHub1": "What questions might you have for me?",
+
         "$HN2EndMHubA": "Why did you do this?",
         "$HN2EndMHubB": "What have you found here?", // unused
         "$HN2EndMHubC": "What's with all the cubes?", // unused
         "$HN2EndMHubD": "Can I enter that room behind the big door in the Grand Chamber?",
-        "$HN2EndMHubLeave": "What happens now?",
+        "$HN2EndMHubE": "What happens now?",
+        "$HN2EndMHubQuit": "Goodbye.",
 
         "$HN2EndMWhy1": "I am an entity millions, if not billions, of years old. I have powers and knowledge beyond your comprehension. I have a vessel that responds to my every whim, even modifying its shape to be whatever I wanted. But, why?",
         "$HN2EndMWhy2": "I do not know where I come from. I know I was created, but I do not know who created me. I had hypothesized that whoever they were, they were not of this universe. I began to come up with an idea for a Device that would allow me to ascend beyond this universe, but my attempts and ideas went nowhere. I eventually gave up.",
@@ -280,6 +287,8 @@
         "$HN2EndMFind15": "When you are ready to ascend with us, enter the shape below where you entered here.",
 
         // Vultos
+        // His name comes from "Vulpine" (meaning "fox" or "fox-like") and "Tortoise"
+        "$HN2VultosName": "Vultos",
         "$HN2EndF1": "Hello. It has been a long time since I met someone with your curiosity.",
         "$HN2EndF2": "Tell me, how does it feel to know the survival of your race hangs on your shoulders?",
         "$HN2EndFA": "It's not easy. I shouldn't have to make that kind of decision.",
@@ -296,33 +305,44 @@
         "$HN2EndFHNB1": "In short, I made a choice to save myself, but that choice may have prevented any others from being saved.",
 
         // Vespa
+        // Her name comes from a Hollow Knight character, specifically the queen of the bees. This name was chosen as many Owlks are internally references to pop culture, including Hollow Knight.
+        "$HN2VespaName": "Vespa",
         "$HN2EndO1": "Greetings. Do not fear. The unknown is scary, but beautiful.",
         "$HN2EndO2": "I wish my race had maintained their curiosity like you, but in the end, they let their fear take over, and fear became hate.",
         "$HN2EndO3": "But your curiosity, it is a wonderful thing. Never stop exploring.",
 
         // Acquarius
+        // Unlike the others there's not much thought put into this name other than it being something that incorporated the term "Aqua"
+        "$HN2AquariusName": "Aquarius",
         "$HN2EndP1": "Aye. If we were still corporial, I'd put you through a workout. You're a twig!",
         "$HN2EndP2": "But, yer smart. You managed ta get all the way here. You'll do fine.",
         "$HN2EndP3": "Also, ya really need ta invent chocolate. You're missing out.",
 
         // Lily
+        // Nomai are named after plants and botany terms. Lily is named after a famous flower.
+        "$HN2LilyName": "Lily",
         "$HN2EndN1": "Greetings. I am Lily. I am Nomai, but you already knew all that.",
         "$HN2EndN2": "I do not know whether to envy you. You are potentially the ultimate explorer. You can explore anywhere without fear of consequence and death.",
         "$HN2EndN3": "Yet, you are also unable to truly share your discoveries. Anything you learn will be forgotten in minutes.",
         "$HN2EndN4": "To explore, and share our discoveries, that is the goal of the Nomai. It is why we became nomads in the first place.",
 
         // Roja
+        // Roja is based on the Spanish word for red, "rojo," though it is pronounced with an English "j" sound in Magistarium.
+        "$HN2RojaName": "Roja",
         "$HN2EndR1": "Hiiiiii! I like your flashlight. I am so glad zat in zis state, I can see you in full color!",
         "$HN2EndR2": "I hope you liked the art and plants. I tried very hard to make them look good.",
         "$HN2EndR3": "Oh, perhaps I can see you paint later? I'd love to be your friend.",
 
         // Quartz
+        // Hearthians are all named after rocks. Unintentionally, Quartz is also the name of a Hearthian in Granite's Invitation, another Jam Mod. If translations exist for that mod, Quartz should have the same name as that Quartz.
+        "$HN2QuartzName": "Quartz",
         "$HN2EndH1": "Hey hatchling! Pull up a marshmallow stick!",
         "$HN2EndH2": "Well, we'll have time to roast marshmallows again later. How is the village doing?",
         "$HN2EndHA": "We went to space!",
         "$HN2EndH3": "Really? Every Hearthian's dream to explore the Outer Wilds, it finally came true?",
         "$HN2EndHB": "Yep! Hornfels, Feldspar, Gossan, Esker, and Slate founded Outer Wilds Ventures, a space program, and we've been exploring the stars ever since.",
         "$HN2EndH4": "Ah, I know those names! They were only little hatchlings when I left. I'm glad to see they grew up into such fine Hearthians. And you! You're following in their footsteps! I am so happy to see our legacy continue.",
+        "$HN2EndH5": "Oh, and if you meet another Quartz, say hi to them from their ancestor. Name runs in the family!",
 
         // NOMAI TEXT ------------------------------
         // Entrance wall
@@ -348,6 +368,21 @@
         "$HN2HomeWall2_1": "LILY: I'm not usually one to brag, but I must say: my room looks quite a bit better than the others!",
         "$HN2HomeWall2_2": "LILY: Only Vespa's room really even compares, to be honest. The others are quite...flat.",
         "$HN2HomeWall2_3": "LILY: I admit, surrounded by familiar architecture, I am beginning to miss home. But I know that they probably aren't missing me. And I'm part of something much bigger here, anyway.",
+
+        "$HN2HomeWall3_1": "LILY: Well, having arrived here, I am quite intrigued by the Magister's proposition. To construct the Device, and ensure the memory of this universe survives...",
+        "$HN2HomeWall3_2": "LILY: I would love to be able to actually contribute to something important, and be appreciated. I'll be working with four others.",
+        "$HN2HomeWall3_A1": "LILY: The leader of this vessel is an enigmatic figure who calls himself \"The Magister.\" He is quite powerful, able to manipulate this vessel at will, and can change his size...and appearance.",
+        "$HN2HomeWall3_A2": "LILY: Normally, he keeps his appearance to be a tall, cloaked figure, with his five glowing eyes visible behind his mask. His size is immense, easily twice the size of Acquarius, who himself is about four times my own size.",
+        "$HN2HomeWall3_A3": "LILY: Despite his immensity, though, he is very friendly and polite. When speaking with him, it's easy to forget the difference in our sizes and not be intimidated. I very much enjoy discussing advanced topics with him!",
+        "$HN2HomeWall3_B1": "LILY: The first person to have joined the Magister's crew is a bibliophile named Vultos. He is covered in fur like myself, aside from a hard shell on his back and partially running down his forehead, and has a long, bushy tail.",
+        "$HN2HomeWall3_B2": "LILY: He normally has quite a cheerful demeanor, and I love spending time with him. He enjoys playing games with us and cracking jokes, when he's not hiding somewhere absorbed in some volume.",
+        "$HN2HomeWall3_B3": "LILY: Still, I sense a sadness within him. He has some deep regret, but I am reluctant to ask him about it. I am sure the opportunity will arise.",
+        "$HN2HomeWall3_C1": "LILY: One of my fellow crewmates is a tall, feathered, but antlered individual named Vespa. She is also an inventor, much like myself!",
+        "$HN2HomeWall3_C2": "LILY: She loves seeing the stars, and discussing technology!",
+        "$HN2HomeWall3_D1": "LILY: The newest member of the crew (before me of course) is a tall, acquatic individual named Acquarius.",
+        "$HN2HomeWall3_D2": "LILY: He's very mechanically minded, and likes to work out. He's quite a strong hunk!",
+        "$HN2HomeWall3_D3": "LILY: He also likes to build little mechanisms, and he's lined his shelves with them, along with his tools.",
+
 
         // Library
         "$HN2LibraryWall1": "VESPA: ayiuqiojdflkas safsadf-lo4;;;;;adfjajgafsaf455644444444faskjajg  afjasdfpdasec][-",
@@ -447,7 +482,10 @@
     },
     "UIDictionary": {
         "$HN2PartyPrompt": "Party",
-        "$HN2EndingText": "YOU ASCENDED INTO ANOTHER STATE OF BEING.\nTHANK YOU, OUTER WILDS MODDING COMMUNITY."
+        "$HN2EndingText": "YOU ASCENDED INTO ANOTHER STATE OF BEING.\nTHANK YOU, OUTER WILDS MODDING COMMUNITY.",
+
+        // The name "Magistarium" is not a real word, but it comes from "Magistration", which is itself a combination of "Magister" and "Administration"
+        "MAGISTARIUM": "MAGISTARIUM"
     },
     "OtherDictionary": {
         "$HN2TimeStateLowGrav": "MAGISTARIUM NOTIFICATION: POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS.",

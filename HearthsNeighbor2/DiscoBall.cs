@@ -25,6 +25,7 @@ namespace HearthsNeighbor2
             {
                 spin = !spin;
                 child.GetChild(0).gameObject.SetActive(spin);
+                if (spin) Locator.GetFlashlight().TurnOff();
                 Locator.GetShipLogManager().RevealFact("HN2_LB6");
             };
         }
