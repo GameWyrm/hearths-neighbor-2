@@ -447,5 +447,37 @@
                 "xmlFile": "nomai/LibraryBookcase.xml"
             }
         ]
-    }
+    },
+    "Rings": [
+        {
+            "fluidType": "none",
+            "inclination": 25,
+            "innerRadius": 200,
+            "outerRadius": 250,
+            "longitudeOfAscendingNode": 25,
+            "texture": "planets/RingInner.png",
+            "unlit": true,
+            "rename": "RingInner"
+        },
+        {
+            "fluidType": "none",
+            "inclination": 140,
+            "innerRadius": 300,
+            "outerRadius": 350,
+            "longitudeOfAscendingNode": 100,
+            "texture": "planets/RingMiddle.png",
+            "unlit": true,
+            "rename": "RingMiddle"
+        },
+        {
+            "fluidType": "none",
+            "inclination": 280,
+            "innerRadius": 400,
+            "outerRadius": 450,
+            "longitudeOfAscendingNode": 250,
+            "texture": "planets/RingOuter.png",
+            "unlit": true,
+            "rename": "RingOuter"
+        }
+    ]
 }

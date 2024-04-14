@@ -22,6 +22,9 @@ namespace HearthsNeighbor2
         public Animator deviceAnimator;
         public AudioSource deviceAudio;
         public GameObject endingSector;
+        public GameObject RingInner;
+        public GameObject RingMiddle;
+        public GameObject RingOuter;
         public GameObject endBlackHole;
         public GameObject endWhiteHole;
         public GameObject devDoor;
@@ -72,6 +75,10 @@ namespace HearthsNeighbor2
 
             endingSector = transform.parent.Find("Ending").gameObject;
 
+            RingInner = transform.parent.Find("RingInner").gameObject;
+            RingMiddle = transform.parent.Find("RingMiddle").gameObject;
+            RingOuter = transform.parent.Find("RingOuter").gameObject;
+
             endBlackHole = transform.Find("EndingBlackHole").gameObject;
             endWhiteHole = endingSector.transform.Find("EndingWhiteHole").gameObject;
             endBlackHole.SetActive(false);
@@ -92,6 +99,11 @@ namespace HearthsNeighbor2
                 float progress = Mathf.Clamp01((20 - time) / 20);
                 deviceAnimator.SetFloat("Speed", progress * 4);
                 deviceAudio.pitch = Mathf.Lerp(0.5f, 2.5f, (progress));
+
+                float ringSpeed = progress * Time.deltaTime * 30;
+                RingInner.transform.localEulerAngles = new Vector3(RingInner.transform.localEulerAngles.x, RingInner.transform.localEulerAngles.y + ringSpeed, RingInner.transform.localEulerAngles.z);
+                RingMiddle.transform.localEulerAngles = new Vector3(RingMiddle.transform.localEulerAngles.x, RingMiddle.transform.localEulerAngles.y, RingMiddle.transform.localEulerAngles.z + ringSpeed);
+                RingOuter.transform.localEulerAngles = new Vector3(RingOuter.transform.localEulerAngles.x, RingOuter.transform.localEulerAngles.y + ringSpeed, RingOuter.transform.localEulerAngles.z);
             }
             switch (timeState)
             {
