@@ -64,7 +64,6 @@ namespace HearthsNeighbor2
                     hasBattery = false;
                 }
             });
-
             // Load settings
             easyMode = ModHelper.Config.GetSettingsValue<bool>("EasyMode");
             focusOnCubes = ModHelper.Config.GetSettingsValue<bool>("FocusOnCubes");

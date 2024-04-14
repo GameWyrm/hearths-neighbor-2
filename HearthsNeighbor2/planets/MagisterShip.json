@@ -308,7 +308,7 @@
                 "rename": "EndingWhiteHole",
                 "uniqueID": "HN2WhiteHole",
                 "pairedSingularity": "HN2BlackHole",
-                "horizonRadius": 0.5,
+                "horizonRadius": 0,
                 "type": "whiteHole",
                 "hasWarpEffects": false
             }

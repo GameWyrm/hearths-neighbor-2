@@ -14,6 +14,13 @@ namespace HearthsNeighbor2
         {
             if (other.CompareTag("Player") && HearthsNeighbor2.Main.hasBattery && !PlayerState.IsWearingSuit())
             {
+                // Makes the player drop the battery and disables it
+                ItemTool item = Locator.GetPlayerCamera().GetComponentInChildren<ItemTool>();
+                if (item.GetHeldItem() != null)
+                {
+                    item.DropItemInstantly(GetComponentInParent<Sector>(), transform);
+                    item.gameObject.SetActive(false);
+                }
                 StateManager.FireDevice();
             }
         }
