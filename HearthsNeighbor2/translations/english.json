@@ -413,10 +413,16 @@
         "$HN2DevGameWyrmV3": "Anyway, there are still a few more things I'd like to do with Magistarium, such as voice acting, and who knows, perhaps we'll do more with the Hearth's Neighbor story.",
         "$HN2DevGameWyrmV4": "There probably won't be a Hearth's Neighbor 3, but perhaps you'll get to see the Magistarium's crew once again. ::)",
 
-        "$HN2DevShoe1": "BOO!!! Did I get you? Grew in size a lot compared to the last jam, real nice to to be in my true form as the Origin Lace Weaver, and if you recognize the color scheme, nice to meet another fan.",
-        "$HN2DevShoeAlt1": "Aw man, you had to seal my true form... not truly as ready for the horrors within this room as you promised the magister.",
+        "$HN2DevShoeSpiderName": "Shoe, Modeller and Lace Weaver",
+        "$HN2DevShoeAltName": "Shoe, Modeller",
+        "$HN2DevShoeHub": "BOOO!!!! Did i get you? I'm Shoe, the Lace Weaver.",
+        "$HN2DevShoeHubAlt": "Hey! I'm Shoe, the modeler for this mod.",
+        "$HN2DevShoe1": "I just so happened to have grown alot in size compared to the last jam, real nice to to be in my true form, hopefully one of you recognize the color scheme and get the reference.",
+        "$HN2DevShoeAlt1": "Aw man, you had to seal my true form away... not truly as ready for the horrors within this room as you promised the magister.",
         "$HN2DevShoe2": "Anyways it was fun to be working with the same-ish team from last time, although I did leave decision making with the rest of the team. Hopes to us winning the March 2024 Jam.",
         "$HN2DevShoe3": "Also for xen i made 21 models for this mod, ripped one or two, and took a few from the past then made 16 models for godot wilds all on time so I was NOT LAZY!!!!!!!!!",
+        "$HN2DevShoeV1": "symbiosis sweep I mean Magistarium sweep as it turns out we placed 1st once again yippie!!!",
+        "$HN2DevShoeV2": "Anyways why not stay for a while and enjoy this delicious strawberry jam cake I made for this occasion.",
 
         "$HN2DevLuna1": "Hello! Congrats on finishing! I’m Luna, I made most of the textures and concept art for the mod!",
         "$HN2DevLuna2": "This is the first mod jam I’ve participated in, and the first time I’ve contributed to a mod in production. I hope you had just as much fun playing it as I did helping to create it!",

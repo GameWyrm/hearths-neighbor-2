@@ -6,11 +6,11 @@
     <Name>Start</Name>
     <EntryCondition>DEFAULT</EntryCondition>
     <Dialogue>
-      <Page>HN2DevEndgame1</Page>
-      <Page>HN2DevEndgame2</Page>
-      <Page>HN2DevEndgame3</Page>
-      <Page>HN2DevEndgame4</Page>
-      <Page>HN2DevEndgame5</Page>
+      <Page>$HN2DevEndgame1</Page>
+      <Page>$HN2DevEndgame2</Page>
+      <Page>$HN2DevEndgame3</Page>
+      <Page>$HN2DevEndgame4</Page>
+      <Page>$HN2DevEndgame5</Page>
     </Dialogue>
   </DialogueNode>
 

@@ -6,7 +6,7 @@
     <Name>Start</Name>
     <EntryCondition>DEFAULT</EntryCondition>
     <Dialogue>
-      <Page>HN2Ernesto1</Page>
+      <Page>$HN2Ernesto1</Page>
     </Dialogue>
     <DialogueOptionsList>
       <DialogueOption>
@@ -19,7 +19,7 @@
   <DialogueNode>
     <Name>B</Name>
     <Dialogue>
-      <Page>HN2Ernesto2</Page>
+      <Page>$HN2Ernesto2</Page>
     </Dialogue>
   </DialogueNode>
 

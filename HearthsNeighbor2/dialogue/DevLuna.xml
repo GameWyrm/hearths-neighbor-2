@@ -6,9 +6,9 @@
     <Name>Start</Name>
     <EntryCondition>DEFAULT</EntryCondition>
     <Dialogue>
-      <Page>HN2DevLuna1</Page>
-      <Page>HN2DevLuna2</Page>
-      <Page>HN2DevLuna3</Page>
+      <Page>$HN2DevLuna1</Page>
+      <Page>$HN2DevLuna2</Page>
+      <Page>$HN2DevLuna3</Page>
     </Dialogue>
   </DialogueNode>
 
