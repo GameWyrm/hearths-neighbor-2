@@ -426,9 +426,15 @@
         "$HN2DevShoeV2": "Anyways why not stay for a while and enjoy this delicious strawberry jam cake I made for this occasion.",
 
         // LUNA
+        "$HN2DevLunaName": "CelestialsStorm (Quantum Luna), Artist",
+        "$HN2DevLunaHub": "Hello there friend!",
         "$HN2DevLuna1": "Hello! Congrats on finishing! I’m Luna, I made most of the textures and concept art for the mod!",
         "$HN2DevLuna2": "This is the first mod jam I’ve participated in, and the first time I’ve contributed to a mod in production. I hope you had just as much fun playing it as I did helping to create it!",
         "$HN2DevLuna3": "Thank you for playing!",
+        "$HN2DevLunaV1": "Wow! I’m so honored to have been on the winning team. It was amazing to work with everyone here, I loved every single moment of it!",
+        "$HN2DevLunaV2": "A huge thank you to Wyrm for letting me join the team, and to the rest of the team, I hope we get to work together again come next jam!",
+        "$HN2DevLunaV3": "Creating assets was a unique challenge, and overall, I’m proud of what I managed to contribute!",
+        "$HN2DevLunaV4": "Once again, thank you for playing, and thank you for voting for us!",
 
         // ENDGAME
         "$HN2DevEndgameName": "EndgameZero, Musician",

@@ -1,15 +1,47 @@
 ﻿<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                   xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
-  <NameField>CelestialsStorm (Quantum Luna), Artist</NameField>
+  <NameField>$HN2DevLunaName</NameField>
 
   <DialogueNode>
     <Name>Start</Name>
     <EntryCondition>DEFAULT</EntryCondition>
     <Dialogue>
+      <Page>$HN2DevLunaHub</Page>
+    </Dialogue>
+    <DialogueOptionsList>
+      <DialogueOption>
+        <Text>$HN2DevJamMessage</Text>
+        <DialogueTarget>Jam</DialogueTarget>
+      </DialogueOption>
+      <DialogueOption>
+        <Text>$HN2DevVictoryMessage</Text>
+        <DialogueTarget>Victory</DialogueTarget>
+      </DialogueOption>
+      <DialogueOption>
+        <Text>$HN2DevGoodbye</Text>
+      </DialogueOption>
+    </DialogueOptionsList>
+  </DialogueNode>
+
+  <DialogueNode>
+    <Name>Jam</Name>
+    <Dialogue>
       <Page>$HN2DevLuna1</Page>
       <Page>$HN2DevLuna2</Page>
       <Page>$HN2DevLuna3</Page>
     </Dialogue>
+    <DialogueTarget>Start</DialogueTarget>
+  </DialogueNode>
+
+  <DialogueNode>
+    <Name>Victory</Name>
+    <Dialogue>
+      <Page>$HN2DevLunaV1</Page>
+      <Page>$HN2DevLunaV2</Page>
+      <Page>$HN2DevLunaV3</Page>
+      <Page>$HN2DevLunaV4</Page>
+    </Dialogue>
+    <DialogueTarget>Start</DialogueTarget>
   </DialogueNode>
 
 </DialogueTree>

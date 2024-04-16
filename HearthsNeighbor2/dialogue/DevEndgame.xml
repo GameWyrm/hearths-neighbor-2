@@ -1,10 +1,30 @@
 ﻿<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                   xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
-  <NameField>EndgameZero, Musician</NameField>
+  <NameField>$HN2DevEndgameName</NameField>
 
   <DialogueNode>
     <Name>Start</Name>
     <EntryCondition>DEFAULT</EntryCondition>
+    <Dialogue>
+      <Page>$HN2DevEndgameHub</Page>
+    </Dialogue>
+    <DialogueOptionsList>
+      <DialogueOption>
+        <Text>$HN2DevJamMessage</Text>
+        <DialogueTarget>Jam</DialogueTarget>
+      </DialogueOption>
+      <DialogueOption>
+        <Text>$HN2DevVictoryMessage</Text>
+        <DialogueTarget>Victory</DialogueTarget>
+      </DialogueOption>
+      <DialogueOption>
+        <Text>$HN2DevGoodbye</Text>
+      </DialogueOption>
+    </DialogueOptionsList>
+  </DialogueNode>
+
+  <DialogueNode>
+    <Name>Jam</Name>
     <Dialogue>
       <Page>$HN2DevEndgame1</Page>
       <Page>$HN2DevEndgame2</Page>
@@ -12,6 +32,16 @@
       <Page>$HN2DevEndgame4</Page>
       <Page>$HN2DevEndgame5</Page>
     </Dialogue>
+    <DialogueTarget>Start</DialogueTarget>
+  </DialogueNode>
+
+  <DialogueNode>
+    <Name>Victory</Name>
+    <Dialogue>
+      <Page>$HN2DevEndgameV1</Page>
+      <Page>$HN2DevEndgameV2</Page>
+    </Dialogue>
+    <DialogueTarget>Start</DialogueTarget>
   </DialogueNode>
 
 </DialogueTree>
