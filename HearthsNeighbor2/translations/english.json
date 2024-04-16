@@ -413,6 +413,7 @@
         "$HN2DevGameWyrmV3": "Anyway, there are still a few more things I'd like to do with Magistarium, such as voice acting, and who knows, perhaps we'll do more with the Hearth's Neighbor story.",
         "$HN2DevGameWyrmV4": "There probably won't be a Hearth's Neighbor 3, but perhaps you'll get to see the Magistarium's crew once again. ::)",
 
+        // SHOE
         "$HN2DevShoeSpiderName": "Shoe, Modeller and Lace Weaver",
         "$HN2DevShoeAltName": "Shoe, Modeller",
         "$HN2DevShoeHub": "BOOO!!!! Did i get you? I'm Shoe, the Lace Weaver.",
@@ -424,15 +425,21 @@
         "$HN2DevShoeV1": "symbiosis sweep I mean Magistarium sweep as it turns out we placed 1st once again yippie!!!",
         "$HN2DevShoeV2": "Anyways why not stay for a while and enjoy this delicious strawberry jam cake I made for this occasion.",
 
+        // LUNA
         "$HN2DevLuna1": "Hello! Congrats on finishing! I’m Luna, I made most of the textures and concept art for the mod!",
         "$HN2DevLuna2": "This is the first mod jam I’ve participated in, and the first time I’ve contributed to a mod in production. I hope you had just as much fun playing it as I did helping to create it!",
         "$HN2DevLuna3": "Thank you for playing!",
 
-        "$HN2DevEndgame1": "Welcome to the dev room! I'm EndgameZero, the composer for Magistarium. (I also edited much of the dialogue.)",
+        // ENDGAME
+        "$HN2DevEndgameName": "EndgameZero, Musician",
+        "$HN2DevEndgameHub": "Welcome to the dev room! I'm EndgameZero.",
+        "$HN2DevEndgame1": "I'm the composer for Magistarium. (I also edited much of the dialogue.)",
         "$HN2DevEndgame2": "Overall, I'm pretty happy with this soundtrack. I made fewer songs than in Hearth's Neighbor (especially when you consider that a few of the songs are variations of the same one), but I think they turned out better individually.",
         "$HN2DevEndgame3": "This soundtrack took a lot of inspiration from the TUNIC soundtrack, and I referenced the Outer Wilds soundtrack less than I did in Hearth's Neighbor. (I will be quite impressed if you can figure out the one reference to the Outer Wilds soundtrack in the Grand Chamber theme.)",
         "$HN2DevEndgame4": "Anyway, I decided to be a turtle at the last minute (sorry for any confusion with other modding turtles); thanks to Shoe for getting the turtle model done on such short notice!",
         "$HN2DevEndgame5": "Thanks for playing (and listening)!",
+        "$HN2DevEndgameV1": "Wow, two for two! If you had told me a year ago that that would happen, I probably wouldn't've believed you, especially if you added that I made the music for both. For a while, my goal has been to work on games as a programmer, though now I might reconsider that, since making music for these mods has gone so well. ::)",
+        "$HN2DevEndgameV2": "Once I have time, I plan to make more music for the areas in the Magistarium that use music from the base game (or from HN1) in the jam version. If you're in the future, you've probably already heard some of it!",
 
         "$HN2Ernesto1": "Hey it's me...",
         "$HN2Ernesto1A": "Yeah, yeah, yeah, Ernesto the Magic Talking Anglerfish. Don't you guys have any more creative Easter Eggs?",
