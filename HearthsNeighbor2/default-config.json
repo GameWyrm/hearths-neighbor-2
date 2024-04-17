@@ -11,7 +11,7 @@
             "title": "Follow Memory Cubes As They Move",
             "type": "toggle",
             "value": true,
-            "tooltip": "Is the bobbing of the Memory Cubes annoying you, but you don't want to Freeze Time While Talking To Others?\nThis will keep the camera still when you interact with them."
+            "tooltip": "Is the bobbing of the Memory Cubes annoying you, but you don't want to Freeze Time While Talking To Others? This will keep the camera still when you interact with them."
         }
     }
 }
