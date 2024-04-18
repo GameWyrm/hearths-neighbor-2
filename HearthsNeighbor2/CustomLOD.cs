@@ -8,14 +8,14 @@ namespace HearthsNeighbor2
     {
         public Sector sector;
 
-        private MeshRenderer rend;
+        //private MeshRenderer rend;
         private bool mainPlanetLoaded;
         private List<GameObject> spriteObjects;
 
         private void Awake()
         {
             spriteObjects = new List<GameObject>();
-            GameObject magistration = transform.parent.Find("Magistration").gameObject;
+            GameObject magistration = transform.parent.parent.gameObject;
             foreach (SpriteRenderer sprite in  magistration.GetComponentsInChildren<SpriteRenderer>())
             {
                 spriteObjects.Add(sprite.gameObject);
@@ -24,9 +24,10 @@ namespace HearthsNeighbor2
 
         private void Start()
         {
-            rend = GetComponent<MeshRenderer>();
+            //rend = GetComponent<MeshRenderer>();
             sector = GetComponentInParent<Sector>();
             sector.OnSectorOccupantsUpdated += () => CheckStatus(sector.GetOccupants().Count);
+            /*
             GlobalMessenger.AddListener("EnterMapView", () =>
             {
                 if (mainPlanetLoaded) rend.enabled = true;
@@ -34,7 +35,7 @@ namespace HearthsNeighbor2
             GlobalMessenger.AddListener("ExitMapView", () =>
             {
                 if (mainPlanetLoaded) rend.enabled = false;
-            });
+            });*/
         }
 
 
@@ -42,7 +43,7 @@ namespace HearthsNeighbor2
         {
             if (occupants <= 0)
             {
-                rend.enabled = true;
+                //rend.enabled = true;
                 mainPlanetLoaded = false;
             }
             else if (!mainPlanetLoaded)
@@ -58,7 +59,7 @@ namespace HearthsNeighbor2
             yield return new WaitForSeconds(2);
             if (mainPlanetLoaded)
             {
-                rend.enabled = false;
+                //rend.enabled = false;
                 foreach (GameObject sprite in spriteObjects)
                 {
                     sprite.SetActive(false);

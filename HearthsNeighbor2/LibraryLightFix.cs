@@ -29,19 +29,19 @@ namespace HearthsNeighbor2
             switch (settings.shadowQuality)
             {
                 case ShadowQuality.LOW:
-                    light.shadowCustomResolution = 1000;
+                    light.shadowCustomResolution = 1024;
                     break;
                 case ShadowQuality.MEDIUM:
-                    light.shadowCustomResolution = 2000;
+                    light.shadowCustomResolution = 2048;
                     break;
                 case ShadowQuality.HIGH:
-                    light.shadowCustomResolution = 5000;
+                    light.shadowCustomResolution = 4096;
                     break;
                 case ShadowQuality.VERY_HIGH:
-                    light.shadowCustomResolution = 10000;
+                    light.shadowCustomResolution = 8192;
                     break;
                 default:
-                    light.shadowCustomResolution = 1000;
+                    light.shadowCustomResolution = 1024;
                     break;
             }
         }

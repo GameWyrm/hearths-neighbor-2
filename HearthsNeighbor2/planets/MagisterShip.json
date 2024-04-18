@@ -237,22 +237,6 @@
                 "keepLoaded": true
             },
             {
-                "assetBundle": "assets/magistration",
-                "path": "assets/hn2/prefab/MagistrationLOD.prefab",
-                "position": {
-                    "x": 0,
-                    "y": 0,
-                    "z": 0
-                },
-                "rotation": {
-                    "x": -90,
-                    "y": 0,
-                    "z": 0
-                },
-                "alignRadial": false,
-                "keepLoaded": true
-            },
-            {
                 "path": "TimberHearth_Body/Sector_TH/Sector_RadioTower/RadioTower_DLC/Interactibles_RadioTower/Hornfels'GrovePivot/Prefab_HEA_Campfire",
                 "position": {
                     "x": 0,
@@ -395,7 +379,7 @@
                 "xmlFile": "nomai/HomeWall2.xml"
             },
             {
-                "parentPath": "Sector/Magistration/Sectors/Dorms/Nomai/SecondFloor/Walls/GreatNomaiWall/TextOrigin",
+                "parentPath": "Sector/Magistration/MagistariumSector/Sectors/Dorms/Nomai/SecondFloor/Walls/GreatNomaiWall/TextOrigin",
                 "isRelativeToParent": true,
                 "position": {
                     "x": 0,
