@@ -223,7 +223,7 @@
                     "z": 0
                 },
                 "alignRadial": false,
-                "keepLoaded": false
+                "keepLoaded": true
             },
             {
                 "assetBundle": "assets/magistration",
