@@ -15,5 +15,7 @@ If the bobbing of the Memory Cubes become too annoying, I recommend turning on "
 * FunkyShoeMan: Prop 3D artist
 * EndgameZero: Musician and editor
 * CelestialsStorm: 2D artist
+* Pikpik_carrot: Sectoring
+* JohnCorby: Sectoring and Unity Consultant
 
-Special thanks to those who playtested the mods, and John Corby, xen42, MegaPiggy, and others who answered questions and were very helpful with answering questions.
+Special thanks to those who playtested the mods, and xen42, MegaPiggy, and others who answered questions and were very helpful with answering questions.
