@@ -21,6 +21,7 @@ namespace HearthsNeighbor2
         public Color lowGravityColor;
         public Animator deviceAnimator;
         public AudioSource deviceAudio;
+        public GameObject owlkLanterns;
         public GameObject endingSector;
         public GameObject RingInner;
         public GameObject RingMiddle;
@@ -127,7 +128,6 @@ namespace HearthsNeighbor2
                             }
                         }
 
-
                         timeState = TimeState.LowGrav;
                     }
                     break;
@@ -166,6 +166,10 @@ namespace HearthsNeighbor2
                             Locator.GetShipLogManager().RevealFact("HN2_EG_Rumor");
                             Locator.GetShipLogManager().RevealFact("HN2_Intro4");
                         }
+                        foreach (OWEmissiveRenderer emissiveRenderer in owlkLanterns.GetComponentsInChildren<OWEmissiveRenderer>())
+                        {
+                            if (emissiveRenderer.gameObject.name == "CandleCover_Paper") emissiveRenderer.SetEmissiveScale(0.5f);
+                        }
                         timeState = TimeState.RedLights;
                     }
                     break;
@@ -186,6 +190,12 @@ namespace HearthsNeighbor2
                             Locator.GetShipLogManager().RevealFact("HN2_EG_Rumor");
                             Locator.GetShipLogManager().RevealFact("HN2_Intro5");
                         }
+
+                        foreach (OWEmissiveRenderer emissiveRenderer in owlkLanterns.GetComponentsInChildren<OWEmissiveRenderer>())
+                        {
+                            if (emissiveRenderer.gameObject.name == "CandleCover_Paper") emissiveRenderer.SetEmissiveScale(0);
+                        }
+
                         electricity.SetActive(false);
                         timeState = TimeState.Dead;
                     }

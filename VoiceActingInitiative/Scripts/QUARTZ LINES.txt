@@ -1,0 +1,27 @@
+QUARTZ LINES: 24
+Quartz is a Hearthian who got launched into space via a geyser. They speak with a laid-back Southern accent.
+
+"$HN2Chamber3": "QUARTZ: When that geyser launched me into the stratosphere, I never would have reckoned it would be the start of something so...big."
+"$HN2DeviceHearthian": "To roast marshmallows, that friendship around a campfire may never end."
+"$HN2LibraryMagi1": "QUARTZ: You know, forgive me if this is a bit of an inappropriate question, but, well, do any of you guys know what the Magister, well, looks like?"
+"$HN2Camp2": "QUARTZ: You sure it's ok for me to set one up in here?"
+"$HN2Camp5": "QUARTZ: Of course! Here, you can eat one raw...yes, I know, their gooey flavor is the best thing in the universe. But watch this, you put it on a stick, roast it on the fire for a minute, and...\neven better, a roasted marshmallow!"
+"$HN2Camp8": "QUARTZ: What? You dare insult the Hearthian Magnum Opus?"
+"$HN2Camp15": "QUARTZ: Huh, had my doubts, but you're right, this is so good!"
+"$HN2FoxleCube2": "QUARTZ: Ah, it's quite nice. You know, we don't really need much either. Just some boards, connected with sap and duct tape."
+"$HN2FoxleCube4": "QUARTZ: Yeah, but can't say I'm not looking forward to something brand new, even if it is a lot more complex."
+"$HN2FoxleCube5": "QUARTZ: By the way, what's your story, Vultos? You've been here the longest, right?"
+"$HN2FoxleCube7": "QUARTZ: And it was then he presented you the idea for the Device, right? I admit, I still find the whole idea a little weird."
+"$HN2NomaiCube1": "QUARTZ: Wow, I've seen Nomai stuff before, but never so...fresh and clean."
+"$HN2NomaiCube3": "QUARTZ: I wish, but all the Nomai my kind have found have died long ago. There are plenty of ruins of theirs, but we have no idea what happened to them. Their buildings are all abandoned."
+"$HN2NomaiCube5": "QUARTZ: Oh, sorry, I, I didn't think about it. I mean, I'm sure there are more Nomai out there..."
+"$HN2NomaiCube7": "QUARTZ: Yeah, of course!"
+"$HN2HearthCube2": "QUARTZ: Hmm? Why wouldn't it be? I'll be careful."
+"$HN2HearthCube4": "QUARTZ: Well, it turned out all right, didn't it? Had I not, I'd never have met you guys!"
+"$HN2HearthCube6": "QUARTZ: Of course! I shall do my best to ensure this is maintained responsibly."
+"$HN2HearthCube8": "QUARTZ: It's a special blend of flammable tree sap. I figure if there's anything I can contribute to the Device, it's the Hearthian special fuel."
+"$HN2EndH1": "Hey hatchling! Pull up a marshmallow stick!"
+"$HN2EndH2": "Well, we'll have time to roast marshmallows again later. How is the village doing?"
+"$HN2EndH3": "Really? Every Hearthian's dream to explore the Outer Wilds, it finally came true?"
+"$HN2EndH4": "Ah, I know those names! They were only little hatchlings when I left. I'm glad to see they grew up into such fine Hearthians. And you! You're following in their footsteps! I am so happy to see our legacy continue."
+"$HN2EndH5": "Oh, and if you meet another Quartz, say hi to them from their ancestor. Name runs in the family!

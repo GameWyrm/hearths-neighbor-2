@@ -1,0 +1,23 @@
+ACQUARIUS LINES:
+Acquarius has a deep, gruff voice, in a heavy Scottish accent. His voice is energetic and rapid.
+
+"$HN2Chamber7": "ACQUARIUS: Aye, the feeling's understandable, mate. The unknown is...scary. But exploring the unknown is what yer good at. You'll do great out there."
+"$HN2EngineEntrance2": "ACQUARIUS: Yeah, I'm fine, I've had far worse shocks. Shoulda turned the breaker off first, but I couldn't find it."
+"$HN2EngineEntrance5": "ACQUARIUS: 'preciate it, boss, but I was more worried about disruptin' the others."
+"$HN2EngineEntrance7": "ACQUARIUS: ...case in point."
+"$HN2EngineBattery1": "ACQUARIUS: ...and that's the last battery charged, including the spares."
+"$HN2EngineBattery3": "ACQUARIUS: Boss wants me to put some extras in my room in case someone else comes and wants to follow us."
+"$HN2EngineBattery5": "ACQUARIUS: Oh, it won't be shut off. It's a little too complicated to just turn it back on, so others who want to follow just need to read the mem'ry cubes and head into the Device with one of the spare batteries."
+"$HN2EngineBattery7": "ACQUARIUS: Don't worry, Boss says the reserve power should last right up until the sun goes Supernova."
+"$HN2EngineBattery9": "ACQUARIUS: ..."
+"$HN2EngineBattery10": "ACQUARIUS: I'm sure it'll be <![CDATA[<i>fiiiiine</i>]]>."
+"$HN2LibraryMagi2": "ACQUARIUS: Admittedly, I've often wondered the same thing. Boss never leaves 'is room without 'is mask and robe, unless he's disguised."
+"$HN2Camp4": "ACQUARIUS: 'Aight, lemme see these \"marshmallows\" you keep raving about."
+"$HN2Camp12": "ACQUARIUS: Salted or unsalted? I got 'em both."
+"$HN2Camp14": "ACQUARIUS: 'ere, lemme try, MMMMMM!"
+"$HN2OwlkCube3": "ACQUARIUS: Methinks maybe ya should give up, you haven't won a game in nearly two hundred years!"
+"$HN2OwlkCube5": "ACQUARIUS: Back where I come from, 'tis considered wisdom to know when to stop. I'd have shocked myself to death long ago if I simply kept banging me head against me problems. Vul, 'ow about taking a break, ya? I know yer in a hurry to win, but patience is a virtue."
+"$HN2Poem3": "<![CDATA[<color=#3490FF>To build new monuments, that our mark may be left everlasting.</color>]]>"
+"$HN2EndP1": "Aye. If we were still corporial, I'd put you through a workout. You're a twig!"
+"$HN2EndP2": "But, yer smart. You managed ta get all the way here. You'll do fine."
+"$HN2EndP3": "Also, ya really need ta invent chocolate. You're missing out."
