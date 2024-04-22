@@ -1,4 +1,4 @@
-VESPA LINES:
+VESPA LINES: 18
 Vespa is a member of the Inhabitant/Ghost Bird/Owlk race, with a calm, almost motherly demeanor. She speaks on the slower and softer side.
 
 "$HN2Chamber6": "VESPA: To travel new worlds, new universes, I have to admit, I am a little nervous about the whole prospect."

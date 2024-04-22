@@ -1,4 +1,4 @@
-ACQUARIUS LINES:
+ACQUARIUS LINES: 20
 Acquarius has a deep, gruff voice, in a heavy Scottish accent. His voice is energetic and rapid.
 
 "$HN2Chamber7": "ACQUARIUS: Aye, the feeling's understandable, mate. The unknown is...scary. But exploring the unknown is what yer good at. You'll do great out there."

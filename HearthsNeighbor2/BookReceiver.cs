@@ -14,6 +14,7 @@ namespace HearthsNeighbor2
         public List<GameObject> books;
         public float maxDistance = 3;
         public Color[] colorStages;
+        public MemoryCube readingRoomCube;
 
         private bool isOpen;
         private bool opening;
@@ -38,7 +39,7 @@ namespace HearthsNeighbor2
             {
                 if (Vector3.Distance(transform.position, book.transform.position) > maxDistance) return;
             }
-
+            readingRoomCube.ChangeActiveState(false);
             opening = true;
         }
 

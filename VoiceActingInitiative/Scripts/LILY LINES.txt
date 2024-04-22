@@ -1,4 +1,4 @@
-LILY LINES:
+LILY LINES: 48
 Lily is a Nomai, who speaks with the technical mannerisms of her kind. Her voice is analytic, but she is still very emotive.
 
 "$HN2Chamber4": "LILY: I don't think any of us had anticipated that the Magister's message would so completely change our lives."

@@ -10,7 +10,7 @@
     </Dialogue>
     <DialogueOptionsList>
       <DialogueOption>
-        <Text>HN2Ernesto1A</Text>
+        <Text>$HN2Ernesto1A</Text>
         <DialogueTarget>B</DialogueTarget>
       </DialogueOption>
     </DialogueOptionsList>
