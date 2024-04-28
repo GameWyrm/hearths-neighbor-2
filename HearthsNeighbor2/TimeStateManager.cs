@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -86,9 +87,10 @@ namespace HearthsNeighbor2
             endWhiteHole.SetActive(false);
 
             endingManager = endingSector.GetComponentInChildren<EndingManager>();
-            endingSector.SetActive(false);
 
             if (PlayerData.GetPersistentCondition("HN2_P_HORRORDOOR")) EnableDevRoom(PlayerData.GetPersistentCondition("HN2_P_REDUCEDFRIGHT"));
+
+            endingSector.SetActive(false);
         }
 
         private void Update()

@@ -1,6 +1,7 @@
 ﻿using OWML.Common;
 using OWML.ModHelper;
 using System;
+using System.IO;
 using System.Collections;
 using UnityEngine;
 
@@ -17,6 +18,7 @@ namespace HearthsNeighbor2
         }
 
         public INewHorizons newHorizons;
+        public IOWVoiceMod voiceMod;
 
         public bool isInSystem = false;
         public bool hasBattery = false;
@@ -48,6 +50,7 @@ namespace HearthsNeighbor2
             {
                 if (loadScene != OWScene.SolarSystem) return;
                 ModHelper.Console.WriteLine("Loaded into solar system!", MessageType.Success);
+
             };
 
             newHorizons.GetStarSystemLoadedEvent().AddListener((system) => 
@@ -64,6 +67,14 @@ namespace HearthsNeighbor2
                     hasBattery = false;
                 }
             });
+            // Voice mod stuff
+            voiceMod = ModHelper.Interaction.TryGetModApi<IOWVoiceMod>("Krevace.VoiceMod");
+            if (voiceMod != null)
+            {
+                ModHelper.Console.WriteLine("Voice Mod detected, registering voice lines.", MessageType.Success);
+                voiceMod.RegisterAssets(Path.Combine(ModHelper.Manifest.ModFolderPath, "assets\\VoiceActing"));
+            }
+
             // Load settings
             easyMode = ModHelper.Config.GetSettingsValue<bool>("EasyMode");
             focusOnCubes = ModHelper.Config.GetSettingsValue<bool>("FocusOnCubes");
