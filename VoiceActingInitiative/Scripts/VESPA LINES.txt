@@ -1,21 +1,46 @@
-VESPA LINES: 18
+VESPA LINES: 21
 Vespa is a member of the Inhabitant/Ghost Bird/Owlk race, with a calm, almost motherly demeanor. She speaks on the slower and softer side.
 
-"$HN2Chamber6": "VESPA: To travel new worlds, new universes, I have to admit, I am a little nervous about the whole prospect."
-"$HN2LibraryArt1": "VESPA: Roja, how do you do it?"
-"$HN2LibraryArt3": "VESPA: Well, all the practice in the world won't help with your..."
-"$HN2LibraryArt5": "VESPA: True, I have noticed you don't really paint landscape scenes like is common among my kind."
-"$HN2LibraryArt7": "VESPA: Well, it's not unheard of to hide secrets behind paintings, but that has never been an interest of mine, personally. Do you like hiding secrets in your paintings?"
-"$HN2LibraryMagi5": "VESPA: Perhaps he believes we will find his appearance frightening."
-"$HN2LibraryMagi7": "VESPA: You saw his true self, dear? Oh, no, come here, we didn't mean to stress you out."
-"$HN2Camp3": "VESPA: Don't worry, I set up filters for the smoke. Indoor fires are a common thing for my kind."
-"$HN2OwlkCube1": "VESPA: And that's four games in a row. Best five out of nine?"
-"$HN2OwlkCube4": "VESPA: Quitters never prosper, Acquarius."
-"$HN2OwlkCube2-1": "VESPA: Are you alright? I've never used a Vision Torch on another race..."
-"$HN2OwlkCube2-3": "VESPA: Would you like to try it? Here, you should be able to use the Torch..."
-"$HN2OwlkCube2-5": "VESPA: ...all right."
-"$HN2OWLKCube2-6": "VESPA: What goes on in that mind? Who <![CDATA[<i>are</i>]]> you?"
-"$HN2Poem2": "<![CDATA[<color=#00FF9F>To overcome fear, that the unknown may be greeted with open arms.</color>]]>"
-"$HN2EndO1": "Greetings. Do not fear. The unknown is scary, but beautiful."
-"$HN2EndO2": "I wish my race had maintained their curiosity like you, but in the end, they let their fear take over, and fear became hate."
-"$HN2EndO3": "But your curiosity, it is a wonderful thing. Never stop exploring."
+"GrandChamberStart5": "To travel new worlds, new universes, I have to admit, I am a little nervous about the whole prospect."
+
+"LibraryArtStart0": "Roja, how do you do it?"
+
+"LibraryArtStart2": "Well, all the practice in the world won't help with your..."
+
+"LibraryArtStart4": "True, I have noticed you don't really paint landscape scenes like is common among my kind."
+
+"LibraryArtStart6": "Well, it's not unheard of to hide secrets behind paintings, but that has never been an interest of mine, personally. Do you like hiding secrets in your paintings?"
+
+"LibraryMagiStart4": "Perhaps he believes we will find his appearance frightening."
+
+"LibraryMagiStart6": "You saw his true self, dear? Oh, no, come here, we didn't mean to stress you out."
+
+"CampCubeStart2": "Don't worry, I set up filters for the smoke. Indoor fires are a common thing for my kind."
+
+"OwlkHouseStart0": "And that's four games in a row. Best five out of nine?"
+
+"OwlkHouseStart3": "Quitters never prosper, Acquarius."
+
+"OwlkHouseUpperStart0": "Are you alright? I've never used a Vision Torch on another race..."
+
+"OwlkHouseUpperStart2": "Would you like to try it? Here, you should be able to use the Torch..."
+
+"OwlkHouseUpperStart4": "...all right."
+
+"OwlkHouseUpperStart5": "What goes on in that mind? Who *are* you?"
+
+"MagiCubePoemStart1": "To overcome fear, that the unknown may be greeted with open arms."
+
+"EndingOwlkStart0": "Greetings. Do not fear. The unknown is scary, but beautiful."
+
+"EndingOwlkStart1": "I wish my race had maintained their curiosity like you, but in the end, they let their fear take over, and fear became hate."
+
+"EndingOwlkStart2": "But your curiosity, it is a wonderful thing. Never stop exploring."
+
+(For this line just say a bunch of random stuff, I'll corrupt it in post)
+"LibraryWall1": "ayiuqiojdflkas safsadf-lo4;;;;;adfjajgafsaf455644444444faskjajg  afjasdfpdasec][-"
+
+(For these two lines, say them slowly and very deliberately)
+"LibraryWall3": "Like that?",
+
+"LibraryWall5": "How do I music?",

@@ -1,25 +1,59 @@
 SYSTEM LINES: 22
 The system is used for Memory Cubes that don't have a clear speaker; it is quite literally the Magistarium itself speaking. This voice is also used for the Magistarium Notifications that appear at certain parts of the loop. The voice is monotone and mechanical, speaking slowly and clearly.
 
-"$HN2TimeStateLowGrav": "MAGISTARIUM NOTIFICATION: POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS."
-"$HN2TimeStateNoGrav": "MAGISTARIUM NOTIFICATION: POWER VERY LOW. CUTTING POWER TO GRAVITY"
-"$HN2TimeStateRedLights": "MAGISTARIUM NOTIFICATION: EMERGENCY POWER ONLY. OXYGEN PRODUCTION OFFLINE. RESERVE OXYGEN AND POWER WILL DEPLETE IN THREE MINUTES."
-"$HN2TimeStateDead": "MAGISTARIUM NOTIFICATION: POWER DEPLETED,  SHUTTING DOWN..."
-"$HN2Entrance1": "TARGET RACE: \"Hearthian\"\nLANGUAGE FOUND IN DATABASE\nCONFIGURING ON-BOARD MEMORY STONES...DONE"
-"$HN2Entrance2": "Welcome, [HEARTHIAN]! Whether you are here seeking a new life, or have simply come to visit out of curiosity, the Magister welcomes you to our humble community!"
-"$HN2Entrance3": "ERROR: ATTEMPT TO CONTACT MAGISTER FAILED (NULL REFERENCE EXCEPTION: FIELD \"MAGISTER\" NOT SET TO AN INSTANCE OF AN OBJECT), MANUAL FALLBACK REQUESTED."
-"$HN2Entrance4": "Please head inside and request from anyone to be directed to the Magister, they will be happy to assist."
-"$HN2Warning1": "WARNING: Hatch insecure! Hatch mode set to MANUAL.\nReason: \"To allow others to follow\""
-"$HN2Warning2": "Remaining oxygen leaking out! Recommendation: Secure hatch immediately. Controls in Magister's room."
-"$HN2SealedDoor": "NO ENTRY!\nThis room has been sealed away due to the horrors contained within.\nMake no attempt to enter without the Magister's express permission."
-"$HN2LibraryRR1": "NOTICE: Access to the Reading Room is restricted while overdue books are taken out and unaccounted for. Please bring the books to this table and they will be returned shortly."
-"$HN2LibraryRR2": "As of the last scan (2 hours ago), there are three missing books:"
-"$HN2LibraryRR3": "SECRET LEGENDS: A Hero's Guide to Deciphering the Undecipherable, by Skip. Detected in: Dormatory, Vultos' room."
-"$HN2LibraryRR4": "THE COORDINATES CRASH, by Ixrecius. Detected in: Campfire Room"
-"$HN2LibraryRR5": "THE ASTEROID ARCADE, by Sir Zen Quobois XLII. Detected in: Library, above intended reading space. CAUTION: There is no architecture leading to the estimated location, exercise caution if you intend to seek it out."
-"$HN2MagiDoor1": "The Magister is not in right now. Entrance to his quarters is currently denied. Please come back later, the Magister will return in: 999,999 YEARS."
-"$HN2JamSystem": "SYSTEM DESIGNATION: X3NJ-AM3\nCURRENT LOCATION!\nPOPULATION: Unknown\nScanning in the immediate system running into interference\nInterference origin: The sheer number of communities that have once called this system their home\nInterference also provides ideal environment for firing of the Device! Interdimensional barriers strained!"
-"$HN2OWSystem": "SYSTEM DESIGNATION: Outer Wilds\nPOPULATION: 22.16\nHome of the Hearthians\nWARNING (Ignored): VORTEX SIGNAL NOT DETECTED"
-"$HN2OwlkSystem": "SYSTEM DESIGNATION: J0NC-RB3\nPOPULATION: None\nPreviously held a thriving civilization on a moon, the same moon is now a barren wasteland."
-"$HN2HNSystem": "SYSTEM DESIGNATION: Hearth's Neighbor\nPOPULATION: None\nExtreme amounts of deadly matter and warped space detected."
-"$HN2HatchControls": "HATCH CONTROLS ENGAGED!\nPlease stand clear of the docking bay while hatch is in motion."
+"SystemLowPowerNotification": "POWER LOW. REDUCING POWER TO NON-CRITICAL SYSTEMS."
+
+"SystemNoGravityNotification": "POWER VERY LOW. CUTTING POWER TO GRAVITY"
+
+"SystemRedLightsNotification": "EMERGENCY POWER ONLY. OXYGEN PRODUCTION OFFLINE. RESERVE OXYGEN AND POWER WILL DEPLETE IN THREE MINUTES."
+
+"SystemPowerDepletedNotification": "POWER DEPLETED,  SHUTTING DOWN..."
+
+"MagiEntranceStart0": "TARGET RACE: "Hearthian"
+LANGUAGE FOUND IN DATABASE
+CONFIGURING ON-BOARD MEMORY STONES...DONE"
+
+"MagiEntranceStart1": "Welcome, [HEARTHIAN]! Whether you are here seeking a new life, or have simply come to visit out of curiosity, the Magister welcomes you to our humble community!"
+
+"MagiEntranceStart2": "ERROR: ATTEMPT TO CONTACT MAGISTER FAILED (NULL REFERENCE EXCEPTION: FIELD "MAGISTER" NOT SET TO AN INSTANCE OF AN OBJECT), MANUAL FALLBACK REQUESTED."
+
+"MagiEntranceStart3": "Please head inside and request from anyone to be directed to the Magister, they will be happy to assist."
+
+"EntranceWarningStart0": "WARNING: Hatch insecure! Hatch mode set to MANUAL. Reason: "To allow others to follow""
+
+"EntranceWarningStart1": "Remaining oxygen leaking out! Recommendation: Secure hatch immediately. Controls in Magister's room."
+
+"SealedDoorCubeStart0": "NO ENTRY! This room has been sealed away due to the horrors contained within. Make no attempt to enter without the Magister's express permission."
+
+"LibraryRRStart0": "NOTICE: Access to the Reading Room is restricted while overdue books are taken out and unaccounted for. Please bring the books to this table and they will be returned shortly."
+
+"LibraryRRStart1": "As of the last scan (2 hours ago), there are three missing books:"
+
+"LibraryRRStart2": "SECRET LEGENDS: A Hero's Guide to Deciphering the Undecipherable, by Skip. Detected in: Dormatory, Vultos' room."
+
+"LibraryRRStart3": "THE COORDINATES CRASH, by Ixrecius. Detected in: Campfire Room"
+
+"LibraryRRStart4": "THE ASTEROID ARCADE, by Sir Zen Quobois XLII. Detected in: Library, above intended reading space. CAUTION: There is no architecture leading to the estimated location, exercise caution if you intend to seek it out."
+
+"MagiDoorCube0": "The Magister is not in right now. Entrance to his quarters is currently denied. Please come back later, the Magister will return in: 999,999 YEARS."
+
+"MapCubeJamStart0": "SYSTEM DESIGNATION: X3NJ-AM3\nCURRENT LOCATION!
+POPULATION: Unknown
+Scanning in the immediate system running into interference
+Interference origin: The sheer number of communities that have once called this system their home
+Interference also provides ideal environment for firing of the Device! Interdimensional barriers strained!"
+
+"MapCubeOWStart0": "SYSTEM DESIGNATION: Outer Wilds
+POPULATION: 22.16
+Home of the Hearthians
+WARNING (Ignored): VORTEX SIGNAL NOT DETECTED"
+
+"MapCubeOwlkStart0": "SYSTEM DESIGNATION: J0NC-RB3
+POPULATION: None
+Previously held a thriving civilization on a moon, the same moon is now a barren wasteland."
+
+"MapCubeHNStart0": "SYSTEM DESIGNATION: Hearth's Neighbor
+POPULATION: None
+Extreme amounts of deadly matter and warped space detected."
+
+"HatchControlsStart0": "HATCH CONTROLS ENGAGED!\nPlease stand clear of the docking bay while hatch is in motion."
