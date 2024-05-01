@@ -1,0 +1,537 @@
+﻿//20240501版本
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+    "DialogueDictionary": {
+        // MEMORY CUBES ----------------------------
+        "$HN2MemoryCubeName": "记忆方块",
+
+        // Entrance dialogue
+        "$HN2Entrance1": "目标种族：“哈斯”\n语言数据库检索成功\n配置船载记忆方块……完成",
+        "$HN2Entrance2": "欢迎，[哈斯人]！不论你来这儿寻找新生活，亦或只是一场满足好奇心的参观，大导师都欢迎你参与我们的小小社群！",
+        "$HN2Entrance3": "错误：尝试联系大导师失败（空对象引用异常：字段 \"大导师\"并未设定为某一对象的某一实例），请求手动回退。",
+        "$HN2Entrance4": "请进入内部并寻求任何能够定位大导师的人的帮助，他们会乐于协助。",
+
+        // Entrance Warning
+        "$HN2Warning1": "警告：舱门不安全！舱门模式设置为手动。\n理由：“为了允许其他人追随脚步”",
+        "$HN2Warning2": "剩余氧气正在泄漏！建议：立即关闭舱门。控制台位于大导师的房间。",
+
+        // Grand Chamber
+        "$HN2Chamber1": "文图思：装置快要就绪了，大导师。",
+        "$HN2Chamber2": "大导师：很好，很好。这一酝酿了上百万年的计划，总算要见证奇迹了。",
+        "$HN2Chamber3": "叩兹：想当年那口间歇泉把我抛向平流层时，我从未想过那将成为这般经历的起点，这般……宏大。",
+        "$HN2Chamber4": "莉丽：我想我们之中谁也没法预料到大导师的消息将如此彻底地改变大家的人生。",
+        "$HN2Chamber5": "罗嘉：这确实是种奇怪的感觉。我并不怀疑大导师的能力，但知晓一切都将要结束的感觉确实很奇怪。",
+        "$HN2Chamber6": "维斯帕：去新世界、新宇宙旅行，我得承认，我对未来有点小小紧张。",
+        "$HN2Chamber7": "阿夸瑞司：对，这种感觉能理解，伙伴。未知实在是……可怕。但探索未知刚好也是你最擅长的。你在那儿会如鱼得水的。",
+        "$HN2Chamber8": "大导师：装置已经完成检查。文图思，启动它。当一切就绪时……跟随我登上平台。",
+
+        // Grand Chamber Sealed Door
+        "$HN2SealedDoor": "严禁进入！\n该房间因其中恐怖收容物已遭封锁。\n若未获取大导师明确许可，请勿尝试进入。",
+
+        // Device
+        "$HN2DeviceHearthian": "为烧烤棉花糖，篝火旁的友谊永不结束。",
+
+        // Engine room
+        "$HN2EngineEntrance1": "大导师：阿夸瑞司，你没事吧？",
+        "$HN2EngineEntrance2": "阿夸瑞司：嗯，我还好，我受过远比这更糟的电击。我本应该先断电的，但我找不到在哪儿。",
+        "$HN2EngineEntrance3": "大导师：喔，其实你那儿没设置用来断电的开关。让我来。好了，总电源现在应该关掉了。",
+        "$HN2EngineEntrance4": "大导师：请你以后不要犹豫，需要时直接喊我关掉总电源就行。我不介意。",
+        "$HN2EngineEntrance5": "阿夸瑞司：我很感激，老大，但我更担心会不会干扰到别人。",
+        "$HN2EngineEntrance6": "罗嘉：阿夸瑞司，是不是你关掉了灯？我没法画画了！",
+        "$HN2EngineEntrance7": "阿夸瑞司：……就像这样。",
+
+        "$HN2EngineBattery1": "阿夸瑞司：……这是最后一块要充电的电池了，包括备件在内。",
+        "$HN2EngineBattery2": "莉丽：要那么多备件做什么？",
+        "$HN2EngineBattery3": "阿夸瑞司：老大要我在房间里额外多备些电池，以防有别的谁光顾这里，并且也想追随我们的脚步。",
+        "$HN2EngineBattery4": "莉丽：确实，我也想知道：当我们手持电池走进装置以后，我们就没办法回来了。到时候谁来关掉装置呢？",
+        "$HN2EngineBattery5": "阿夸瑞司：喔，其实不用关。要重新启动它有点过于复杂了，所以对其他想要追随我们的人来说，只需阅读记忆方块内容，并拿着某一块备用电池进入装置就行了。",
+        "$HN2EngineBattery6": "莉丽：这不会耗尽电源吗？没了能量装置可没法运行。",
+        "$HN2EngineBattery7": "阿夸瑞司：别担心，老大说了，已经贮备好足以支撑到太阳超新星爆炸的能源了。",
+        "$HN2EngineBattery8": "莉丽：好吧，那这个房间怎么办？各个系统的能量供应无异会给整艘飞船带来巨大压力。我们怎么知道飞船本身能否支撑到那时候？",
+        "$HN2EngineBattery9": "阿夸瑞司：……",
+        "$HN2EngineBattery10": "阿夸瑞司：我相信它能<![CDATA[<i>撑撑撑撑住</i>]]>的。",
+
+        // Library
+        "$HN2LibraryIntro1": "欢迎来到我的大书库。过去几百万年时间我一直在探索宇宙各个角落，收藏了诸多文明的各种知识，并全部记录在了这座图书馆内。",
+        "$HN2LibraryIntro2": "除非你的个头也有六米高，否则请不要动大书架上的书。拿那些你拿得动的书，并且请叫文图思帮你制作你所使用语言的拷贝。",
+
+        "$HN2LibraryArt1": "维斯帕：罗嘉，你是怎么做到的？",
+        "$HN2LibraryArt2": "罗嘉：喔，大量练习，当然了。",
+        "$HN2LibraryArt3": "维斯帕：但是，哪怕全世界的练习都让你给做了也没法改善你的……",
+        "$HN2LibraryArt4": "罗嘉：色盲？确实，观察万物时只能看见明暗不一的红色对画画来说是个障碍，但也能帮我完成更多抽象艺术的创作，就像这张。细节将不再那么重要。",
+        "$HN2LibraryArt5": "维斯帕：确实，我注意到你不像我的同类习惯的那样喜欢画风景画。",
+        "$HN2LibraryArt6": "罗嘉：啊，是啊，我很喜欢欣赏来自你的文化的艺术品！我在想你会往其中藏入什么样的秘密。",
+        "$HN2LibraryArt7": "维斯帕：好吧，在画作中隐藏秘密确实不是新鲜事，不过我个人是没有过这种兴趣。你喜欢往画里藏东西吗？",
+        "$HN2LibraryArt8": "罗嘉：……哼哼，那就是另一个秘密啦，对不对？",
+
+        "$HN2LibraryRR1": "通知：由于存在逾期书籍尚未归还，阅览室入口现已锁定。请将它们全部置于此桌面上，稍后将自动完成归还手续。",
+        "$HN2LibraryRR2": "最后一次扫描（两小时前）显示，存在三本尚未归还的书籍：",
+        "$HN2LibraryRR3": "秘密传奇：《破译不破谜团的英雄指南》，作者：先解下一题。检测位于：宿舍区，文图思的房间。",
+        "$HN2LibraryRR4": "《坐标冲突》，作者：伊克斯瑞克修斯。检测位于：篝火房间。",
+        "$HN2LibraryRR5": "《小行星街机》，作者：泽恩阔博斯四十二世爵士。检测位于：图书馆，高于预期阅读区域。注意：无建筑结构通向估测位置，若决定回收书籍请保持谨慎。",
+
+        "$HN2LibrarySecret1": "大导师：文图思，我很高兴你像我一样对宇宙奥秘感兴趣。",
+        "$HN2LibrarySecret2": "文图思：嗯？啊，对，当然。",
+        "$HN2LibrarySecret3": "大导师：文图思，你还好吗？你随时可以跟我说说。",
+        "$HN2LibrarySecret4": "文图思：哦，唔，当然，谢谢。",
+        "$HN2LibrarySecret5": "大导师：文图思，你还在自责吗？",
+        "$HN2LibrarySecret6": "文图思：你瞧，我之前跟你说过，我还……我还没准备好谈这个。",
+        "$HN2LibrarySecret7": "大导师：我能问一下你何时能够准备好吗？",
+        "$HN2LibrarySecret8": "文图思：让我们把注意力都集中在装置上吧。我已经写了份草案了，但我还遇到个问题。装置对具备外太空防护的对象很难产生效果。",
+        "$HN2LibrarySecret9": "大导师：喔，文图思，我想我没说清楚。当我们被它带去那里以后，面对外太空我们将不再需要这样的防护措施。不需要穿戴什么了，要是我没看错的话，一件薄薄的衣服就足够了。",
+        "$HN2LibrarySecret10": "文图思：唔，好，当然了。我会确保装置调整妥当，哪怕你穿太多也不会起火。",
+
+        "$HN2LibraryLamp1": "罗嘉：灯火，灯火，灯火。",
+        "$HN2LibraryLamp2": "文图思：啊，罗嘉！这本该是我的秘密基地！",
+        "$HN2LibraryLamp3": "文图思：……你不会……犯病了吧？",
+        "$HN2LibraryLamp4": "文图思：……飞蛾族真是<![CDATA[<i>古怪</i>]]>啊。",
+
+        "$HN2LibraryMagi1": "叩兹：你们懂的，请原谅我提出这个有点欠妥的问题，但是，对吧，大伙儿有谁知道大导师究竟，对吧，长啥样？",
+        "$HN2LibraryMagi2": "阿夸瑞司：实话实说，我也时常在想一样的问题。老大走出房间从来都是戴面具穿长袍，若非已经乔装打扮了。",
+        "$HN2LibraryMagi3": "文图思：我总把他假想成某种宇宙恐怖存在，说实在的。",
+        "$HN2LibraryMagi4": "莉丽：假说：我们所能看见的甚至不是他的真正形态，他如此示人反而是因为他的真身是某种我们无法理解的东西。",
+        "$HN2LibraryMagi5": "维斯帕：也许他认为他的真面目会吓着我们。",
+        "$HN2LibraryMagi6": "罗嘉：对，我见过一次……你们不会想知道……我仍没缓过来。",
+        "$HN2LibraryMagi7": "维斯帕：你见过他的真身了，宝贝儿？喔，不，来这儿，我们不想给你压力。",
+        "$HN2LibraryMagi8": "文图思：……宇宙恐怖存在，那就是了，我猜。",
+
+        "$HN2LibraryXen1": "……当我旅行至一座大型礁岛见到那位图书管理员时，我们为琐事进行了一场激烈对决，他对我的知识水平印象深刻。“你怎么知道猫头鹰是什么，还有麋鹿？你分明是个外地人！”我向他强调了我的大导师身份，并开始告诉他我穿梭宇宙途中获得的知识，那些你从未见识过的动物和植物……",
+        "$HN2LibraryXen2": "……迪兹安鲨鱼是一种水生掠食者，以巨型海洋行星萨博罗拉的水域为家。它造成了多种鸟类的灭绝……",
+        "$HN2LibraryXen3": "……红背盹猪，又称红宝石麋鹿，是一种来自科里安德星系的具有侵略性的带鹿角物种。它们喜欢追猎这颗星球上的猫头猎鹰……",
+        "$HN2LibraryXen4": "……奇噗奇噗胡萝卜是这颗星球上小型居民的常见食物。它经常同以太芽植的荚一起食用。尽管被称为胡萝卜，但味道更像穴居星系发现的拍击土豆……",
+        "$HN2LibraryXen5": "……绿背巴克拉德是已知宇宙中最大的巴克拉德物种，有着五十对腿的长长身体。它如此巨大，乃至有报告称它会狩猎挪麦人，尽管它的主要猎物是胡须星豺，它还以能够通过隐身躲避多数其它掠食者而闻名……",
+        "$HN2LibraryXen6": "[这个方块喋喋不休地跟你说着那些你必然着迷的事情，但你有更要紧的事情要操心。当你走开时，它开始循环播放。]",
+
+        // Camp Room
+        "$HN2Camp1": "文图思：嗯，看来篝火是这个宇宙的不变常量。",
+        "$HN2Camp2": "叩兹：你确定我把这东西放这儿没问题吗？",
+        "$HN2Camp3": "文图思：别担心，我装了个烟雾过滤器。对咱这个种族而言，屋内生火再正常不过了。",
+        "$HN2Camp4": "阿夸瑞司：行，让我见识一下你一直吵吵嚷嚷说的“棉花糖”。",
+        "$HN2Camp5": "叩兹：当然啦！给，你可以生吃一颗……对，我懂，这种软乎乎的滋味是全宇宙最棒的东西了。但瞧这个，把它插在一根树枝的尖端，在火上烤个一分钟，然后就……\n变得更棒啦，一颗烤棉花糖！",
+        "$HN2Camp6": "罗嘉，唔唔，好吃！",
+        "$HN2Camp7": "大导师：是啊，确实，这味道很……特别。但我觉得还缺了点什么……",
+        "$HN2Camp8": "叩兹：什么？你胆敢公然质疑哈斯人的至高杰作？",
+        "$HN2Camp9": "大导师：哎哟，我想都不敢想。它确实美味，哪怕单单只有它自己。但是，也许当我们几个一起聚在这里，滋味能更上一层楼。莉丽，你带着你那些蜂蜜饼干吗？",
+        "$HN2Camp10": "莉丽：当然啦，大导师！给，我刚好带了一包。",
+        "$HN2Camp11": "大导师：完美！还有阿夸瑞司，你有巧克力吗？",
+        "$HN2Camp12": "阿夸瑞司：加盐的还是没加的？我两种都有。",
+        "$HN2Camp13": "大导师：我想先尝尝没盐的。掰一小块，放在饼干上，再黏上一团完美烤制的棉花糖把它融化，然后……最顶上盖上另一块饼干。一口吃掉……太好吃啦！",
+        "$HN2Camp14": "阿夸瑞司：来，让我尝尝，嗯姆姆姆！",
+        "$HN2Camp15": "叩兹：哈唔，我本来还不信呢，但你说得对，这确实很棒！",
+
+        // Foxle Dorm
+        "$HN2FoxleCube1": "文图思：这就是我的房间。东西不多，不过我们这一族对极简主义确实有一种特别的执著。",
+        "$HN2FoxleCube2": "叩兹：啊，这属实不错。你知道的，我们也同样不需要太多东西。只要一点木板，用树液和胶带黏上。",
+        "$HN2FoxleCube3": "文图思：这一定很棒，如此简单的生活。睡在星空下，吃着棉花糖，无忧无虑度过每一天，把整个世界抛之脑后。",
+        "$HN2FoxleCube4": "叩兹：是啊，但不能说我就不想见识什么新鲜东西，哪怕会太过复杂。",
+        "$HN2FoxleCube5": "叩兹：说到这个，你的故事是怎样的，文图思？你是最早来这儿的，对不对？",
+        "$HN2FoxleCube6": "文图思：好吧，其实不准确：大导师才是最早来的。没人真的知道他的故事。但是，他确实找到了我，并救了我。我的逃生舱降落在一颗对我而言并不宜居的星球上，我也缺乏求生的技能。我本该死在那里，要是他没找到或是没带我上船的话。",
+        "$HN2FoxleCube7": "叩兹：后来他就向你展示了有关装置的主意，对吗？我承认，我仍觉得这主意有点怪。",
+        "$HN2FoxleCube8": "文图思：确实有理由怀疑我们在这儿的目标。但这是为了所有人的利益。我们必须确保这个宇宙不会真正死去。",
+
+        // Foxle Dorm Secret
+        "$HN2FoxleSecret1": "文图思：自那天以来真的已经过了两百年了，哈啊。两百年了，自从……我像个胆小鬼一样逃跑。",
+        "$HN2FoxleSecret2": "文图思：大导师和维斯帕总是试着安慰我，我也知道他们说得对。要是当时我留下来，我也会和剩下的人一起死在那儿。",
+        "$HN2FoxleSecret3": "文图思：但那依旧没法让痛苦缓解半分。这种念头……我的命不值得被救。我理应死在那颗绿色星球上，掉进某一口间歇泉，然后淹死。",
+        "$HN2FoxleSecret4": "文图思：我好希望是那样……",
+        "$HN2FoxleSecret5": "文图思：我得回去继续做我的设计图了。",
+
+        // Owlk Dorm
+        "$HN2OwlkCube1": "维斯帕：那就是一连玩四局，九局五胜制？",
+        "$HN2OwlkCube2": "文图思：哈，你就赌吧！我总有一天会赢的！",
+        "$HN2OwlkCube3": "阿夸瑞司：我觉着你该放弃，快两百年了你都没赢过哪怕一局！",
+        "$HN2OwlkCube4": "维斯帕：退出者永没法翻身，阿夸瑞司。",
+        "$HN2OwlkCube5": "阿夸瑞司：说回我来的地方，那儿把知道何时停手视为智慧。要是我只会一个劲儿拿脑袋往问题上撞，我早就把自己给电死了。文仔，要不休息下哈，怎样？我知道你总是急吼吼要赢，但学会耐心也是种美德。",
+
+        // Owlk Dorm Upper
+        "$HN2OwlkCube2-1": "维斯帕：你还好吧？我从没把火把视野用在其他种族身上过……",
+        "$HN2OwlkCube2-2": "大导师：不，我，我很好。这种科技确实很独特。视野投射是装置所需的关键功能。",
+        "$HN2OwlkCube2-3": "维斯帕：你想亲自试试吗？给，你应该能用火把……",
+        "$HN2OwlkCube2-4": "大导师：不用，谢谢，我已经收集足够所需的数据了。",
+        "$HN2OwlkCube2-5": "维斯帕：……好吧。",
+        "$HN2OWLKCube2-6": "维斯帕：在那一团思维中到底发生了什么，你<![CDATA[<i>究竟</i>]]>是谁？",
+
+        // Nomai Dorm
+        "$HN2NomaiCube1": "叩兹：哇噢，我以前见过挪麦人的手杖，但从没见过如此……崭新又干净的。",
+        "$HN2NomaiCube2": "莉丽：你见过挪麦人？",
+        "$HN2NomaiCube3": "叩兹：我希望见过，但我的族人发现的所有挪麦人都在很久以前就死去了。星系里有大量他们的遗迹，但我们不知道他们身上究竟发生了什么。他们的建筑物也全都废弃了。",
+        "$HN2NomaiCube4": "莉丽：……噢。",
+        "$HN2NomaiCube5": "叩兹：噢，对不起，我，我不是那个意思。我是说，我确定有更多挪麦人在世界上……",
+        "$HN2NomaiCube6": "莉丽：喔，别，别让我消沉下来！行了，你还有很多其他人要见识！以及我们还得确定你究竟有什么科技可以贡献给装置。",
+        "$HN2NomaiCube7": "叩兹：是啊，当然了！",
+
+        // Redeye Dorm
+        "$HN2RedeyeCube1": "罗嘉：*嗖嗖嗡嗡*",
+        "$HN2RedeyeCube2": "文图思：你造了个名副其实的花园。我猜你跟植物相处很有经验？",
+        "$HN2RedeyeCube3": "罗嘉：喔！我没看见你在这儿！对，我是个园艺大师。在家乡时就是我的主要爱好，也是份有价值的工作。",
+        "$HN2RedeyeCube4": "文图思：喔，真的吗，为什么呀？",
+        "$HN2RedeyeCube5": "罗嘉：喔，你瞧，我的种族只有极为有限的色觉。许多你能辨别的色彩对我们来说完全没差。我们作为一种食草物种，能够在视力十分有限的情况下确定植物究竟是什么，是一项极为宝贵的技能。",
+        "$HN2RedeyeCube6": "文图思：原来如此。好吧，我很高兴你能有个如此享受的爱好，还能同时帮上同类的大忙。",
+        "$HN2RedeyeCube7": "罗嘉：谢谢你的好言！",
+        "$HN2RedeyeCube8": "文图思：为他人的生活照亮光芒是我的使命。",
+
+        // Hearthian Dorm
+        "$HN2HearthCube1": "罗嘉：你确定把一罐易燃液体放在木头做的房间是个明智的决定？",
+        "$HN2HearthCube2": "叩兹：嗯？为什么不是？我会很小心的。",
+        "$HN2HearthCube3": "罗嘉：是啊，就像你小心到不会掉进那口间歇泉一样。",
+        "$HN2HearthCube4": "叩兹：好吧，结果总是好的，对吧？要是我没掉进去，我永远也见不到你们这帮家伙了！",
+        "$HN2HearthCube5": "罗嘉：那确实如此……只要你答应我你不会引发火灾。我讨厌你身上发生不好的事情，或是隔壁屋里的我的花园。",
+        "$HN2HearthCube6": "叩兹：当然了！我会负起责任，尽我所能确保一切都在掌控之中。",
+        "$HN2HearthCube7": "罗嘉：谢谢你。顺带一提，为啥你会有这玩意儿？",
+        "$HN2HearthCube8": "叩兹：这是一种可燃树液特殊调配后的产物。我在想有没有我能为装置作出的贡献，这是哈斯人的特制燃料。",
+
+        // Magister Dorm Entrance
+        "$HN2MagiDoor1": "大导师目前不在房间内。入口现已禁止进入。请稍后再尝试访问，大导师预期回归时间：999,999年。",
+
+        // Magister Dorm Cubes
+        "$HN2MagiKirmby1": "我在某个被遗忘的大陆的礼物店找到了这东西。那儿摆着这个角色各式各样不同版本的玩偶，并且全部都很……可爱。",
+        "$HN2MagiKirmby2": "但这一个，这一个……它散发出来一些东西……把愤怒和恶意往我内心灌注其中。就好像……当我看到它时，脑子里就只剩下一股渴望彻底抹杀它存在的冲动。",
+        "$HN2MagiKirmby3": "也许把一件对我影响如此负面的东西带回家并不是什么明智之举，但我就是……对它深深着迷。",
+
+        "$HN2MagiStart1": "我在这间神秘的飞船上醒来……我不知道我是谁……我是什么东西……或是我为何在这里。",
+        "$HN2MagiStart2": "我能知道的是：这艘船是我的，它回应着我的渴望，我拥有无数这种记忆方块，能够随心所欲记录跟播放记忆。",
+        "$HN2MagiStart3": "并且……我不相信我是失忆了。我曾在这里……被谁创造。这艘船，也为我而建。但那就究竟是谁呢？",
+        "$HN2MagiStart4": "好吧，那里有一整个宇宙正等着我探索呢……一定在某个地方能找到答案。",
+
+        "$HN2MagiEye1": "今天我发现的一些东西足以……震撼全宇宙。一个涡旋，比宇宙更加古老的涡旋，并且我有一种很……亲切的就干他，在它身上。",
+        "$HN2MagiEye2": "我跟它聊过了，并没能得到什么答案。它只告诉了我它的目的：为了终结一切，而万物将因此重获新生。也许有人会把它说话的方式理解为用心险恶，但其实它并无恶意。就好像生态系统中的……分解者，它仅仅履行循环生死的使命，好让世间万物于死亡之上重燃生机。",
+        "$HN2MagiEye3": "但是，一切就必须终结吗？诚然，这个宇宙寿命有限，但假如说，假如我们不再被这个宇宙束缚呢？",
+        "$HN2MagiEye4": "一切必须终结……那是宇宙之谎言……必然有办法超越宇宙本身去保存生命。",
+
+        "$HN2MagiFox1": "当我踏上一百周年纪念之旅回到旋涡，想看看是否有什么新进展时，我收到了来自附近行星的求救信号。 一个年轻的生物被困在了逃生舱里，他缺乏求生技能，这样下去肯定会饿死，甚至更糟。",
+        "$HN2MagiFox2": "我救了他，理所应当，但当我问他家在哪里以便送他回家时，他说他已经没有了家。他的族群在一场内战中将自身毁灭殆尽，他是唯一的幸存者。他们的母星甚至不再宜居。说到这儿，他抽泣起来。",
+        "$HN2MagiFox3": "当他缓过来后，我提出收留下他，并以此换取他的协助。我当时正计划着如何对付宇宙之谎言，为此我打算建造一种特定装置。但是，这种装置基于联结，基于社群，为了能让它运作，我得找到更多人合作。",
+        "$HN2MagiFox4": "他毫不犹豫地同意了。我为他创造了一个房间，并互相交换了有关各自的各种信息。他说他叫文图思。而我叫……我叫……我……我告诉他我是大导师。",
+
+        "$HN2MagiLife1": "我遇到了个大问题。我自己是不朽的，尽管当时我也已经知晓有些生命只有有限寿命的事实，我却仍没能料到生命究竟可以有多么有限。",
+        "$HN2MagiLife2": "文图思迅速衰老，虽然他为建造装置发挥了宝贵作用，但是他没法活到见证装置激活的那一天。",
+        "$HN2MagiLife3": "幸运的是，我有办法。不朽水晶，作为装置的一部分安装其上，能够彻底阻止衰老。这对我们实现终极目标并无助益，但可以让船上的所有人活到实现的那一天。",
+
+        "$HN2MagiOwlk1": "当我经过一颗有人居住的卫星时，我伪装成他们的样子四处走访，寻找对建设装置感兴趣的人。 这里的人长得像鸟一样，还长着鹿角。",
+        "$HN2MagiOwlk2": "有人向我推荐了他们中的一员，一名年轻的发明家，维斯帕。她制作了一台以火焰驱动的天文望远镜，用于搜寻宇宙中的各种信号。",
+        "$HN2MagiOwlk3": "我试了半天也没能说服她，理所当然地，她被我这种想法吓着了，但正当我要转身离开时，她改变了主意。 她对于见识宇宙的渴望，这一她穷尽一生研究的东西，似乎压倒了她对未知的恐惧。",
+        "$HN2MagiOwlk4": "在船上，我们聊了有关她自己还有她的族群。他们种族的名字翻译过来大致意思就是“居民”，但文图思第一次见到她时被她的样子吓到了，于是想叫她“鬼鸟”。尽管她并不喜欢这个外号。考虑到她同时具备猫头鹰和鹿的特征，我提出要不就叫鹿[剩余记录已损坏]",
+
+        "$HN2MagiPiscen1": "今天我们坠落在了一颗海洋行星上。发动机出现了故障，当我们想办法停泊时，光凭船本身并无办法抵抗那巨大引力。",
+        "$HN2MagiPiscen2": "幸运的是，这颗星球上住着一种友善种族，长有四臂、半水生的鲨鱼人，其中一人十分慷慨，愿意上船帮忙维修发动机。",
+        "$HN2MagiPiscen3": "他叫阿夸瑞司，是一名电子工程师，他十分友善，尽管可怜的老文图思觉得他的样子如此令人生畏。他甚至比维斯帕都要高，当然了，还比不上我的真身。",
+        "$HN2MagiPiscen4": "他对我们飞船上各种设备深深着迷，并当即提出要加入我们。好啊，欢迎上船！",
+
+        "$HN2MagiNomai1": "今天我又碰到了另一架逃生舱，这次是挪麦人的。尽管容量巨大，但救生舱里只有一个人，她叫莉丽。",
+        "$HN2MagiNomai2": "跟维斯帕一样，她也是个发明家，发明了一种跃迁核心抗扭曲保护器。这一组件用于安装在母船上，能够“探询”母船将要跃迁的区域，检查是否存在空间扭曲。若是发现这种扭曲，它就会略微修改跃迁坐标，以预防可能面临的灾难。",
+        "$HN2MagiNomai3": "她打算在发现节上介绍这种发明，但她的家族嘲笑了她的想法。扭曲空间不过只是一个未经证实的理论概念，而这种组件要造出来代价不菲。她一时气愤，启动了一架逃生舱，打算离她的家族越远越好。",
+        "$HN2MagiNomai4": "至于我，对她的技术和理论当然是很感兴趣了，自然也欢迎她上船。",
+
+        "$HN2MagiRedeye1": "罗嘉：植物学家和画家。我为啥让她上船？",
+        "$HN2MagiRedeye2": "别误会我，我很高兴我们的队伍又有新成员，但她实在是……调皮。我害怕哪天会发现她正在船上那些她不应该去的地方闲逛。",
+        "$HN2MagiRedeye3": "唉……我想她总有一天会安分下来的。",
+
+        "$HN2MagiHearthian1": "我们正临近最终期限。装置马上就要完成了，但我们还缺一个组件。我又去了一趟涡旋，在附近的一颗星球上，我忽然看见当地一名哈斯人不小心掉进间歇泉被射进了太空。",
+        "$HN2MagiHearthian2": "他们这一族甚至还未实现太空飞行呢，但是……好吧，我需要帮助。也许这一次，这个叫叩兹的人，将为我们提供所需的最后一块拼图。",
+
+        "$HN2JamSystem": "星系名称：X3NJ-AM3\n此为当前位置！\n人口: 未知\n当前星系扫描活动正遭受干扰\n干扰来源：将此星系称为家的大量社群\n干扰同时为装置激活提供了理想环境！次元间屏障过载！",
+        "$HN2OWSystem": "星系名称：星际拓荒\n人口: 22.16\n哈斯人的故乡\n警告（忽略）: 未侦测到涡旋信号",
+        "$HN2OwlkSystem": "星系名称：J0NC-RB3\n人口：无\n一颗卫星上曾存在过繁盛文明，现已成为一片死寂荒原。",
+        "$HN2HNSystem": "星系名称：哈斯邻居\n人口：无\n侦测到大量致命物质和扭曲空间的存在。",
+
+        "$HN2HatchControls": "舱门控制激活！\n舱门活动期间请远离着陆区。",
+
+        // Memory Poem Cube
+        "$HN2Poem1": "<![CDATA[<color=#0013FF>为拭去悔恨，明天的太阳将烧得更旺。</color>]]>",
+        "$HN2Poem2": "<![CDATA[<color=#00FF9F>为克服恐惧，未知将打开双臂怀抱。</color>]]>",
+        "$HN2Poem3": "<![CDATA[<color=#3490FF>为新建纪念碑，我们的印记将亘古长存。</color>]]>",
+        "$HN2Poem4": "<![CDATA[<color=#8451FF>为保持进步，下一代人不再因我们的错误受苦。</color>]]>",
+        "$HN2Poem5": "<![CDATA[<color=#FF7575>为贮存美丽，让珍藏的美景永远铭记。</color>]]>",
+        "$HN2Poem6": "<![CDATA[<color=#FF8B00>为烧烤棉花糖，篝火旁的友谊永不结束。</color>]]>",
+        "$HN2Poem7": "为拯救宇宙的记忆，免于死亡的命运。",
+
+        // ENDING DIALOGUES
+        "$HN2MagisterName": "大导师",
+
+        "$HN2EndMIntro1": "……",
+        "$HN2EndMIntro1A": "你是谁？",
+        "$HN2EndMIntro1B": "我们在哪儿？",
+        "$HN2EndMIntro2": "欢迎来到界外平面，年轻人，这片超越宇宙的虚无。我就是大导师，这一切的动因。",
+        "$HN2EndMIntro3": "你已经以一种确切而言并非物质的形态加入了我们的行列，抵达这个确切而言并非宇宙的空间。你仍留有一部分物质意识，所以你尚无能力看见这个地方的真实面貌；不论如何，我们终于能沟通了。",
+
+        "$HN2EndMHub1": "你有什么问题想问我的吗？",
+
+        "$HN2EndMHubA": "你为什么要这么做？",
+        "$HN2EndMHubB": "What have you found here?", // unused
+        "$HN2EndMHubC": "What's with all the cubes?", // unused
+        "$HN2EndMHubD": "我能进入中央大厅那个藏在巨大门板后方的房间吗？",
+        "$HN2EndMHubE": "发生了什么？",
+        "$HN2EndMHubQuit": "再见。",
+
+        "$HN2EndMWhy1": "我是一个活了数百万年的实体，要不就已经数十亿年了。我拥有远超你理解能力的力量和知识。我有一架飞船可以实现每一个我心血来潮的想法，甚至可以将其变化成为任何想要的形状。但是，为什么？",
+        "$HN2EndMWhy2": "我不知道我来自何方。我知道我是被创造出来的，但我不知道是谁创造了我。我的假说认为，不论他们是谁，都不应当属于这个宇宙。我开始有了一个想法，制造一部可以让我超越这个宇宙的装置，但我的尝试和想法毫无结果。我最终放弃了。",
+        "$HN2EndMWhy3": "但后来……我发现了这个宇宙的必死命运。它说，一切都必须终结。",
+        "$HN2EndMWhy4": "但我不接受。这明显是一句谎言。",
+        "$HN2EndMWhy5": "我意识到我想推翻那句谎言。我想保存这个宇宙中的生命，不惜一切代价。为此，我重新审视了有关装置的想法。我的力量不足以阻止恒星自身走向，但我也许可以带上至少那么一小批不介意在永恒未知当中乘风破浪的人。",
+        "$HN2EndMWhy6": "后来，我开始召集协助制造装置的人们，这一共同目标开始成形。我逐渐开始怀疑我的目的也许就是在这里建立一个社区，随着更多的人加入，我对如何构建装置有了更多想法。",
+        "$HN2EndMWhy7": "终于，当我们七个来自不同背景、不同时代的人聚集在一起后，我们拥有了所需的一切，装置就这样完成了。我将其保持启用状态，以便其他人可以跟随我们的脚步，只要他们愿意。虽然，在我最终匆忙飞升的过程中，我似乎犯了一些错误，没能为可能来访的客人做好充分准备。这让你的旅途比预期的更加困难了，对此我深表歉意。",
+
+        "$HN2EndMDoor1": "当然，只要你认为自己已经准备好承受其中的恐怖。在下个循环，你将发现那扇大门已经消失。",
+        "$HN2EndMDoor2": "就是，有个问题，你喜欢蜘蛛吗？",
+        "$HN2EndMDoorA": "我喜欢蜘蛛！",
+        "$HN2EndMDoorB": "太可怕了！",
+        "$HN2EndMDoor3A": "那很好，你肯定会没事的。",
+        "$HN2EndMDoor3B": "我懂了。那就不用担心了。",
+
+        "$HN2EndMFind1": "我没能找到我的创造者们。但是，我能够看见更高处的存在……我看见了其他世界，其他宇宙，其他现实。",
+        "$HN2EndMFind2": "我看见了你。",
+        "$HN2EndMFind3": "我不确定他们究竟是不是你，还是说是你的不同版本，但我看见了你，正在探索其他世界，其他现实。",
+        "$HN2EndMFind4": "你看见了一个邻居太阳系。你拜访了不同行星混合后的那颗行星。你在外星入侵中幸存了下来。你分享了你的火炬视野。",
+        "$HN2EndMFind5": "你参与了寻找班卓琴的任务。你在梦中被梦行者追杀。你在黑棘星表面探索并找到了一位朋友。你发现了古老的群星编码。",
+        "$HN2EndMFind6": "这么多现实像发条一样不断滑动，在那一层层神秘的界面上。内部的世界比外部更加巨大，隐藏在那荧光平面之下。",
+        "$HN2EndMFind7": "再后来……后来我把目光投向了更远的地方。我看到了奇怪的生物体。超越任何这些现实的存在。靠近时，我看到一条龙、一只鞋子、一个穿着诺麦衣服的哈斯人、一只乌龟，还有一些粉色的马勃菌。",
+        "$HN2EndMFind8": "更远处，那里还有更多。一头奶牛，一块石头，一片星云，一名加拿大人，一只狐狸，更多的乌龟，一只三眼猫咪，还有好多好多。他们看起来……组成了属于他们自己的社群。我开始怀疑这些个体是否就是那些现实的创造者。也许甚至是……我的创造者。",
+        "$HN2EndMFind9": "随后，我意识到了，他们已经完成了我想做到的事情。他们颠覆了那句谎言。这个宇宙确实不必真正终结，他们承担了这个使命。",
+        "$HN2EndMFind10": "最后，我的愿望本就是他们的愿望吗？为延长这个宇宙的寿命而作出贡献？",
+        "$HN2EndMFind11": "若是如此，那我很高兴达到了我的目的，同时感谢你成为他们的化身。",
+        "$HN2EndMFind12": "还有对于这些存在，假若能听见我的话，谢谢你们。",
+        "$HN2EndMFind13": "我知道，谎言最终将成真。总有人会完成最后一次星际拓荒，涡旋将笑到最后。但是，因为有你，这个终结不必现在就发生。",
+        "$HN2EndMFind14": "至于你，年轻人，当你的肉身完全溶解于虚空之后，一切都将清晰。 然而，你跟时间循环的联结由这种身体意识维系，所以任何你想做的、你想铭记的事情，你应该现在就做。",
+        "$HN2EndMFind15": "当你准备好与我们一同飞升时，走进你来时正下方的图形中。",
+
+        // Vultos
+        // His name comes from "Vulpine" (meaning "fox" or "fox-like") and "Tortoise"
+        "$HN2VultosName": "文图思",
+        "$HN2EndF1": "你好。已经很久没见过像你一样好奇的人了。",
+        "$HN2EndF2": "告诉我，当你知道自身种族的存亡就担在自己肩上时，是一种什么样的感觉？",
+        "$HN2EndFA": "这一点也不轻松。我不该必须做出那种决定。",
+        "$HN2EndFB": "我会接受下来。",
+        "$HN2EndFA1": "我懂了。我一直都活在悔恨中，自从……那天，我不知道要是我能做出正确决定会怎样。但是，我也无法想象永远陷入必须做出那种决定的境地会是什么样子。",
+        "$HN2EndFB1": "我很高兴你这么说。我希望你不会后悔你的决定。我一直以来都活在悔恨中，自从……那天。",
+        "$HN2EndFHNA": "你就是我在木炉星发现的那架逃生舱的乘员，对吧？",
+        "$HN2EndFHNB": "你在后悔什么？",
+        "$HN2EndFHNA1": "啊，对，你拜访过我曾经的家园了。你见识过我的族群如何因小肚鸡肠而毁灭了他们自身。",
+        "$HN2EndFHNA2": "我刚好在红氏族入侵时苏醒。本来飞行期间我们都应该待在冷冻舱里，但我偷溜了出去。",
+        "$HN2EndFHNA3": "当他们闯进来后，我立马逃到了逃生舱那儿，甚至都没想过要不要尝试救其他人的命，就启动了逃生舱。在一连串奇迹下，逃生舱成功撑到在你们的世界着陆。",
+        "$HN2EndFHNA4": "自那以来，我没有一天不在想，要是我做了正确的决定会怎样。我觉得我应该尝试去救一些同伴，但要是我真这么做了，大概率就没有任何人得以幸存。",
+        "$HN2EndFHNA5": "别活在悔恨中。这会把你吞噬殆尽。我能撑到现在是因为我的朋友们。别忘记那些支撑你一路走到今天的人们。",
+        "$HN2EndFHNB1": "简而言之，我选择救了自己的命，但这一选择可能导致其他同伴失去了活命的机会。",
+
+        // Vespa
+        // Her name comes from a Hollow Knight character, specifically the queen of the bees. This name was chosen as many Owlks are internally references to stories with dream worlds, including Hollow Knight.
+        "$HN2VespaName": "维斯帕",
+        "$HN2EndO1": "你好。别害怕。未知固然可怕，但也很美丽。",
+        "$HN2EndO2": "我希望我的族群能像你一样保持好奇心，但最终，他们让恐惧压倒了一切，而恐惧又变成了憎恨。",
+        "$HN2EndO3": "但你的好奇心，是一件美妙的宝物。永远不要停止探索。",
+
+        // Acquarius
+        // Unlike the others there's not much thought put into this name other than it being something that incorporated the term "Aqua"
+        "$HN2AquariusName": "阿夸瑞司",
+        "$HN2EndP1": "啊。要是我们还有身体的话，我肯定要叫你当好好锻炼一下。你瘦得像条嫩枝！",
+        "$HN2EndP2": "但是，你终归很聪明。你成功一路来到了这里。你做得好。",
+        "$HN2EndP3": "另外，你们种族真需要发明一下巧克力。你们错过了。",
+
+        // Lily
+        // Nomai are named after plants and botany terms. Lily is named after a famous flower.
+        "$HN2LilyName": "莉丽",
+        "$HN2EndN1": "你好。我是莉丽。我是个挪麦人，尽管你已经都知道了。",
+        "$HN2EndN2": "我不知道是不是得好好嫉妒你一下。你成为了一名终极探险家。你可以探索任何地方，无需恐惧产生的后果或死亡。",
+        "$HN2EndN3": "然而，你也无法真正分享你的发现。你分享出去的任何东西都会在几分钟内被忘记干净。",
+        "$HN2EndN4": "探索，然后分享发现，那就是挪麦人的目标。这就是我们一开始就选择居无定所的生活的原因。",
+
+        // Roja
+        // Roja is based on the Spanish word for red, "rojo," though it is pronounced with an English "j" sound in Magistarium.
+        "$HN2RojaName": "罗嘉",
+        "$HN2EndR1": "嗨哎哎哎！我喜欢你的手电筒。我很高兴能在这种状态下与你相见，我能看到你的全部色彩！",
+        "$HN2EndR2": "我希望你喜欢那些画作和艺术品。我花了老大力气才让它们好看起来。",
+        "$HN2EndR3": "噢，也许之后我能瞧瞧你的画作？我很想跟你成为朋友。",
+
+        // Quartz
+        // Hearthians are all named after rocks. Unintentionally, Quartz is also the name of a Hearthian in Granite's Invitation, another Jam Mod. If translations exist for that mod, Quartz should have the same name as that Quartz.
+        "$HN2QuartzName": "叩兹",
+        "$HN2EndH1": "嘿，年轻人！拿起你的烤棉花糖专用树枝！",
+        "$HN2EndH2": "好吧，我们之后有的是时间慢慢料理棉花糖。咱们的村子怎么样啦？",
+        "$HN2EndHA": "咱们成功进入了太空！",
+        "$HN2EndH3": "真的吗？每个哈斯人都梦想着探索太阳系，梦想最终成真啦？",
+        "$HN2EndHB": "是呀！霍恩费斯、菲尔德斯巴、古萨，还有斯雷特，建立了星际拓荒项目，一个太空计划，自那以后我们就一直在探索星空。",
+        "$HN2EndH4": "啊，我知道这些名字！我离开的时候他们还都是小朋友呢。我很高兴他们能成长为这么棒的哈斯人。还有你！你一路跟随他们的脚步！我很高兴能看见咱们留下的这一切得以世代传递。",
+        "$HN2EndH5": "噢，还有如果你见到了另一位叩兹，请告诉他他的先祖要跟他说声嗨。名字在家族中也世代传递！",
+
+        // NOMAI TEXT ------------------------------
+        // Entrance wall
+        "$HN2EntranceWall1": "莉丽：好吧……我到地方了，似乎。这个“大导师”邀请我来这儿；让我瞧瞧他本人是否也跟邀请函一样热情。",
+        "$HN2EntranceWall2": "莉丽：这种科技着实先进。我一到这里，迎接我的方块就立刻解码了我的语言。也许它能直接读取记忆？",
+        "$HN2EntranceWall3": "莉丽：但愿我的才能在这里有用武之地。",
+
+        // Device Wall
+        "$HN2DeviceNomai": "莉丽：为保持进步，下一代人不再因我们的错误受苦。",
+
+        // Camp Wall
+        "$HN2CampWall1": "莉丽：寻找原料确实费了很大工夫，但最终我还是成功在这儿装了一颗重力水晶",
+        "$HN2CampWall2": "莉丽：它将在房间内产生一种特殊的重力场，远离它的地方提供相较于飞船更小的重力，更近则更大。",
+        "$HN2CampWall3": "莉丽：并且，作为一种水晶，它无需电力，所以要是飞船的重力除了什么问题，我们可以跑到这个房间里来。",
+        "$HN2CampWall4": "莉丽：这应该可以满足我们各自对重力的不同需求，这样我们就可以都一起舒适放松。",
+
+        // Dorm Walls
+        "$HN2HomeWall1_1": "莉丽：今天我们有了位新朋友！她叫罗嘉。",
+        "$HN2HomeWall1_2": "莉丽：她是一位植物学家，我觉得这很有趣。她看待植物的方式肯定十分独特。她也是个艺术家，用着奇特的调色板。",
+        "$HN2HomeWall1_3": "莉丽：大导师把她的房间安置在我之后，这样我就不再位处长廊最后了。",
+        "$HN2HomeWall1_4": "莉丽：大导师工作时的景象总是很神奇，他能够随心所欲地操纵飞船的形状。",
+
+        "$HN2HomeWall2_1": "莉丽：我不是个总喜欢吹嘘的人，但我必须得说：我的房间确实看着比别人的都要好！",
+        "$HN2HomeWall2_2": "莉丽：只有维斯帕的房间可以相提并论，说实在的。其他人的房间有点太……扁平了。",
+        "$HN2HomeWall2_3": "莉丽：我得承认，周围都是熟悉的家居风格，我有点想家了。但我知道家可不想我。我现在已经是某种更宏大的共同体的一员了，不论怎样。",
+
+        "$HN2HomeWall3_1": "莉丽：好吧，自从来了这里，我对大导师的主意确实很感兴趣。建造装置，确保整个宇宙的记忆得以幸存……",
+        "$HN2HomeWall3_2": "莉丽：我喜欢为重要的东西作出贡献，并受到赞赏。我将会和另外四位同伴共同协作。",
+        "$HN2HomeWall3_A1": "莉丽：这艘飞船的领袖是一位谜一样的人，自称“大导师”。他确实很强大，能够随心所欲操纵这艘飞船，还可以改变自己的身材……甚至外表。",
+        "$HN2HomeWall3_A2": "莉丽：通常来说，他保持着一副披上斗篷的高大形象，透过面具能看见后头他五只亮闪闪的眼睛。他有着巨大的身材，轻易就达到阿夸瑞司两倍尺寸，而后者个头差不多是我的四倍。",
+        "$HN2HomeWall3_A3": "莉丽：先不论他的巨大体型，他人是很友善而且有礼貌的。跟他说话的时候，很容易就忘记彼此之间个头上的差距，丝毫没有压迫感。我很喜欢跟他讨论各种复杂话题！",
+        "$HN2HomeWall3_B1": "莉丽：第一位加入大导师行列的是爱读书的文图思。他跟我也一样身上也覆有毛皮，除了有一部分沿额头从上往下蔓延，而且背上长着个硬壳，还有一根毛茸茸的长尾巴。",
+        "$HN2HomeWall3_B2": "莉丽：他通常举止开朗，我喜欢跟他在一起。当他没有藏在哪里沉浸书海的时候，喜欢和大家一起玩游戏、开玩笑。",
+        "$HN2HomeWall3_B3": "莉丽：尽管如此，我仍能感受到他心底的那一股悲伤。他抱有深深的悔恨，但我没法问他详细情况。我相信总有一天会有机会的。",
+        "$HN2HomeWall3_C1": "莉丽：我的同伴之一是一位高个子、披羽毛且长有鹿角的人，名叫维斯帕。她也是一名发明家，就跟我一样！",
+        "$HN2HomeWall3_C2": "莉丽：她喜欢看星星，还有讨论科技！",
+        "$HN2HomeWall3_D1": "莉丽：最新船员（当然没我新）是一名高个子的水生人，名叫阿夸瑞司。",
+        "$HN2HomeWall3_D2": "莉丽：他很很懂机械，也喜欢健身。他真是个大块头！",
+        "$HN2HomeWall3_D3": "莉丽：他也喜欢制作机械小玩意儿，摆满了他的架子，跟他的那些工具一起。",
+
+
+        // Library
+        "$HN2LibraryWall1": "维斯帕： ayiuqiojdflkas safsadf-lo4;;;;;adfjajgafsaf455644444444faskjajg  afjasdfpdasec][-",
+        "$HN2LibraryWall2": "莉丽：你得像这样按按钮。得多加练习才能学会怎么用手杖书写。",
+        "$HN2LibraryWall3": "维斯帕: 象这羊&",
+        "$HN2LibraryWall4": "莉丽：有进步。瞧，试试调整你打字的角度。",
+        "$HN2LibraryWall5": "维斯帕：我该怎音乐",
+        "$HN2LibraryWall6": "莉丽：一次仅限一个复杂话题，抱歉。",
+
+        "$HN2LibraryBookcase1": "莉丽：有一次我看见文图思在爬中央那根柱子。我不擅长那种运动，但我希望我能从这里看见那上面究竟有什么。",
+        "$HN2LibraryBookcase2": "莉丽：他在人造太阳的顶端看书！他搞那么隐私做什么？",
+
+        // Devs
+        "$HN2DevJamMessage": "Jam Message...",
+        "$HN2DevVictoryMessage": "Victory Message...",
+        "$HN2DevGoodbye": "Goodbye",
+
+        // GAMEWYRM
+        "$HN2DevGameWyrmName": "GameWyrm, Team Lead",
+        "$HN2DevGameWyrmHub": "Hey it's me, GameWyrm the mundane talking dragon.",
+        "$HN2DevGameWyrm1": "Congrats on finishing Magistarium! I hope you enjoyed it. I'm GameWyrm, the team lead who did all the level design, writing, and coding, as well as some of the models.",
+        "$HN2DevGameWyrm2": "For this mod, I obviously wanted to close out the story of Hearth's Neighbor (not neighboUr), but I was originally planning to not use very many custom assets. Well, you saw where that went, and I think this mod has even more custom assets than HN1!",
+        "$HN2DevGameWyrm3": "A big component of this mod's design was trying to utilize the time loop, a feature I feel is rarely actually implemented even in full length story mods. Our implementation may have been simple, but I hope it was effective and memorable!",
+        "$HN2DevGameWyrm4": "Anyway, thanks so much for playing. This mod was made in 11 days for the Outer Wilds 2024 modding jam, where all contestants were challenged to create a single planet within the same system. You should definitely check out the other entries if you haven't already!",
+        "$HN2DevGameWyrm5": "Oh, by the way, this room was made pretty early in development, but we had no idea what to do with it, so it was cut and repurposed into the dev room. Because of that, there's nothing in here, so don't bother going to the end of the hall.",
+        "$HN2DevGameWyrmV1": "Nice, we won! Two in a row!",
+        "$HN2DevGameWyrmV2": "I'm really glad people came to really like Magistarium, even if some of the puzzles can still use tweaking.",
+        "$HN2DevGameWyrmV3": "Anyway, there are still a few more things I'd like to do with Magistarium, such as voice acting, and who knows, perhaps we'll do more with the Hearth's Neighbor story.",
+        "$HN2DevGameWyrmV4": "There probably won't be a Hearth's Neighbor 3, but perhaps you'll get to see the Magistarium's crew once again. ::)",
+
+        // SHOE
+        "$HN2DevShoeSpiderName": "Shoe, Modeller and Lace Weaver",
+        "$HN2DevShoeAltName": "Shoe, Modeller",
+        "$HN2DevShoeHub": "BOOO!!!! Did i get you? I'm Shoe, the Lace Weaver.",
+        "$HN2DevShoeHubAlt": "Hey! I'm Shoe, the modeler for this mod.",
+        "$HN2DevShoe1": "I just so happened to have grown alot in size compared to the last jam, real nice to to be in my true form, hopefully one of you recognize the color scheme and get the reference.",
+        "$HN2DevShoeAlt1": "Aw man, you had to seal my true form away... not truly as ready for the horrors within this room as you promised the magister.",
+        "$HN2DevShoe2": "Anyways it was fun to be working with the same-ish team from last time, although I did leave decision making with the rest of the team. Hopes to us winning the March 2024 Jam.",
+        "$HN2DevShoe3": "Also for xen i made 21 models for this mod, ripped one or two, and took a few from the past then made 16 models for godot wilds all on time so I was NOT LAZY!!!!!!!!!",
+        "$HN2DevShoeV1": "symbiosis sweep I mean Magistarium sweep as it turns out we placed 1st once again yippie!!!",
+        "$HN2DevShoeV2": "Anyways why not stay for a while and enjoy this delicious strawberry jam cake I made for this occasion.",
+
+        // LUNA
+        "$HN2DevLunaName": "CelestialsStorm (Quantum Luna), Artist",
+        "$HN2DevLunaHub": "Hello there friend!",
+        "$HN2DevLuna1": "Hello! Congrats on finishing! I’m Luna, I made most of the textures and concept art for the mod!",
+        "$HN2DevLuna2": "This is the first mod jam I’ve participated in, and the first time I’ve contributed to a mod in production. I hope you had just as much fun playing it as I did helping to create it!",
+        "$HN2DevLuna3": "Thank you for playing!",
+        "$HN2DevLunaV1": "Wow! I’m so honored to have been on the winning team. It was amazing to work with everyone here, I loved every single moment of it!",
+        "$HN2DevLunaV2": "A huge thank you to Wyrm for letting me join the team, and to the rest of the team, I hope we get to work together again come next jam!",
+        "$HN2DevLunaV3": "Creating assets was a unique challenge, and overall, I’m proud of what I managed to contribute!",
+        "$HN2DevLunaV4": "Once again, thank you for playing, and thank you for voting for us!",
+
+        // ENDGAME
+        "$HN2DevEndgameName": "EndgameZero, Musician",
+        "$HN2DevEndgameHub": "Welcome to the dev room! I'm EndgameZero.",
+        "$HN2DevEndgame1": "I'm the composer for Magistarium. (I also edited much of the dialogue.)",
+        "$HN2DevEndgame2": "Overall, I'm pretty happy with this soundtrack. I made fewer songs than in Hearth's Neighbor (especially when you consider that a few of the songs are variations of the same one), but I think they turned out better individually.",
+        "$HN2DevEndgame3": "This soundtrack took a lot of inspiration from the TUNIC soundtrack, and I referenced the Outer Wilds soundtrack less than I did in Hearth's Neighbor. (I will be quite impressed if you can figure out the one reference to the Outer Wilds soundtrack in the Grand Chamber theme.)",
+        "$HN2DevEndgame4": "Anyway, I decided to be a turtle at the last minute (sorry for any confusion with other modding turtles); thanks to Shoe for getting the turtle model done on such short notice!",
+        "$HN2DevEndgame5": "Thanks for playing (and listening)!",
+        "$HN2DevEndgameV1": "Wow, two for two! If you had told me a year ago that that would happen, I probably wouldn't've believed you, especially if you added that I made the music for both. For a while, my goal has been to work on games as a programmer, though now I might reconsider that, since making music for these mods has gone so well. ::)",
+        "$HN2DevEndgameV2": "Once I have time, I plan to make more music for the areas in the Magistarium that use music from the base game (or from HN1) in the jam version. If you're in the future, you've probably already heard some of it!",
+
+        "$HN2Ernesto1": "嘿，是我……",
+        "$HN2Ernesto1A": "对对对，厄内斯托，会说话的魔法鮟鱇鱼。你们这帮家伙就没更有创意的彩蛋了吗，比如烤焦的鹅鹅？",
+        "$HN2Ernesto2": "<![CDATA[<i>悲伤鮟鱇鱼动静</i>]]>"
+    },
+    "ShipLogDictionary": {
+        "$HN2LogNameIntro": "大导师馆",
+        "$HN2LogIntroRumor": "我的飞船收到了一组标记了太阳系上方一艘被称为“大导师馆”的神秘造物的坐标。",
+        "$HN2LogIntro1": "我发现了太阳系上方被称为大导师馆的飞船。它有一扇我可以从一侧登陆的舱门。",
+        "$HN2LogIntro2": "氧气正从大导师馆中泄漏出来。",
+        "$HN2LogIntro3": "这艘飞船的电力供应随时间衰弱。",
+        "$HN2LogIntro4": "临近时间循环的末尾，飞船启动了应急电源，并且船上的照明都变成了红光。",
+        "$HN2LogIntro5": "时间循环即将结束时，飞船彻底断电了。",
+
+        "$HN2LogGrandChamberName": "大厅",
+        "$HN2LogGrandChamberRumor": "看起来在大导师馆的正中有间大厅。",
+        "$HN2LogGrandChamber1": "大导师馆的中央有一间巨型大厅充当枢纽连通多个房间。",
+        "$HN2LogGrandChamber2": "我在一间有篝火的房间里发现了一本书。",
+
+        "$HN2LogEndName": "界外平面",
+        "$HN2LogEndNameRumor": "装置",
+        "$HN2LogEndRumorChamber": "在大厅的中央有一座看起来似乎是什么装置的东西摆在平台之上。装置周围有不同语言卸下的文字，包括挪麦和哈斯。",
+        "$HN2LogEndRumorLibrary": "如果站平台上的人穿太多，装置就不会激活。厚重的保护，比如宇航服，需要站上平台前事先脱掉。",
+        "$HN2LogEndRumorEngine": "装置需要用户手持一枚电池。备用电池可以在某间宿舍中找到。",
+        "$HN2LogEndRumorMagi": "我找到了舱门的控制台。空气不再从装置那里流失了。",
+        "$HN2LogEnd1": "我成功激活了装置。",
+        "$HN2LogEnd2": "我见到了大导师！他和其他飞船上的人都决定使用装置去往另一存在的平面上，试图保存宇宙的记忆并探寻宇宙之上的未知领域。",
+        "$HN2LogEnd3": "大导师弄清楚了他的创造者可能是谁，并感谢他们延续了这个宇宙的寿命。",
+
+        "$HN2LogLibraryName": "图书馆",
+        "$HN2LogLibrary1": "大导师馆的顶楼设计为一座大型图书馆使用。",
+        "$HN2LogLibrary2": "图书馆内有一间被封闭的阅览室。入口将保持锁定，直至分散在飞船各处的逾期书籍归还到阅览室门口的桌子上。",
+        "$HN2LogLibrary3": "我在图书馆上方人造太阳的顶部发现了一本书。",
+        "$HN2LogLibrary4": "飞船的居民之一，罗嘉，是色盲，世间万物只能看见明暗不一的红色。",
+        "$HN2LogLibrary5": "罗嘉提到她想知道其他人会在画中隐藏什么样的秘密。",
+        "$HN2LogLibrary6": "图书馆绘画区域有个球一样的东西，启动时会射出各色彩光。这让周围的画作看起来全然不同了。",
+
+        "$HN2LogEngineName": "引擎室",
+        "$HN2LogEngineRumorName": "电力来源",
+        "$HN2LogEngineRumor": "大导师馆的电力系统并不稳定。",
+        "$HN2LogEngine1": "底楼看起来容纳了类似引擎舱或发电机的东西。致命电流从机器中泄漏出来。有个记忆方块在房间中央。",
+        "$HN2LogEngine2": "引擎组并未配备任何类似开关的东西来切断房间的电力连接。",
+
+        "$HN2LogDormsName": "宿舍区",
+        "$HN2LogDorms1": "这里有一道长廊，通往一系列房间。每个房间看起来都有着不同文化。",
+        "$HN2LogDorms2": "我在第一个房间的书架顶端找到了一本书。",
+        "$HN2LogDorms3": "有一间宿舍里面有一座水池和一堆奇怪的物件。",
+        "$HN2LogDorms4": "在长廊末端的大导师房间被封锁了。",
+        "$HN2LogDorms5": "有一个房间充满了各种植物，墙上挂着五颜六色的画作。",
+        "$HN2LogDorms6": "有一个房间是木制的，住这里的人十分高大。",
+        "$HN2LogDorms7": "位处最后的房间看起来住着哈斯人！燃料罐上印着早于星际拓荒探险队的旧版标志。",
+        "$HN2LogDorms8": "在长廊前端的房间里铺满了地毯，墙上还有个奇怪的标志。",
+        "$HN2LogDorms9": "有一个房间看起来源于挪麦。里面到处都是挪麦文字和标准挪麦物件",
+
+        "$HN2LogMagiName": "大导师的房间",
+        "$HN2LogMagiRumor": "舱门可以在大导师的房间内进行操控。",
+        "$HN2LogMagi1": "我发现充满绘画的房间内，有个通往大导师房间的隐藏通道。",
+        "$HN2LogMagi2": "大导师邀请了许多不同种族的人来到他的飞船上生活并着手建造装置。他制作了一颗不朽水晶来延长他们的寿命。",
+        "$HN2LogMagi3": "大导师发现了一个类似涡旋的东西，涡旋告诉了他有关宇宙末日的事情。他不相信宇宙必须终结，并称呼这个东西为“宇宙之谎言”。",
+
+        "$HN2LogHNName": "哈斯邻居",
+        "$HN2LogHN1": "[你应该只有在完成哈斯邻居的情况下才能看见这个条目，本模组是其续集。拥有此条目可以启用某些包含轻微剧透的对话，但完全不需要在《大导师馆》中取得进展。]",
+        "$HN2LogHN2": "在发现一架充满谜团的外星飞船后，我自己的飞船收到了针对某个特定星系的一组坐标，刚好也在星际拓荒星系的旁边。我得以使用我飞船上的恒星级跃迁引擎前往那里。"
+    },
+    "UIDictionary": {
+        "$HN2PartyPrompt": "派对",
+        "$HN2EndingText": "你飞升成为了另一种存在。\n感谢游玩，星际拓荒模组社区。",
+
+        // The name "Magistarium" is not a real word, but it comes from "Magistration", which is itself a combination of "Magister" and "Administration"
+        "MAGISTARIUM": "大导师馆"
+    },
+    "OtherDictionary": {
+        "$HN2TimeStateLowGrav": "大导师馆公告：电力不足。降低非关键系统供电。",
+        "$HN2TimeStateNoGrav": "大导师馆公告：电力极度不足。切断重力系统供电。",
+        "$HN2TimeStateRedLights": "大导师馆公告：仅剩应急供电。氧气供应系统离线。剩余氧气与电力将在三分钟内耗尽。",
+        "$HN2TimeStateDead": "大导师馆公告：电力耗尽，正在关机……",
+
+        "$HN2ItemBook": "书籍",
+        "$HN2ItemArtifact": "人造物"
+    }
+}
