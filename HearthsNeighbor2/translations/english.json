@@ -1,4 +1,4 @@
-﻿{
+{
     "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
     "DialogueDictionary": {
         // MEMORY CUBES ----------------------------
@@ -518,6 +518,7 @@
         "$HN2LogHN2": "After discovering a mysterious alien ship, my own ship received coordinates for a certain system that also happens to neighbor the Outer Wilds. I can get there using my ship's canonical warp drive."
     },
     "UIDictionary": {
+        "$HN2StartupPrompt": "Welcome to Hearth's Neighbor 2: Magistarium! This is the sequel to Hearth's Neighbor, so I recommend playing that mod first, and on this profile. Also, once you've reached the Magistarium itself, there are a few options in the config you may want to tweak to make your experience smoother.",
         "$HN2PartyPrompt": "Party",
         "$HN2EndingText": "YOU ASCENDED INTO ANOTHER STATE OF BEING.\nTHANK YOU, OUTER WILDS MODDING COMMUNITY.",
 
