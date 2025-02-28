@@ -1,0 +1,108 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+    "DialogueDictionary": {
+      //OutsideRec
+      "CALAD: Melina, is everything ready?": "갈라드: 멜리나, 모든 것이 준비됐을까요? ",      
+      "MELINA: Yes. Primm will arrive shortly for our first full test of this technology.": "멜리나: 네. 프림은 곧 도착할거고, 그가 이 기술에 대한 첫 번째 종합 테스트를 진행할 거에요.",
+      "CALAD: I hope it works. It’d be disheartening for it to not.": "갈라드: 성공하길 바랍니다. 만약 실패한다면 많이 슬플거에요. ",
+      "MELINA: It’s more disheartening to hear you hoping, Calad, are you feeling well? It’s unlike you to hope!": "멜리나: 희망을 품고 있다는 말을 들으니 더 우울하네요, 갈라드. 괜찮으세요? 희망을 가진다는건 당신답지 않아요! ",
+      "CALAD: This is something serious, Melina.": "갈라드: 이건 진지한 일입니다, 멜리나. ",
+      "MELINA: My apologies. I was merely attempting to lighten our emotions.": "멜리나: 죄송합니다. 전 그냥 이 어두운 분위기를 띄우고 싶었을 뿐이에요. ",
+      "CALAD: Fortunate that this outpost isn’t on the night side, then.": "갈라드: 이 전초기지가 <![CDATA[<i>어두운</i>]]> 쪽에 있지 않아서 다행이네요. ",
+      "MELINA: A joke that doesn’t poke at me? You truly might be unwell, friend! Regardless, Primm should be arriving soon. Let’s ready everything.": "멜레나: 절 놀리지 않는 농담이라고요? 정말 몸이 좋지 않은 것 같으시네요.   어쨌든 프림이 곧 도착할 거에요. 어서 모든 걸 준비하죠.",
+
+     //FoyerRec
+      "PRIMM: Initial log: It works! Calad is truly a talented engineer; I’m most grateful of being his apprentice.": "프림: 초기 기록: 성공했습니다! 갈라드는 정말 재능있는 엔지니어입니다. 그의 제자가 될 수 있어서 정말 다행입니다. ",
+      "CALAD: It wasn’t just me, Primm. Melina developed the interface side of things, don’t let her talent go without credit.": "갈라드: 저만 그런 게 아닙니다, 프림. 멜리나가 인터페이스 부분을 개발했습니다. 그녀의 재능을 무시하지 마세요.",
+      "MELINA: Thank you, Calad. Were you not committed to someone, I would think you’re flirting with me.": "멜리나: 감사합니다, 갈라드. 만약 당신이 이미 정식 연애 상대가 없었다면, 저는 당신이 저를 유혹하는 줄 알았을 것입니다. ",
+      "CALAD: If your brother heard you, Melina…": "갈라드: 멜리나, 만약 당신의 오빠가 그걸 들었다면...",
+      "MELINA: He’d thank me for making you two meet, yes. Now, to the matter at our prehensile appendage.": "멜리나: 우리 둘을 만나게 해준 것에 대해 고마워할 겁니다. 이제 본론으로 들어갑시다. ",
+      "MELINA: The projection is functioning wonderfully: Our minds can interact with each other in a simulated physical environment, and we can move freely even while stepping beyond the projection pool.": "멜리나: 투영은 매우 잘 작동하고 있습니다: 우리의 사고는 시뮬레이션된 물리적 환경에서 서로 교류할 수 있으며, 투영 장판을 벗어나서도 자유롭게 이동할 수 있습니다. ",
+      "PRIMM: …Calad, Melina, where is the projection stone to return?": "프림: ...갈라드, 멜리나, 들어올 때 사용할 투영 돌멩이는 어딨죠?",
+      "MELINA: Has it disappeared? This is troubling…": "멜리나: 사라졌나요? 그건... 예상하지 못했던 부분인데...",
+      "CALAD: It is, but we shouldn’t panic: There should be a safeguard to return us, but we’ll need to find it.": "갈라드: 그렇죠. 하지만 우리는 당황할 필요가 없습니다. 우리를 돌려보내기 위한 안전 장치가 있을 것입니다. 그걸 찾아야 합니다. ",
+      "MELINA: If so, let’s start moving.": "멜리나: 그렇다면 어서 움직이도록 하죠.",
+
+      //AnchorOneRec
+      "CALAD: This is a projection anchor. It helps stabilize the construction of this space.": "갈라드: 이것은 이 공간의 구조를 안정시키는 데 도움이 되는 투영 노드입니다. ",
+      "PRIMM: While I’d love to learn about its intricacies, I fail to see how this helps us exit this place.": "프림: 복잡한 세부 사항을 알고 싶지만, 이게 당장 이곳을 나가는 데 어떻게 도움을 줄 수 있죠? ",
+      "CALAD: Yes, it’s not helpful by itself, but it works with the other two to stabilize the area between them. Another projection stone should <![CDATA[<Color=orange>]]>load<![CDATA[</Color>]]> there.": "갈라드: 네, 이것 자체만으로는 효과가 없지만, 다른 두 노드과 함께 작동하여 그 사이의 영역을 안정화시킵니다. 다른 투영 돌멩이가 그곳에 <![CDATA[<Color=orange>]]>로딩<![CDATA[</Color>]]> 될 것 입니다.",
+      "MELINA: <![CDATA[<Color=orange>]]>Loading<![CDATA[</Color>]]> out of thin air? This projection is more fantastical than I thought.": "멜리나: 아무것도 없는 곳에서 <![CDATA[<Color=orange>]]>로딩<![CDATA[</Color>]]> 된다고요? 이 투영은 제가 생각했던 것보다 더 환상적이네요. ",
+      "CALAD: Does that bother you, Melina?": "갈라드: 그게 신경 쓰이나요, 멜리나? ",
+      "MELINA: How couldn’t it? As Nomai, we strive to learn about our surrounding. Doesn’t it go against our philosophy to exist in such a malleable yet predictable place?": "멜리나: 어떻게 아닐수가 있겠어요? 우리는 노마이로서 주변의 모든 것을 열심히 학습해야 해요. 이렇게 가변적이지만 결국은 예측 가능한 곳에 산다는 것은 우리의 철학에 어긋나지 않나요?",
+      "PRIMM: I agree with Melina… It’d be strange to have no unknowns.": "프림: 멜리나의 의견에 동의합니다. ...새롭게 알아야 할 무언가가 더 이상 존재하지 않는다면 정말 이상할 겁니다. ",
+      "CALAD: I… Cannot deny that.": "갈라드: 전... 부정할 수 없네요 ",
+      "CALAD: Let’s visit the other anchors, since we’re still monitoring the functionality of the projection.": "갈라드: 투영의 기능을 모니터링하고 있으니 다른 노드를 보도록 하죠.",
+
+     //AnchorTwoRec
+      "CALAD: Walking through this place makes me miss the open night sky. Remind me to add some exterior areas on future iterations, please.": "갈라드: 탁 트인 밤하늘이 그립네요. 향후 업데이트에 외부 영역을 추가하라고 나중에 알려주세요. ",
+      "PRIMM: I share the feeling, Calad. Perhaps a garden could be made, or an observatory?": "프림: 저도 공감되네요, 갈라드. 정원을 추가하거나, 아니면 천문대를 하나 만들 수 있을까요? ",
+      "MELINA: I’m unsure that’d be enough, Primm. Hypothesis: Making a facsimile of the sky will not suffice; only the true version will satiate our love for it.": "멜리나: 그걸로 충분할지 모르겠네요, 프림. 가설: 하늘의 복제품을 만드는 것만으로는 충분하지 않고, 진짜 하늘만이 하늘에 대한 우리의 사랑을 만족시킬 거에요.",
+      "CALAD: That’s not a comforting hypothesis, Melina. Why do you believe that?": "갈라드: 그건 위안이 되는 가설이 아니에요, 멜리나. 왜 그렇게 생각하시나요?",
+      "MELINA: I lack concrete evidence, but I cannot think of a situation where, knowing I’m looking at code and algorithms, I’d be satisfied.": "멜리나: 구체적인 증거는 없지만, 어떤 상황에서 제가 코드와 알고리즘을 보고 있다는 것을 알면서도 그걸로 만족감을 느낄 수 있을 거라고는 생각되지 않아요.",
+      "CALAD: Perhaps… Perhaps I feel the same.": "갈라드: 아마... 저 역시 마찬가지일 거에요",
+      "CALAD: …": "갈라드: ...",
+      "MELINA: Let us search for the other Anchors; we should assure ourselves they all function well. We’ll head for the incenter afterwards.": "멜리나: 다른 노드을 찾아보도록 하죠. 모든 노드가 제대로 작동하는지 확인해야 합니다. 그런 다음 삼각형의 중심점으로 향할겁니다.",
+
+   //AnchorThreeRec
+      "MELINA: Very well, this is the last anchor. We should attempt to triangulate them now.": "멜리나: 이게 마지막 노드입니다. 이제 이것들로 삼각형을 만들어야 합니다.",
+      "PRIMM: …": "프림: ...",
+      "CALAD: Is something the matter, Primm?": "갈라드: 왜 그러시나요, 프림? ",
+      "PRIMM: I realize there’s no nature here. Everything is constructed, but it also doesn’t feel lived in; like an attempt by someone to recreate our structures without understanding why we build them.": "프림: 여기에 자연환경이 없다는 걸 깨달았어요. 모든 것이 만들어져 있지만, 마치 우리가 왜 건축물을 짓는지 이해하지 못한 채 누군가가 건축물을 재현하려는 시도를 보는 것 같아요. 전혀 살아 있는 느낌이 들지 않아요. ",
+      "MELINA: It is so, in a way. But I expect it’ll feel lived in once we live here.": "멜리나: 어떤 면에서는 그렇죠. 하지만 일단 우리가 여기에 살게 되면 산다는 느낌이 날 거라고 생각해요.",
+      "CALAD: I don’t think that will help, Melina. I agree with Primm’s feeling.": "갈라드: 그게 도움이 될 거라고 생각되지는 않아요, 멜리나. 저는 프림의 생각이 맞는것 같아요.",
+      "PRIMM: Is this project truly a good idea?": "프림: 이 프로젝트가 정말 좋은 생각일까요? ",
+      "CALAD: I’m unsure, Primm. Regardless, let us exit this place; we’ll have enough time to think on the way.": "갈라드: 모르겠어요, 프림. 어찌 되었든 간에, 우리는 여기를 탈출해야 합니다. 가는 길에서 생각할 시간은 충분해요.",
+
+      //AnchorMiddleRecTop
+      "MELINA: I don't see a projection stone here. ": "멜리나: 여기서도 투영 돌멩이를 찾지 못했어요.",
+      "CALAD: No, but there is a way forward. Perhaps we must delve deeper before we may depart.": "갈라드: 네, 하지만 앞에 길이 있어요. 가설: 아마도 우리는 떠나기 전에 더 깊이 파고들어야 할 것입니다.",
+      "CALAD: We would do well to perform a thorough assesment of this projection if we do not wish to return later.": "갈라드: 나중에 다시 돌아오지 않으려면 지금 이 투영에 대한 철저한 평가를 수행하는 것이 좋습니다.",
+      "PRIMM: We can find our way back to the entrance from here by traveling in the direction of Projection Anchor 1.": "프림: 여기서 1번 노드를 따라서 입구로 다시 나갈 수 있습니다.",
+      
+     //AnchorMiddleRec
+      "PRIMM: I must wonder what would happen if another species interacted with this space.": "프림: 다른 종들이 이 공간과 상호작용하면 어떤 일이 일어날지 궁금하네요. ",
+      "MELINA: The projection works by interfacing with our knowledge and building from it. Hypothesis: Should a different species enter here, its architecture would closely match their experiences.": "멜리나: 투영의 작동 원리는 우리의 지식과 맞닿아 있고, 그것을 기반으로 구축되어 있어요. 가설: 여기에 다른 종이 들어오면 건물 구조가 그들의 경험에 따라 변화할 것입니다.",
+      "CALAD: Perhaps, if this structure is left alone, someone else will find it and prove that hypothesis.": "갈라드: 그럴지도 몰라요. 만약 이 구조물이 버려진다면 다른 사람들은 이걸 찾아내서 그 가설을 검증할 것입니다. ",
+      "MELINA: As much as I'd enjoy to see it, I doubt we'll be present for such an event.": "멜리나: 직접 보고 싶지만, 우리가 그런 행사에 참석할 수 있을지는 잘 모르겠네요.",
+      "CALAD: Regardless, now that we've reached this reflection, we're most likely to find a projection stone in the position on this side corresponding to where we first entered the projection.": "갈라드: 어쨌든, 이제 이쪽 투영에 도달했으므로, 반대쪽에서 처음 투영에 들어왔던 위치에 해당하는 이쪽의 위치에서 투영 돌멩이를 찾을 가능성이 가장 높습니다.",
+      "PRIMM: I am uncertain how we might locate that position without some sort of marker to lead the way.": "프림: 길을 안내하는 표식 없이 어떻게 그 위치를 찾을 수 있을지 모르겠네요.",
+    
+  //EndingRec
+      "CALAD: Before we exit this place, I believe we should discuss our perspectives.": "갈라드: 이곳을 떠나기 전에 각자의 관점을 논의해야 한다고 생각합니다. ",
+      "MELINA: In regards to what, Calad?": "멜리나: 뭐에 관한 거죠, 갈라드? ",
+      "CALAD: This place. Exploring it, we’ve all found it to be inadequate. It lacks natural qualities, it lacks will in its construction, and it lacks mysteries.": "갈라드: 이 장소요. 이곳을 탐험하면서 우리 모두는 이곳이 부족하다는 것을 알았습니다. 자연의 특성이 부족하고, 건설에 의지가 부족하고, 신비가 부족합니다.",
+      "CALAD: We created this projection in order to have a safeguard once even our last stars fade out, but, after exploring it ourselves, I wonder if it might be detrimental.": "갈라드: 우리는 마지막 별이 사라진 이후를 대비하기 위해 이 투영을 만들었지만, 직접 돌아보니 오히려 해가 될 수도 있겠다는 생각이 들었습니다.",
+      "PRIMM: Do you suggest we simply accept our fate?": "프림: 운명을 그냥 받아들이자는 건가요? ",
+      "CALAD: I suggest we, at the very least, try to stay true to our principles. We are nomads to satiate our curiosity, to meet phenomena we don’t understand and do our best to grasp it. It’s unlike our species to endure for no reason than fear of the end.": "갈라드: 저는... 우리가 최소한의 원칙에 충실하도록 노력해야 한다고 생각합니다. 우리는 호기심을 채우고, 이해하지 못하는 현상을 만나고, 그것을 이해하기 위해 최선을 다하는 유목민입니다. 단지 종말에 대한 두려움 때문에 숨어있는 것은 우리 종족에게는 맞지 않습니다.",
+      "MELINA: The alternative to our projection is daunting. Probability is not friendly to us, now.": "멜리나: 투영을 대신할 대체 아이디어는 험난할 겁니다. 이제 확률은 우리의 편이 아닐 거에요.",
+      "PRIMM: We simply must seek a different solution; one that preserves the spirit of our clan and <![CDATA[<Color=orange>]]>community<![CDATA[</Color>]]>.": "프림: 우리는 다른 해결책을 찾아야 합니다. 우리 부족과 <![CDATA[<Color=orange>]]>공동체<![CDATA[</Color>]]>의 정신에 알맞는 새로운 해결책을요.",
+      "PRIMM: Fear of failure is a poor reason not to try.": "프림: 실패에 대한 두려움은 시도하지 않는 이유로는 부족하죠."
+    },
+
+   "ShipLogDictionary": {
+      "Procedural Projection": "절차적 생성 투영",
+      "The Nomai built a simulation accessible through a projection pool. During the first practical test, three Nomai became trapped inside the projection. ": "노마이는 투영 장판을 통해 접근 가능한 시뮬레이션을 구축했다. 첫 번째 실전 테스트에서 세 명의 노마이가 투영 안에 갇히는 사고가 발생했다. ",
+      "A Nomai named Calad noted that the three projection anchors act together to stabilize the area between them and that a projection stone was likely to be found there.": "갈라드라는 이름의 노마이는 세 개의 투영 노드가 함께 작용하여 그 사이의 영역을 안정화하며, 그곳에서 투영 돌멩이가 발견될 가능성이 있다고 언급했다.",
+      "A Nomai named Melina was bothered by the predictable nature of the projection, noting that knowing everything of an enviroment contradicts the Nomai's curiosity.": "멜리나라는 노마이는 투영 안의 모든 것을 아는 것은 우주를 유랑하는 노마이의 호기심을 충족시키지 못한다고 지적하며, 예측 가능하다는 투영의 특성에 괴로워했다.",
+      "A Nomai named Calad was bothered by the lack of nature within the projection. Another Nomai noted that knowing the nature was simulated would defeat the purpose of adding it.": "갈라드라는 이름의 노마이는 투영에 자연이 없는 것이 마음에 걸렸다. 또 다른 노마이는 자연이 시뮬레이션되었다는 것을 안다면 자연을 추가한 의미가 없어진다고 지적했다.",
+      "A Nomai named Primm was bothered by the artificiality of the projection, noting it seemed like \"an attempt by someone to recreate their structures without understanding why they were built.\"": "프림이라는 이름의 노마이는 \"구조물이 왜 지어졌는지 이해하지 못한 채 누군가가 구조물을 재현하려는 시도\"라고 지적하며 투영의 인위적인 모습에 불쾌감을 드러냈다.",
+      "There is a passageway in the floor leading downwards. A Nomai named Primm noted that one could find their way back to the entrance from the passageway by traveling in the direction of Projection Anchor 1.": "바닥에 아래쪽으로 이어지는 통로가 있다. 프림이라는 노마이는 통로에서 1번 투영 노드 방향으로 이동하면 입구로 돌아갈 수 있다고 말했다.",
+      "The projection is procedurally generated from the knowledge of whoever is inside it.": "투영은 그 안에 있는 사람의 지식에 따라 자동으로 생성된다.",
+      "I found a Stranger-styled area below the Nomai structures.": "노마이 건물 아래에서 이방인 양식의 구역을 발견했다. ",
+      "A Nomai named Calad believed a projection stone would be found in the same position on the underside as the entrance is on the top side. A Nomai named Primm was unsure how to find that location without some sort of marker.": "갈라드라는 이름의 노마이는 위쪽에 입구가 있는 것처럼 아래쪽에도 같은 위치에 투영 돌멩이가 있을 거라고 믿었다. 프림이라는 노마이는 일종의 표식 없이는 그 위치를 찾을 수 있을지 확신할 수 없었다.",
+      "I found a projection stone that will allow me to escape the projection.": "투영에서 벗어날 수 있는 투영 돌멩이를  찾았다. ",
+      "The Nomai concluded they wouldn't finish this project, as they considered it to go against Nomai philosophy.": "노마이들은 이 투영이 노마이의 철학에 어긋난다고 생각했기 때문에, 이 프로젝트를 완성하지 않을 것이라고 결론지었다. "
+    },
+    "UIDictionary":{
+      "Thanks for downloading Reflections! This mod was made for the 2024 New Horizons Single Planet Mod Jam.\n\nUse of the Suit Log mod is highly recommended.": "Reflection을 다운로드해 주셔서 감사합니다! 이 모드는 2024 New Horizon 단일 행성 모드 대회를 위해 제작되었습니다.\n\nSuit Log 모드 사용을 적극 권장합니다.",
+      "Forlorn Project": "버려진 프로젝트",
+      "Anchor 1": "1번 노드",
+      "Anchor 2": "2번 노드",
+      "Anchor 3": "3번 노드",
+      "Projection Anchor": "투영 노드",
+      "You Escaped the Projection": "당신은 투영을 탈출했다"
+    },
+    "OtherDictionary":{
+    }
+ }
