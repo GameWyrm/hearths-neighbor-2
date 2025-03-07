@@ -6,8 +6,10 @@
         "surfaceSize": 280,
         "groundSize": 0,
         "surfaceGravity": 0,
-        "hasMapMarker": true,
         "showMinimap": false
+    },
+    "MapMarker": {
+        "enabled": true
     },
     "canShowOnTitle": false,
     "Orbit": {
@@ -24,15 +26,23 @@
             {
                 "parentPath": "Sector/Ending/Volumes/EndingVolume",
                 "radius": 2,
-                "creditsType": "fast",
                 "deathType": "supernova",
-                "gameOverText": "$HN2EndingText",
                 "position": {
                     "x": 0,
                     "y": 0,
                     "z": 0
                 },
-                "isRelativeToParent": true
+                "isRelativeToParent": true,
+                "gameOver": {
+                    "colour": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255,
+                        "a": 255
+                    },
+                    "text": "$HN2EndingText",
+                    "creditsType": "none"
+                }
             }
         ],
         "revealVolumes": [
