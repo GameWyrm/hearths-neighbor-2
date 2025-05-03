@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2299978705
+CRC: 2173118148
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3582312bbf02403169669487deb395bc
+    Hash: 5ea4ddc5531e41c38ab2e7b8768e5a40
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4c291661d151e6f33f8e5e30583c58c3
+    Hash: f15bef7c1b1b384dcd608a1571c32502
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -148,6 +148,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4d37ab8d4d1e425918e8172c84cb8288, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 5418269dfd62f50b1141b92b39b0843a, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: be39111e83bec25a200ff22841bd041c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 62389b8e30976189aff1020795052659, type: 3}
@@ -214,7 +216,7 @@ Assets:
 - Assets/OW Assets/Material/Structure_HEA_VillageCabin_mat.mat
 - Assets/HN2/Materials/LampEmit.mat
 - Assets/Owlk Ruins/materials/Structure_DW_Mangrove_Wood_Dark_mat.mat
-- Assets/HN2/Texture/Disco/Blue.mat
+- Assets/HN2/Materials/Disco/Blue.mat
 - Assets/Owlk Ruins/materials/Terrain_IP_DreamGridVP_mat.mat
 - Assets/Mesh/Mangrove_Hanging_RW_0.asset
 - Assets/Scenes/DreamWorld/Streamingmeshes_effects/Pillar 3.asset
@@ -243,7 +245,7 @@ Assets:
 - Assets/HN2/Materials/Memories/ImmortalityCrystal.mat
 - Assets/Scenes/DreamWorld/Streamingmeshes_effects/Floor.asset
 - Assets/HN2/Materials/Paintings/PaintingQuartz.mat
-- Assets/HN2/Texture/Disco/Magenta.mat
+- Assets/HN2/Materials/Disco/Magenta.mat
 - Assets/HN2/Materials/Memories/MemoryHearthian.mat
 - Assets/Mesh/COL_Mangrove_Trunk_DW_Ext.asset
 - Assets/Nomai Ruins/Prefabs/Wall Diamond Lamp.prefab
@@ -360,7 +362,7 @@ Assets:
 - Assets/Scenes/DreamWorld/Streamingmeshes_props/Partition_Mid.asset
 - Assets/Nomai Ruins/Prefabs/Floor_Half.prefab
 - Assets/Scenes/DreamWorld/Streamingmeshes_effects/Effects_IP_SIM_Jug_Empty.asset
-- Assets/HN2/Texture/Disco/Green.mat
+- Assets/HN2/Materials/Disco/Green.mat
 - Assets/Scenes/DreamWorld/Streamingmeshes_structures/Archway_R.asset
 - Assets/Nomai Ruins/Resources/Meshes/Structure_NOM_Wall_Collider.asset
 - Assets/Mesh/COL_Pillar_5.asset
@@ -472,7 +474,7 @@ Assets:
 - Assets/Shader/Outer Wilds_Environment_Invisible Planet_Cyberspace.asset
 - Assets/Nomai Ruins/Resources/Materials/Props_NOM_NomaiTreeLeaves_mat.mat
 - Assets/OW Assets/Material/Terrain_NOM_Metal_mat.mat
-- Assets/HN2/Texture/Disco/Red.mat
+- Assets/HN2/Materials/Disco/Red.mat
 - Assets/Owlk Ruins/Prefabs/Clean/Prefab_IP_Chair.prefab
 - Assets/Scenes/DreamWorld/Streamingmeshes_effects/col_GhostBed_Base.asset
 - Assets/HN2/Materials/BookPaper.mat
