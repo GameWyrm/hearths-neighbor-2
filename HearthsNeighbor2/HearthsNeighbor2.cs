@@ -4,6 +4,7 @@ using System;
 using System.IO;
 using System.Collections;
 using UnityEngine;
+using Newtonsoft.Json;
 
 namespace HearthsNeighbor2
 {
@@ -25,6 +26,7 @@ namespace HearthsNeighbor2
 
         public bool easyMode = false;
         public bool focusOnCubes = true;
+        public bool vaNotifications = false;
 
         public event Action configsUpdated;
 
@@ -82,8 +84,18 @@ namespace HearthsNeighbor2
 
         public override void Configure(IModConfig config)
         {
-            easyMode = ModHelper.Config.GetSettingsValue<bool>("EasyMode");
-            focusOnCubes = ModHelper.Config.GetSettingsValue<bool>("FocusOnCubes");
+            easyMode = config.GetSettingsValue<bool>("EasyMode");
+            focusOnCubes = config.GetSettingsValue<bool>("FocusOnCubes");
+            string shouldVANotifs = config.GetSettingsValue<string>("VaNotifications");
+            switch (shouldVANotifs)
+            {
+                case "On":
+                    vaNotifications = true; break;
+                case "Off":
+                    vaNotifications = false; break;
+                default:
+                    vaNotifications = ModHelper.Interaction.ModExists("Krevace.VoiceMod"); break;
+            }
 
             configsUpdated?.Invoke();
         }

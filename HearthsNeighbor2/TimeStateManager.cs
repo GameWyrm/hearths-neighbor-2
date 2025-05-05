@@ -34,6 +34,8 @@ namespace HearthsNeighbor2
         public GameObject laceWeaver;
         public GameObject shoe;
         public EndingManager endingManager;
+        public AudioSource notificationAudio;
+        public AudioClip[] notifications;
 
         // time loop properties
         private readonly int lowGravTime = 6;
@@ -108,6 +110,7 @@ namespace HearthsNeighbor2
                 RingMiddle.transform.localEulerAngles = new Vector3(RingMiddle.transform.localEulerAngles.x, RingMiddle.transform.localEulerAngles.y, RingMiddle.transform.localEulerAngles.z + ringSpeed);
                 RingOuter.transform.localEulerAngles = new Vector3(RingOuter.transform.localEulerAngles.x, RingOuter.transform.localEulerAngles.y + ringSpeed, RingOuter.transform.localEulerAngles.z);
             }
+            bool useVA = HearthsNeighbor2.Main.vaNotifications;
             switch (timeState)
             {
                 case TimeState.Normal:
@@ -117,6 +120,7 @@ namespace HearthsNeighbor2
                         if (time < noGravTime && playerNear)
                         {
                             NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateLowGrav"), 15));
+                            if (useVA) notificationAudio.PlayOneShot(notifications[0]);
                             Locator.GetShipLogManager().RevealFact("HN2_EG_Rumor");
                             Locator.GetShipLogManager().RevealFact("HN2_Intro3");
                         }
@@ -140,6 +144,7 @@ namespace HearthsNeighbor2
                         if (time < redLightTime && playerNear)
                         {
                             NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateNoGrav"), 15));
+                            if (useVA) notificationAudio.PlayOneShot(notifications[1]);
                             Locator.GetShipLogManager().RevealFact("HN2_EG_Rumor");
                             Locator.GetShipLogManager().RevealFact("HN2_Intro3");
                         }
@@ -165,6 +170,7 @@ namespace HearthsNeighbor2
                         if (time < deadTime && playerNear)
                         {
                             NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateRedLights"), 15));
+                            if (useVA) notificationAudio.PlayOneShot(notifications[2]);
                             Locator.GetShipLogManager().RevealFact("HN2_EG_Rumor");
                             Locator.GetShipLogManager().RevealFact("HN2_Intro4");
                         }
@@ -189,6 +195,7 @@ namespace HearthsNeighbor2
                         if (playerNear)
                         {
                             NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateDead"), 15));
+                            if (useVA) notificationAudio.PlayOneShot(notifications[3]);
                             Locator.GetShipLogManager().RevealFact("HN2_EG_Rumor");
                             Locator.GetShipLogManager().RevealFact("HN2_Intro5");
                         }

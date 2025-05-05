@@ -12,6 +12,17 @@
             "type": "toggle",
             "value": true,
             "tooltip": "Is the bobbing of the Memory Cubes annoying you, but you don't want to Freeze Time While Talking To Others? This will keep the camera still when you interact with them."
+        },
+        "VaNotifications": {
+            "title": "Voice-Acted Magistarium Notifications",
+            "type": "selector",
+            "value": "Only if VA Mod Present",
+            "options": [
+                "On",
+                "Off",
+                "Only if VA Mod Present"
+            ],
+            "tooltip": "Should the Magistarium notifications be voice-acted? You will only hear them in the vacinity of the Magistarium. 'Only if VA Mod Present' means that the voice-acting will only be active if you also have the Voice Acting Mod from the mod database installed."
         }
     }
 }
