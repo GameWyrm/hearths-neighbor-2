@@ -235,6 +235,20 @@
 
         "$HN2HatchControls": "HATCH CONTROLS ENGAGED!\nPlease stand clear of the docking bay while hatch is in motion.",
 
+        // HN0 cubes
+        "$HN2MagiNewCube1": "Searching through storage, I have discovered this mysterious cube. It reminds me a bit of memory cubes, yet seems much more advanced. Could it be an updated version? But then why is there only one aboard?",
+        "$HN2MagiNewCube2": "Unfortunately, it does not seem to react to anything I do to it. I suspect it has some message stored within it, but it refuses to allow me to listen to it.",
+        "$HN2MagiNewCube3": "I tried tinkering with it, and found it seems to be missing a core piece. Perhaps this is why it cannot relay its message, but as far as I can tell the component does not seem to be critical. I doubt it is required for the message to be given.",
+        "$HN2MagiNewCube4": "It has been multiple millenia since I first began trying to crack this cube. Success remains out of my grasp.",
+        "$HN2MagiNewCube5": "But, of course, I only begin to make progress as my time runs out. The Device is finally complete, and I will not delay what we have worked on for so long over some text that will soon no longer concern me.",
+        "$HN2MagiNewCube6": "I believe the Device's calibration to this solar system's strange dimensional interferance has caused the cube to become unstable. It whirred, and then a bunch of lights shot out of it. I wonder where they landed.",
+        "$HN2MagiNewCube7": "I have set up a sensor to locate them. Hopefully if anyone else finds this, they will be able to locate the lights and discover the message for themself. An important note, however: The lights are not visible to the average organism's eyes. Hopefully, they will have a mechanism for viewing light wavelengths beyond their visible spectrum.",
+
+        "$HN2MagiSensor1": "Sensing has discovered various beacons connected to the Updated Memory Cube. Relaying report of known locations:",
+        "$HN2MagiSensor2": "",
+
+
+
         // Memory Poem Cube
         "$HN2Poem1": "<![CDATA[<color=#0013FF>To wash away regret, that the sun may shine brighter tomorrow.</color>]]>",
         "$HN2Poem2": "<![CDATA[<color=#00FF9F>To overcome fear, that the unknown may be greeted with open arms.</color>]]>",

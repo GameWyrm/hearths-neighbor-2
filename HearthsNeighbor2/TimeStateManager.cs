@@ -167,6 +167,7 @@ namespace HearthsNeighbor2
                             light.color = Color.red;
                         }
                         lampMaterial.color = Color.red;
+                        lampMaterial.SetColor("_EmissionColor", new Color(0.75f, 0, 0));
                         if (time < deadTime && playerNear)
                         {
                             NotificationManager.s_instance.PostNotification(new(NotificationTarget.All, nh.GetTranslationForOtherText("$HN2TimeStateRedLights"), 15));
@@ -189,6 +190,7 @@ namespace HearthsNeighbor2
                             light.gameObject.SetActive(false);
                         }
                         lampMaterial.color = Color.black;
+                        lampMaterial.SetColor("_EmissionColor", Color.black);
                         oxygen.SetActive(false);
                         suction.SetActive(false);
                         deviceAudio.Stop();
