@@ -237,15 +237,16 @@
 
         // HN0 cubes
         "$HN2MagiNewCube1": "Searching through storage, I have discovered this mysterious cube. It reminds me a bit of memory cubes, yet seems much more advanced. Could it be an updated version? But then why is there only one aboard?",
-        "$HN2MagiNewCube2": "Unfortunately, it does not seem to react to anything I do to it. I suspect it has some message stored within it, but it refuses to allow me to listen to it.",
+        "$HN2MagiNewCube2": "Unfortunately, it does not seem to react to anything I do to it. I suspect it has some message stored within it, but it refuses to allow me to listen to it. Perhaps I am not the intended recipient.",
         "$HN2MagiNewCube3": "I tried tinkering with it, and found it seems to be missing a core piece. Perhaps this is why it cannot relay its message, but as far as I can tell the component does not seem to be critical. I doubt it is required for the message to be given.",
         "$HN2MagiNewCube4": "It has been multiple millenia since I first began trying to crack this cube. Success remains out of my grasp.",
-        "$HN2MagiNewCube5": "But, of course, I only begin to make progress as my time runs out. The Device is finally complete, and I will not delay what we have worked on for so long over some text that will soon no longer concern me.",
-        "$HN2MagiNewCube6": "I believe the Device's calibration to this solar system's strange dimensional interferance has caused the cube to become unstable. It whirred, and then a bunch of lights shot out of it. I wonder where they landed.",
-        "$HN2MagiNewCube7": "I have set up a sensor to locate them. Hopefully if anyone else finds this, they will be able to locate the lights and discover the message for themself. An important note, however: The lights are not visible to the average organism's eyes. Hopefully, they will have a mechanism for viewing light wavelengths beyond their visible spectrum.",
+        "$HN2MagiNewCube5": "The Device is complete, and now I must venture within. I am disappointed that this mystery remains unsolved, but perhaps in the future one will find it and receive its message.",
+        "$HN2MagiNewCube6": "To anyone attempting to crack it, the only help I can offer is a poem I found etched inside:",
+        "$HN2MagiNewCube7": "\"Keys hidden beyond visible light, \nAmong worlds enstranged in fight, \nThe <color=orange>third contest</color> must be present, complete \nOnly one can accomplish such a feat.",
+        "$HN2MagiNewCube8": "I wonder what sort of contest this could be referring to. Keys made of invisible light is pretty easy for me since I can see all forms of light, but most organisms seem to have a far more limited visible spectrum. They'd need some kind of tool to see them, though perhaps they make a sound?",
 
-        "$HN2MagiSensor1": "Sensing has discovered various beacons connected to the Updated Memory Cube. Relaying report of known locations:",
-        "$HN2MagiSensor2": "",
+        "$HN2MagiSensor1": "ZRRRT...So one of you have finally found my creation, I see. But to whom am I speaking?",
+        "$HN2MagiSensor2": "Well, if you're who I'm hoping for, then you should have no problem performing my busywork in the short time this system has remaining. I know how much you like busywork, after all.",
 
 
 

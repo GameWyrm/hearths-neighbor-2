@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3437260200
+CRC: 3453294650
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -11,6 +11,8 @@ AssetBundleManifest:
         Dependency_3: magistration-assets/music
         Dependency_4: magistration-assets/texturesow-b
         Dependency_5: magistration-assets/animations
+        Dependency_6: materials
+        Dependency_7: textures
     Info_1:
       Name: magistration-assets/text
       Dependencies: {}
@@ -28,4 +30,12 @@ AssetBundleManifest:
       Dependencies: {}
     Info_6:
       Name: magistration-assets/animations
+      Dependencies: {}
+    Info_7:
+      Name: materials
+      Dependencies:
+        Dependency_0: magistration
+        Dependency_1: textures
+    Info_8:
+      Name: textures
       Dependencies: {}

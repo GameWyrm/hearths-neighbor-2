@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 250201071
+CRC: 1116453391
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 11309a02a8c90b0b3cdda681be5dfcc8
+    Hash: 90110f5370925556296aed53a8a78fec
   TypeTreeHash:
     serializedVersion: 2
     Hash: ee6ac625a0f93d0dbc8be246f04147ec
@@ -238,7 +238,6 @@ Assets:
 - Assets/HN2/Materials/ChairRedeye.mat
 - Assets/Scenes/DreamWorld/Streamingmeshes_structures/Static_Plate 1.asset
 - Assets/Shader/Legacy Shaders_VertexLit.asset
-- Assets/Nomai Ruins/Resources/Shaders/Standard.asset
 - Assets/OW Assets/Shader/Outer Wilds_Environment_Ship_Cockpit Glass (Single Pass).asset
 - Assets/HN2/Materials/Memories/MemoryPiscen.mat
 - Assets/Owlk Ruins/Prefabs/Clean/Stairs_IP_Half_Railing.prefab
@@ -581,3 +580,5 @@ Dependencies:
 - C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/textures-original
 - C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/texturesow-a
 - C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/texturesow-b
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/materials
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/textures

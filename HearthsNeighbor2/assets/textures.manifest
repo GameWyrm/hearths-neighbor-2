@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3438238687
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24896dd74f1e2e7f2074dd85f258f0fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HN2/Texture/RobeTrim.png
+- Assets/HN2/Texture/Robe_h.png
+- Assets/HN2/Texture/RobeTrim_h.png
+- Assets/HN2/Texture/Robe_n.png
+- Assets/HN2/Texture/RobeTrim_m.png
+- Assets/HN2/Texture/RobeTrim_n.png
+- Assets/HN2/Texture/StarfieldOverlay.png
+Dependencies: []

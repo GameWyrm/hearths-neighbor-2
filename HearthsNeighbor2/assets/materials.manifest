@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 58816388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a34d07578ab9f25e338f8d02bd383b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HN2/Materials/Chron_Mask.mat
+- Assets/HN2/Materials/Chron_Pupil.mat
+- Assets/HN2/Materials/Chron_Jam.mat
+- Assets/HN2/Materials/Chron_Stars.mat
+- Assets/HN2/Materials/Chron_Void.mat
+- Assets/HN2/Materials/Chron_Sclera.mat
+- Assets/HN2/Materials/Chron_Robe.mat
+- Assets/HN2/Materials/Chron_Trim.mat
+- Assets/HN2/Materials/ChronographerStarfield.shader
+- Assets/HN2/Materials/Chron_Scales.mat
+- Assets/HN2/Materials/PanningNormal.shader
+Dependencies:
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/textures
