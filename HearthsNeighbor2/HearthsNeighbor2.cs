@@ -67,6 +67,8 @@ namespace HearthsNeighbor2
                     }
 
                     hasBattery = false;
+                    ModHelper.Console.WriteLine("Creating keys...");
+                    TimeStateManager.Instance?.PlaceKeys();
                 }
             });
             // Voice mod stuff

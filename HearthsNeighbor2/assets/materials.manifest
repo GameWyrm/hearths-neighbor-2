@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 58816388
+CRC: 1818696685
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6a34d07578ab9f25e338f8d02bd383b8
+    Hash: acdbeebc7d62a81f002f0ea602cb586b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 22357172b8cea85847937e8f62d0c077
@@ -24,6 +24,7 @@ Assets:
 - Assets/HN2/Materials/Chron_Void.mat
 - Assets/HN2/Materials/Chron_Sclera.mat
 - Assets/HN2/Materials/Chron_Robe.mat
+- Assets/HN2/MemoryCube HN0/CubeRim.mat
 - Assets/HN2/Materials/Chron_Trim.mat
 - Assets/HN2/Materials/ChronographerStarfield.shader
 - Assets/HN2/Materials/Chron_Scales.mat

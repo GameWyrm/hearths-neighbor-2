@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3453294650
+CRC: 3079884408
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -39,3 +39,8 @@ AssetBundleManifest:
     Info_8:
       Name: textures
       Dependencies: {}
+    Info_9:
+      Name: mainisland
+      Dependencies:
+        Dependency_0: magistration
+        Dependency_1: materials

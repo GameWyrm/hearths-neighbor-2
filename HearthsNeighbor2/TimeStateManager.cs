@@ -10,6 +10,9 @@ namespace HearthsNeighbor2
 {
     public class TimeStateManager : MonoBehaviour
     {
+        [HideInInspector]
+        public static TimeStateManager Instance;
+
         public TimeState timeState = TimeState.Normal;
         public DirectionalForceVolume gravity;
         public GameObject oxygen;
@@ -33,6 +36,7 @@ namespace HearthsNeighbor2
         public GameObject devCube;
         public GameObject laceWeaver;
         public GameObject shoe;
+        public GameObject magiKeyPrefab;
         public EndingManager endingManager;
         public AudioSource notificationAudio;
         public AudioClip[] notifications;
@@ -49,6 +53,11 @@ namespace HearthsNeighbor2
         private List<Light> lights;
 
         private Material gravityFloor;
+
+        private void Awake()
+        {
+            Instance = this;
+        }
 
         private void Start()
         {
@@ -93,6 +102,11 @@ namespace HearthsNeighbor2
             if (PlayerData.GetPersistentCondition("HN2_P_HORRORDOOR")) EnableDevRoom(PlayerData.GetPersistentCondition("HN2_P_REDUCEDFRIGHT"));
 
             endingSector.SetActive(false);
+        }
+
+        public void PlaceKeys()
+        {
+            KeyPlacer.PlaceKeys(magiKeyPrefab);
         }
 
         private void Update()

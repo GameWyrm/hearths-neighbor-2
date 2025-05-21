@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3615677913
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5f4675765598106575dbf5f608d3145
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 47382b53adc39e2d87ebd2d1a4dc5553
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0053d129d589d30957bcc3b1958fc878, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f3014da1c89ce2573a27c371d8ccd9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bda4e78dbfc9198a165897d3deca78b8, type: 3}
+- Class: 114
+  Script: {fileID: 193783277, guid: a902b38d89b16a842b4b607f1ba9e64f, type: 3}
+- Class: 114
+  Script: {fileID: -1907898684, guid: a902b38d89b16a842b4b607f1ba9e64f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HN2/MemoryCube HN0/MemoryCube.prefab
+Dependencies:
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/materials
