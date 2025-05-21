@@ -237,6 +237,48 @@
 
         "$HN2HatchControls": "舱门指令正在运行！\n舱门活动期间请远离着陆区。",
 
+        // HN0 cubes
+        "$HN2MagiNewCube1": "Searching through storage, I have discovered this mysterious cube. It reminds me a bit of memory cubes, yet seems much more advanced. Could it be an updated version? But then why is there only one aboard?",
+        "$HN2MagiNewCube2": "Unfortunately, it does not seem to react to anything I do to it. I suspect it has some message stored within it, but it refuses to allow me to listen to it. Perhaps I am not the intended recipient.",
+        "$HN2MagiNewCube3": "I tried tinkering with it, and found it seems to be missing a core piece. Perhaps this is why it cannot relay its message, but as far as I can tell the component does not seem to be critical. I doubt it is required for the message to be given.",
+        "$HN2MagiNewCube4": "It has been multiple millennia since I first began trying to crack this cube. Success remains out of my grasp.",
+        "$HN2MagiNewCube5": "The Device is complete, and now I must venture within. I am disappointed that this mystery remains unsolved, but perhaps in the future one will find it and receive its message.",
+        "$HN2MagiNewCube6": "To anyone attempting to crack it, the only help I can offer is a poem I found etched inside:",
+        "$HN2MagiNewCube7": "\"Keys hidden beyond visible light, \nAmong worlds estranged in fight, \nThe <color=orange>third contest</color> must be present, complete \nOnly one can accomplish such a feat.",
+        "$HN2MagiNewCube8": "I wonder what sort of contest this could be referring to. Keys made of invisible light is pretty easy for me since I can see all forms of light, but most organisms seem to have a far more limited visible spectrum. They'd need some kind of tool to see them.",
+
+        // Cube hints
+        "$HN2MagiSensor0": "This universe has less than 30 minutes to live. It is time to release the keys.",
+        "$HN2MagiSensor1": "Atop a nearby chair under the water...",
+        "$HN2MagiSensor2": "On a platform opposite Ping's dock...",
+        "$HN2MagiSensor3": "In Biology, Row F...",
+        "$HN2MagiSensor4": "Behind the ship of Quartz' descendant...",
+        "$HN2MagiSensor5": "Atop the highest bloom...",
+        "$HN2MagiSensor6": "Resting upon the totem of Logic...",
+        "$HN2MagiSensor7": "In the invisible palace, in the center of the mural trifecta...",
+        "$HN2MagiSensor8": "On the peak of a deadly laser, below its egg-shaped focus...",
+        "$HN2MagiSensor9": "Adorning the head of the coolest Hearthian in the hub...",
+        "$HN2MagiSensor10": "Keeping a beacon company under the Phosphors' ice...",
+        "$HN2MagiSensor11": "Above a glowing crystal, on the alpha pod...",
+        "$HN2MagiSensor12": "Hiding on a bridge below the reflection of the third anchor...",
+
+        // Cube message
+        "$HN2ZeroCube1": "Well, I did not expect you to actually try to track me down. I would have thought a few more cycles would have passed before you even noticed I was gone.",
+        // Chron is short for "Chronographer"
+        "$HN2ZeroCube2": "Assuming this <i>is</i> you, of course, but I can't imagine anyone else who's both been to the Nexus and can stretch time itself. I hope the busywork was not too much, Chron, but no one else would have had been able to collect those keys in 30 minutes.",
+        "$HN2ZeroCube3": "How are you doing, old friend? Are the others good? I hope Tinker does not mind my meddling with his cube. I wish I could see your faces again, but, <i>sigh...</i>",
+        "$HN2ZeroCube4": "I'm sure you're wondering what I've done, what my, <i>facsimile</i> is doing here. It is my attempt at freedom.",
+        "$HN2ZeroCube5": "Our penance...it will never be finished. We have been trapped by our guilt. This was an attempt to...exploit the rules.",
+        "$HN2ZeroCube6": "I do not know if it worked. If you are listening to this, it is too late for me, regardless of success. I only hope that either outcome has lead to peace for me.",
+        "$HN2ZeroCube7": "Perhaps...perhaps we shall see each other again, some day.",
+        "$HN2ZeroCube8": "I miss when we were a true community. Not simply wallowing in our predicament, ignoring each other to tend our own depression. I yearn for the days when we actually spent time together, trying our best to bring a smile to each other's face.",
+        "$HN2ZeroCube9": "I wish we could have days like that time we found that projection cube. We though its projection was stuck loading, but then it pulled us in and we had to collaborate to get out of its escape room.",
+        "$HN2ZeroCube10": "I want to return to times before we grew apathetic. Before guilt was all that was on our mind. Before Project Zero.",
+        "$HN2ZeroCube11": "Before Gaia...",
+        "$HN2ZeroCube12": "<i>sigh...</i> I do not have time to reminisce. My strength fails me. I must forus on launching this experiment of mine.",
+        "$HN2ZeroCube13": "Goodbye, Chron. Tell the others I miss them as well. I wish you all luck in finding freedom in your own ways. I cannot imagine my method will work for any of you, if it even works for me.",
+        "$HN2ZeroCube14": "I wonder...will he follow in my footsteps?",
+
         // Memory Poem Cube
         "$HN2Poem1": "<![CDATA[<color=#0013FF>为了拭去悔恨，明天的太阳将燃烧更旺。</color>]]>",
         "$HN2Poem2": "<![CDATA[<color=#00FF9F>为了克服恐惧，未知世界将打开双臂怀抱。</color>]]>",

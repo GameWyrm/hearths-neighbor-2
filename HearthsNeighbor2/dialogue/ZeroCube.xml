@@ -1,0 +1,27 @@
+﻿<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
+  <NameField>$HN2MemoryCubeName</NameField>
+
+  <DialogueNode>
+    <Name>Start</Name>
+    <EntryCondition>DEFAULT</EntryCondition>
+    <Dialogue>
+      <Page>$HN2ZeroCube1</Page>
+      <Page>$HN2ZeroCube2</Page>
+      <Page>$HN2ZeroCube3</Page>
+      <Page>$HN2ZeroCube4</Page>
+      <Page>$HN2ZeroCube5</Page>
+      <Page>$HN2ZeroCube6</Page>
+      <Page>$HN2ZeroCube7</Page>
+      <Page>$HN2ZeroCube8</Page>
+      <Page>$HN2ZeroCube9</Page>
+      <Page>$HN2ZeroCube10</Page>
+      <Page>$HN2ZeroCube11</Page>
+      <Page>$HN2ZeroCube12</Page>
+      <Page>$HN2ZeroCube13</Page>
+      <Page>$HN2ZeroCube14</Page>
+    </Dialogue>
+
+  </DialogueNode>
+
+</DialogueTree>
