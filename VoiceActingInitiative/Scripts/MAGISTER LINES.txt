@@ -1,4 +1,4 @@
-MAGISTER LINES: 88
+MAGISTER LINES: 122
 The Magister is an incomprehensible, possibly divine being that possesses significant power and intelligence. His manner is calm, his voice deep, and he speaks slowly and assuringly. Despite his form likely terrifying you, when he speaks with you, he makes you feel like he has been a dear friend of yours for many years.
 
 "GrandChamberStart1": "Good, good. A project millions of years in the making will finally see its conclusion.",
@@ -11,7 +11,7 @@ The Magister is an incomprehensible, possibly divine being that possesses signif
 
 "EngineEntranceCubeStart3": "Please, do not hesitate to ask me to turn off the power for you. I do not mind."
 
-"LibraryIntroStart0": "Welcome to my Grand Archives. Over the thousands of millenia I have explored the cosmos, I have hoarded the knowledge of many civilizations and recorded all of it here in this library.",
+"LibraryIntroStart0": "Welcome to my Grand Archives. Over the thousands of millennia I have explored the cosmos, I have hoarded the knowledge of many civilizations and recorded all of it here in this library.",
 
 "LibraryIntroStart1": "Unless you are also 20 feet tall, please do not attempt to take any books from the larger shelves. For books you can safely hold, please ask Vultos for assistance with getting a translated copy in your language."
 
@@ -41,11 +41,11 @@ The Magister is an incomprehensible, possibly divine being that possesses signif
 
 "CampCubeStart10": "MAGISTER: Wonderful! And Acquarius, do you have any chocolate?"
 
-"CampCubeStart12": "MAGISTER: I'd like to try with the unsalted first. Break off a square, put it a cracker, then stick on a perfectly roasted marshmallow to melt it, and...top it with another cracker. Down the hatch...it is delicious!"
+"CampCubeStart12": "MAGISTER: I'd like to try with the unsalted first. Break off a square, put it on a cracker, then stick on a perfectly roasted marshmallow to melt it, and...top it with another cracker. Down the hatch...it is delicious!"
 
-"OwlkHouseUpperStart1": "MAGISTER: No, I, I am all right. This technology is quite unique. Projection is a key function the Device needs."
+"OwlkHouseUpperStart2": "MAGISTER: No, I, I am all right. This technology is quite unique. Projection is a key function the Device needs."
 
-"OwlkHouseUpperStart3": "MAGISTER: No, thank you, I've gathered all the data I need from it already."
+"OwlkHouseUpperStart4": "MAGISTER: No, thank you, I've gathered all the data I need from it already."
 
 "MagiCubeKirmbyStart0": "I found this figure at a gift shop in some forgotten land. There were several versions of this character in various configurations, and almost all of them looked...adorable."
 
@@ -109,7 +109,7 @@ The Magister is an incomprehensible, possibly divine being that possesses signif
 
 "MagiCubeRedeyeStart0": "Roja: botanist and painter. Why did I let her on board?"
 
-"MagiCubeRedeyeStart1": "Do not get me wrong, I am happy to have a new member on our crew, but she is so...mischevious. I fear that she is one day going to poke around in this ship where she does not belong."
+"MagiCubeRedeyeStart1": "Do not get me wrong, I am happy to have a new member on our crew, but she is so...mischievous. I fear that she is one day going to poke around in this ship where she does not belong."
 
 "MagiCubeRedeyeStart2": "Sigh...I am sure she will calm herself in time."
 
@@ -125,19 +125,19 @@ The Magister is an incomprehensible, possibly divine being that possesses signif
 
 "EndingMagisterHub0": "What questions might you have for me?"
 
-"EndingMagisterHub0": "I am an entity millions, if not billions, of years old. I have powers and knowledge beyond your comprehension. I have a vessel that responds to my every whim, even modifying its shape to be whatever I wanted. But, why?"
+"EndingMagisterWhy0": "I am an entity millions, if not billions, of years old. I have powers and knowledge beyond your comprehension. I have a vessel that responds to my every whim, even modifying its shape to be whatever I wanted. But, why?"
 
-"EndingMagisterHub1": "I do not know where I come from. I know I was created, but I do not know who created me. I had hypothesized that whoever they were, they were not of this universe. I began to come up with an idea for a Device that would allow me to ascend beyond this universe, but my attempts and ideas went nowhere. I eventually gave up."
+"EndingMagisterWhy1": "I do not know where I come from. I know I was created, but I do not know who created me. I had hypothesized that whoever they were, they were not of this universe. I began to come up with an idea for a Device that would allow me to ascend beyond this universe, but my attempts and ideas went nowhere. I eventually gave up."
 
-"EndingMagisterHub2": "But then...I discovered the mortality of this universe. The idea that it had to end."
+"EndingMagisterWhy2": "But then...I discovered the mortality of this universe. The idea that it had to end."
 
-"EndingMagisterHub3": "But I rejected that idea. Surely it was a lie."
+"EndingMagisterWhy3": "But I rejected that idea. Surely it was a lie."
 
-"EndingMagisterHub4": "I realized that I wanted to defy that lie. I wanted to preserve the life in this universe, by any means necessary. To that end, I revisited the idea of the Device. I was not powerful enough to stop the stars themselves from dying, but I could perhaps take at least a few people with me who did not mind the concept of surfing the unknown for eternity."
+"EndingMagisterWhy4": "I realized that I wanted to defy that lie. I wanted to preserve the life in this universe, by any means necessary. To that end, I revisited the idea of the Device. I was not powerful enough to stop the stars themselves from dying, but I could perhaps take at least a few people with me who did not mind the concept of surfing the unknown for eternity."
 
-"EndingMagisterHub5": "And then, as I began to recruit people to help build the Device, this common goal began to take shape. I began to suspect my purpose was perhaps to build a community here, and as people joined us, I had more ideas about how to construct the Device."
+"EndingMagisterWhy5": "And then, as I began to recruit people to help build the Device, this common goal began to take shape. I began to suspect my purpose was perhaps to build a community here, and as people joined us, I had more ideas about how to construct the Device."
 
-"EndingMagisterHub6": "Finally, after seven of us had gathered, all from different backgrounds and time periods, we had everything we needed, and the Device was finished. I left it on, so that others interested could follow if they wished. Although, in my haste to finally ascend, I seem to have made some mistakes and did not properly prepare my vessel for foreign visitors. I apologize for making your journey more difficult than intended."
+"EndingMagisterWhy6": "Finally, after seven of us had gathered, all from different backgrounds and time periods, we had everything we needed, and the Device was finished. I left it on, so that others interested could follow if they wished. Although, in my haste to finally ascend, I seem to have made some mistakes and did not properly prepare my vessel for foreign visitors. I apologize for making your journey more difficult than intended."
 
 "EndingMagisterDoor0": "Sure, if you think your mind can withstand the horrors within. You shall find the door gone on your next loop."
 
@@ -157,25 +157,27 @@ The Magister is an incomprehensible, possibly divine being that possesses signif
 
 "EndingMagisterFind4": "You went on a quest to find a banjo. You were stalked in your dreams. You explored the surface of Dark Bramble and found a Friend. You discovered an ancient codec."
 
-"EndingMagisterFind5": "These realities moved like clockwork, in mysterious layers. Worlds were bigger on the inside, and hidden in plain sight."
+"EndingMagisterFind5": "You found those cast away, forgotten they might be. Those strangers they were, yet your eyes looked to their past. An archipelago of possibilities laid before you.",
 
-"EndingMagisterFind6": "But then...then I looked beyond. I saw strange creatures. Beings beyond any of these realities. Close, I saw a dragon, a shoe, a Hearthian in Nomai clothes, a turtle, and some pink puffball."
+"EndingMagisterFind6": "These realities moved like clockwork, in mysterious layers. Worlds were bigger on the inside, and hidden in plain sight. Those who were isolated, found escape."
 
-"EndingMagisterFind7": "Further, there were more. A cow, a rock, a nebula, a Canadian, a fox, more turtles, a three-eyed cat, and many more. They seem to be a...community of their own. I began to suspect that these individuals were the creators of these realities. Perhaps even...my creators."
+"EndingMagisterFind7": "But then...then I looked beyond. I saw strange creatures. Beings beyond any of these realities. Close, I saw a dragon, a shoe, a Hearthian in Nomai clothes, a turtle, and some pink puffball."
 
-"$EndingMagisterFind8": "And then, I realized, they had already done what I wanted. They had subverted the lie. This universe indeed did not have to truly end, and they were responsible."
+"EndingMagisterFind8": "Further, there were more. A cow, a rock, a nebula, a Canadian, a fox, a great pig, more turtles, a three-eyed cat, and many more. They seem to be a...community of their own. I began to suspect that these individuals were the creators of these realities. Perhaps even...my creators."
 
-"EndingMagisterFind9": "In the end, was my desire simply their desire? To contribute to increasing the lifespan of this universe?"
+"EndingMagisterFind9": "And then, I realized, they had already done what I wanted. They had subverted the lie. This universe indeed did not have to truly end, and they were responsible."
 
-"EndingMagisterFind10": "If so, then I am glad to have served my purpose, and I am thankful to you for being their avatar."
+"EndingMagisterFind10": "In the end, was my desire simply their desire? To contribute to increasing the lifespan of this universe?"
 
-"EndingMagisterFind11": "And to these beings, if they can hear me, thank you."
+"EndingMagisterFind11": "If so, then I am glad to have served my purpose, and I am thankful to you for being their avatar."
 
-"EndingMagisterFind12": "I know that, truly, the lie will eventually become true. One will explore the Wilds for the final time, and the vortex will have the last laugh. But, it is because of you that this ending does not have to happen now."
+"EndingMagisterFind12": "And to these beings, if they can hear me, thank you."
 
-"EndingMagisterFind13": "As for you, young hatchling, all will be clear to you soon, after your physical form has fully dissolved into the void. However, your connection to the time loop depends on this physical consciousness, so anything you wish to do that you wish to remember, you should do now."
+"EndingMagisterFind13": "I know that, truly, the lie will eventually become true. One will explore the Wilds for the final time, and the vortex will have the last laugh. But, it is because of you that this ending does not have to happen now."
 
-"EndingMagisterFind14": "When you are ready to ascend with us, enter the shape below where you entered here."
+"EndingMagisterFind14": "As for you, young hatchling, all will be clear to you soon, after your physical form has fully dissolved into the void. However, your connection to the time loop depends on this physical consciousness, so anything you wish to do that you wish to remember, you should do now."
+
+"EndingMagisterFind15": "When you are ready to ascend with us, enter the shape below where you entered here."
 
 "MagiNewCubeStart1": "Searching through storage, I have discovered this mysterious cube. It reminds me a bit of memory cubes, yet seems much more advanced. Could it be an updated version? But then why is there only one aboard?"
 
@@ -193,56 +195,56 @@ The Magister is an incomprehensible, possibly divine being that possesses signif
 
 "MagiNewCubeStart8": "I wonder what sort of contest this could be referring to. Keys made of invisible light is pretty easy for me since I can see all forms of light, but most organisms seem to have a far more limited visible spectrum. They'd need some kind of tool to see them.",
 
-"MagiSensorStart1": "This universe has less than 30 minutes to live. It is time to release the keys.",
+"MagiSensorStart0": "This universe has less than 30 minutes to live. It is time to release the keys.",
 
-"MagiSensorStart2": "Atop a nearby chair under the water...",
+"MagiSensorStart1": "Atop a nearby chair under the water...",
 
-"MagiSensorStart3": "On a platform opposite Ping's dock...",
+"MagiSensorStart2": "On a platform opposite Ping's dock...",
 
-"MagiSensorStart4": "In Biology, Row F...",
+"MagiSensorStart3": "In Biology, Row F...",
 
-"MagiSensorStart5": "Behind the ship of Quartz' descendant...",
+"MagiSensorStart4": "Behind the ship of Quartz' descendant...",
 
-"MagiSensorStart6": "Atop the highest bloom...",
+"MagiSensorStart5": "Atop the highest bloom...",
 
-"MagiSensorStart7": "Resting upon the totem of Logic...",
+"MagiSensorStart6": "Resting upon the totem of Logic...",
 
-"MagiSensorStart8": "In the invisible palace, in the center of the mural trifecta...",
+"MagiSensorStart7": "In the invisible palace, in the center of the mural trifecta...",
 
-"MagiSensorStart9": "On the peak of a deadly laser, below its egg-shaped focus...",
+"MagiSensorStart8": "On the peak of a deadly laser, below its egg-shaped focus...",
 
-"MagiSensorStart10": "Adorning the head of the coolest Hearthian in the hub...",
+"MagiSensorStart9": "Adorning the head of the coolest Hearthian in the hub...",
 
-"MagiSensorStart11": "Keeping a beacon company under the Phosphors' ice...",
+"MagiSensorStart10": "Keeping a beacon company under the Phosphors' ice...",
 
-"MagiSensorStart12": "Above a glowing crystal, on the alpha pod...",
+"MagiSensorStart11": "Above a glowing crystal, on the alpha pod...",
 
-"MagiSensorStart13": "Hiding on a bridge below the reflection of the third anchor...",
+"MagiSensorStart12": "Hiding on a bridge below the reflection of the third anchor...",
 
-"ZeroCubeStart1": "Well, I did not expect you to actually try to track me down. I would have thought a few more cycles would have passed before you even noticed I was gone.",
+"ZeroCubeStart0": "Well, I did not expect you to actually try to track me down. I would have thought a few more cycles would have passed before you even noticed I was gone.",
 
-"ZeroCubeStart2": "Assuming this <i>is</i> you, of course, but I can't imagine anyone else who's both been to the Nexus and can stretch time itself. I hope the busywork was not too much, Chron, but no one else would have had been able to collect those keys in 30 minutes.",
+"ZeroCubeStart1": "Assuming this <i>is</i> you, of course, but I can't imagine anyone else who's both been to the Nexus and can stretch time itself. I hope the busywork was not too much, Chron, but no one else would have had been able to collect those keys in 30 minutes.",
 
-"ZeroCubeStart3": "How are you doing, old friend? Are the others good? I hope Tinker does not mind my meddling with his cube. I wish I could see your faces again, but, <i>sigh...</i>",
+"ZeroCubeStart2": "How are you doing, old friend? Are the others good? I hope Tinker does not mind my meddling with his cube. I wish I could see your faces again, but, <i>sigh...</i>",
 
-"ZeroCubeStart4": "I'm sure you're wondering what I've done, what my, <i>facsimile</i> is doing here. It is my attempt at freedom.",
+"ZeroCubeStart3": "I'm sure you're wondering what I've done, what my, <i>facsimile</i> is doing here. It is my attempt at freedom.",
 
-"ZeroCubeStart5": "Our penance...it will never be finished. We have been trapped by our guilt. This was an attempt to...exploit the rules.",
+"ZeroCubeStart4": "Our penance...it will never be finished. We have been trapped by our guilt. This was an attempt to...exploit the rules.",
 
-"ZeroCubeStart6": "I do not know if it worked. If you are listening to this, it is too late for me, regardless of success. I only hope that either outcome has lead to peace for me.",
+"ZeroCubeStart5": "I do not know if it worked. If you are listening to this, it is too late for me, regardless of success. I only hope that either outcome has lead to peace for me.",
 
-"ZeroCubeStart7": "Perhaps...perhaps we shall see each other again, some day.",
+"ZeroCubeStart6": "Perhaps...perhaps we shall see each other again, some day.",
 
-"ZeroCubeStart8": "I miss when we were a true community. Not simply wallowing in our predicament, ignoring each other to tend our own depression. I yearn for the days when we actually spent time together, trying our best to bring a smile to each other's face.",
+"ZeroCubeStart7": "I miss when we were a true community. Not simply wallowing in our predicament, ignoring each other to tend our own depression. I yearn for the days when we actually spent time together, trying our best to bring a smile to each other's face.",
 
-"ZeroCubeStart9": "I wish we could have days like that time we found that projection cube. We though its projection was stuck loading, but then it pulled us in and we had to collaborate to get out of its escape room.",
+"ZeroCubeStart8": "I wish we could have days like that time we found that projection cube. We though its projection was stuck loading, but then it pulled us in and we had to collaborate to get out of its escape room.",
 
-"ZeroCubeStart10": "I want to return to times before we grew apathetic. Before guilt was all that was on our mind. Before Project Zero.",
+"ZeroCubeStart9": "I want to return to times before we grew apathetic. Before guilt was all that was on our mind. Before Project Zero.",
 
-"ZeroCubeStart11": "Before Gaia...",
+"ZeroCubeStart10": "Before Gaia...",
 
-"ZeroCubeStart12": "<i>sigh...</i> I do not have time to reminisce. My strength fails me. I must forus on launching this experiment of mine.",
+"ZeroCubeStart11": "<i>sigh...</i> I do not have time to reminisce. My strength fails me. I must forus on launching this experiment of mine.",
 
-"ZeroCubeStart13": "Goodbye, Chron. Tell the others I miss them as well. I wish you all luck in finding freedom in your own ways. I cannot imagine my method will work for any of you, if it even works for me.",
+"ZeroCubeStart12": "Goodbye, Chron. Tell the others I miss them as well. I wish you all luck in finding freedom in your own ways. I cannot imagine my method will work for any of you, if it even works for me.",
 
-"ZeroCubeStart14": "I wonder...will he follow in my footsteps?",
+"ZeroCubeStart13": "I wonder...will he follow in my footsteps?",

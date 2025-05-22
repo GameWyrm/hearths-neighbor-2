@@ -51,7 +51,7 @@
         "$HN2EngineBattery10": "ACQUARIUS: I'm sure it'll be <![CDATA[<i>fiiiiine</i>]]>.",
 
         // Library
-        "$HN2LibraryIntro1": "Welcome to my Grand Archives. Over the thousands of millenia I have explored the cosmos, I have hoarded the knowledge of many civilizations and recorded all of it here in this library.",
+        "$HN2LibraryIntro1": "Welcome to my Grand Archives. Over the thousands of millennia I have explored the cosmos, I have hoarded the knowledge of many civilizations and recorded all of it here in this library.",
         "$HN2LibraryIntro2": "Unless you are also 20 feet tall, please do not attempt to take any books from the larger shelves. For books you can safely hold, please ask Vultos for assistance with getting a translated copy in your language.",
 
         "$HN2LibraryArt1": "VESPA: Roja, how do you do it?",
@@ -114,7 +114,7 @@
         "$HN2Camp10": "LILY: Of course, Magister! Here, I have a pack right now.",
         "$HN2Camp11": "MAGISTER: Wonderful! And Acquarius, do you have any chocolate?",
         "$HN2Camp12": "ACQUARIUS: Salted or unsalted? I got 'em both.",
-        "$HN2Camp13": "MAGISTER: I'd like to try with the unsalted first. Break off a square, put it a cracker, then stick on a perfectly roasted marshmallow to melt it, and...top it with another cracker. Down the hatch...it is delicious!",
+        "$HN2Camp13": "MAGISTER: I'd like to try with the unsalted first. Break off a square, put it on a cracker, then stick on a perfectly roasted marshmallow to melt it, and...top it with another cracker. Down the hatch...it is delicious!",
         "$HN2Camp14": "ACQUARIUS: 'ere, lemme try, MMMMMM!",
         "$HN2Camp15": "QUARTZ: Huh, had my doubts, but you're right, this is so good!",
 
@@ -222,7 +222,7 @@
         "$HN2MagiNomai4": "I, however, was very interested in her tech and theories, and welcomed her aboard.",
 
         "$HN2MagiRedeye1": "Roja: botanist and painter. Why did I let her on board?",
-        "$HN2MagiRedeye2": "Do not get me wrong, I am happy to have a new member on our crew, but she is so...mischevious. I fear that she is one day going to poke around in this ship where she does not belong.",
+        "$HN2MagiRedeye2": "Do not get me wrong, I am happy to have a new member on our crew, but she is so...mischievous. I fear that she is one day going to poke around in this ship where she does not belong.",
         "$HN2MagiRedeye3": "Sigh...I am sure she will calm herself in time.",
 
         "$HN2MagiHearthian1": "Our deadline approaches. The Device is nearly complete, but we need one more component. I went to visit the vortex again, but on a nearby planet, I caught sight of a local Hearthian who had accidentally launched themself into space via a geyser.",
