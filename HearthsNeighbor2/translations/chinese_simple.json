@@ -275,7 +275,7 @@
         "$HN2ZeroCube9": "I wish we could have days like that time we found that projection cube. We though its projection was stuck loading, but then it pulled us in and we had to collaborate to get out of its escape room.",
         "$HN2ZeroCube10": "I want to return to times before we grew apathetic. Before guilt was all that was on our mind. Before Project Zero.",
         "$HN2ZeroCube11": "Before Gaia...",
-        "$HN2ZeroCube12": "<i>sigh...</i> I do not have time to reminisce. My strength fails me. I must forus on launching this experiment of mine.",
+        "$HN2ZeroCube12": "<i>sigh...</i> I do not have time to reminisce. My strength fails me. I must focus on launching this experiment of mine.",
         "$HN2ZeroCube13": "Goodbye, Chron. Tell the others I miss them as well. I wish you all luck in finding freedom in your own ways. I cannot imagine my method will work for any of you, if it even works for me.",
         "$HN2ZeroCube14": "I wonder...will he follow in my footsteps?",
 
@@ -579,7 +579,8 @@
         "$HN2TimeStateDead": "大导师馆公告：电力耗尽，正在关机……",
 
         "$HN2ItemBook": "书籍",
-        "$HN2ItemArtifact": "人造物"
-        
+        "$HN2ItemArtifact": "人造物",
+
+        "$HN2InteractKey": "Touch Force"
     }
 }

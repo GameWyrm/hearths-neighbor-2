@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3079884408
+CRC: 474606970
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -13,6 +13,7 @@ AssetBundleManifest:
         Dependency_5: magistration-assets/animations
         Dependency_6: materials
         Dependency_7: textures
+        Dependency_8: mainisland
     Info_1:
       Name: magistration-assets/text
       Dependencies: {}

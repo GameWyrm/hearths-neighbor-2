@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3636992892
+CRC: 3417813359
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aa85bf7cc5a746382fc6cab43e898718
+    Hash: cce844c1e0d17e44478692d996913671
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2b30cde5c5c0aaa5ce52fbbecc812a8c
+    Hash: 5d51205c0b6bb15d5e28d0221da04729
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,6 +30,8 @@ ClassTypes:
 - Class: 64
   Script: {instanceID: 0}
 - Class: 65
+  Script: {instanceID: 0}
+- Class: 74
   Script: {instanceID: 0}
 - Class: 82
   Script: {instanceID: 0}
@@ -61,6 +63,8 @@ ClassTypes:
   Script: {fileID: 2116757322, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
 - Class: 114
   Script: {fileID: -1189167291, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
+- Class: 114
+  Script: {fileID: -1586069094, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
 - Class: 114
   Script: {fileID: 2065145949, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
 - Class: 114
@@ -164,7 +168,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: a1f326afd8115cd8f4068186646cea5d, type: 3}
 - Class: 114
-  Script: {fileID: -1586069094, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
+  Script: {fileID: -1517285127, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
+- Class: 114
+  Script: {fileID: -1434111664, guid: dccf55608b996814c9476834b7d85fb9, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 120
@@ -582,5 +588,6 @@ Dependencies:
 - C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/textures-original
 - C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/texturesow-a
 - C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/magistration-assets/texturesow-b
+- C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/mainisland
 - C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/materials
 - C:/Users/daron/source/repos/HearthsNeighbor2/HearthsNeighbor2/assets/textures
