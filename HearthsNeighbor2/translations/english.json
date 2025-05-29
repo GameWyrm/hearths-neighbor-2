@@ -254,7 +254,7 @@
         "$HN2MagiSensor5": "Atop the highest bloom...",
         "$HN2MagiSensor6": "Resting upon the totem of Logic...",
         "$HN2MagiSensor7": "In the invisible palace, in the center of the mural trifecta...",
-        "$HN2MagiSensor8": "On the peak of a deadly laser, below its egg-shaped focus...",
+        "$HN2MagiSensor8": "At the base of a deadly laser, at the start of a spiral climb...",
         "$HN2MagiSensor9": "Adorning the head of the coolest Hearthian in the hub...",
         "$HN2MagiSensor10": "Keeping a beacon company under the Phosphors' ice...",
         "$HN2MagiSensor11": "Above a glowing crystal, on the alpha pod...",
@@ -270,7 +270,7 @@
         "$HN2ZeroCube6": "I do not know if it worked. If you are listening to this, it is too late for me, regardless of success. I only hope that either outcome has lead to peace for me.",
         "$HN2ZeroCube7": "Perhaps...perhaps we shall see each other again, some day.",
         "$HN2ZeroCube8": "I miss when we were a true community. Not simply wallowing in our predicament, ignoring each other to tend our own depression. I yearn for the days when we actually spent time together, trying our best to bring a smile to each other's face.",
-        "$HN2ZeroCube9": "I wish we could have days like that time we found that projection cube. We though its projection was stuck loading, but then it pulled us in and we had to collaborate to get out of its escape room.",
+        "$HN2ZeroCube9": "I wish we could have days like that time we found that projection cube. We thought its projection was stuck loading, but then it pulled us in and we had to collaborate to get out of its escape room.",
         "$HN2ZeroCube10": "I want to return to times before we grew apathetic. Before guilt was all that was on our mind. Before Project Zero.",
         "$HN2ZeroCube11": "Before Gaia...",
         "$HN2ZeroCube12": "<i>sigh...</i> I do not have time to reminisce. My strength fails me. I must focus on launching this experiment of mine.",
@@ -560,7 +560,63 @@
 
         "$HN2LogHNName": "Hearth's Neighbor",
         "$HN2LogHN1": "[You should only be seeing this entry if you beat Hearth's Neighbor, to which this mod is a sequel. Having this entry enables certain dialogue that contains minor spoilers but is completely unneeded to progress in Magistarium.]",
-        "$HN2LogHN2": "After discovering a mysterious alien ship, my own ship received coordinates for a certain system that also happens to neighbor the Outer Wilds. I can get there using my ship's canonical warp drive."
+        "$HN2LogHN2": "After discovering a mysterious alien ship, my own ship received coordinates for a certain system that also happens to neighbor the Outer Wilds. I can get there using my ship's canonical warp drive.",
+
+        // New HN0 puzzle
+        "$HN2LogHN0Name": "Advanced Memory Cube",
+        "$HN2LogHN0Rumor": "I found a strange memory cube in the Magister's room. Supposedly it contains a secret message that requires finding invisible keys to obtain. Perhaps a tool can be used to see them. However, these keys can only be found if the <color=orange>third contest</color> is complete, whatever that means. It is unlikely that this message is related to the Device or what happened to the Magistarium's crew.",
+        "$HN2LogHN0": "I found all the keys and received the message from the Advanced Memory Cube. The message was intended for someone named Chron, and mentioned a Nexus...could it be related to <color=orange>Halcyon Nexus Zero</color>?",
+
+        "$HN20LogMagiName": "Magistarium Key",
+        "$HN20LogMagiRumor": "\"Atop a nearby chair under the water...\"",
+        "$HN20LogMagi": "I found a key in a pool aboard the Magistarium. This is probably the only key on this ship.",
+
+        "$HN20LogStarshipName": "Starship Community Key",
+        "$HN20LogStarshipRumor": "\"On a platform opposite Ping's dock...\"",
+        "$HN20LogStarship": "I found a key on a platform behind the Starship Community.",
+
+        "$HN20LogEggName": "Boiled Egg Key",
+        "$HN20LogEggRumor": "\"In Biology, Row F...\"",
+        "$HN20LogEgg": "I found a key in the library on The Boiled Egg.",
+
+        "$HN20LogDeathName": "Death Egg Key",
+        "$HN20LogDeathRumor": "\"At the base of a deadly laser, at the start of a spiral climb...\"",
+        "$HN20LogDeath": "I found a key at the base of the Death Egg's laser.",
+
+        "$HN20LogSymName": "Symbiosis Key",
+        "$HN20LogSymRumor": "\"Atop the highest bloom...\"",
+        "$HN20LogSym": "I found a key in a flower on the alternate Timber Hearth.",
+
+        "$HN20LogGravelName": "Gravelrock Key",
+        "$HN20LogGravelRumor": "\"Behind the ship of Quartz' descendant...\"",
+        "$HN20LogGravel": "I found a key behind Quartz Jr.'s crashed ship.",
+
+        "$HN20LogBandName": "Fractured Harmony Key",
+        "$HN20LogBandRumor": "\"Resting upon the totem of Logic...\"",
+        "$HN20LogBand": "I found a key on top of a totem overlooking the town of the Followers of Logic.",
+
+        "$HN20LogFinisName": "Finis Key",
+        "$HN20LogFinisRumor": "\"In the invisible palace, in the center of the mural trifecta...\"",
+        "$HN20LogFinis": "I found a key inside some invisible structure on Finis Plateau.",
+
+        "$HN20LogHubName": "Jam Hub Key",
+        "$HN20LogHubRumor": "\"Adorning the head of the coolest Hearthian in the hub...\"",
+        "$HN20LogHub": "I found a key on top of someone's head in the Jam Hub. I have no idea what makes this Hearthian so cool, but if a highly advanced sensor system says they're the coolest, I suppose it must be true.",
+
+        "$HN20LogHikeName": "Echo Hike Key",
+        "$HN20LogHikeRumor": "\"Keeping a beacon company under the Phosphors' ice...\"",
+        "$HN20LogHike": "I found a key below the surface of Echo Hike, on a beacon platform.",
+
+        "$HN20LogAxiomName": "Axiom Key",
+        "$HN20LogAxiomRumor": "\"Above a glowing crystal, on the alpha pod...\"",
+        "$HN20LogAxiom": "I found a key on top of an escape pod on Axiom.",
+
+        "$HN20LogRefName": "Reflections Key",
+        "$HN20LogRefRumor": "\"Hiding on a bridge below the reflection of the third anchor...\"",
+        "$HN20LogRef": "I found a key in a the projection simulation aboard the Forlorn Project.",
+
+        "$HN20LogKeyRumorName": "Invisible Key"
+
     },
     "UIDictionary": {
         "$HN2StartupPrompt": "Welcome to Hearth's Neighbor 2: Magistarium! This is the sequel to Hearth's Neighbor, so I recommend playing that mod first, and on this profile. Also, once you've reached the Magistarium itself, there are a few options in the config you may want to tweak to make your experience smoother.",

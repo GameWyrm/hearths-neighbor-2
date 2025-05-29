@@ -15,6 +15,21 @@
                 "b": 255,
                 "a": 255
             }
+        },
+        {
+            "id": "HN2_HN0",
+            "color": {
+                "r": 48,
+                "g": 206,
+                "b": 255,
+                "a": 255
+            },
+            "highlightColor": {
+                "r": 186,
+                "g": 238,
+                "b": 255,
+                "a": 255
+            }
         }
     ],
     "entryPositions": [
@@ -72,6 +87,97 @@
             "position": {
                 "x": 309,
                 "y": -342
+            }
+        },
+        {
+            "id": "HN2_HN0",
+            "position": {
+                "x": 700,
+                "y": -500
+            }
+        },
+        {
+            "id": "HN20_Magi",
+            "position": {
+                "x": 400,
+                "y": -100
+            }
+        },
+        {
+            "id": "HN20_Starship",
+            "position": {
+                "x": 600,
+                "y": -100
+            }
+        },
+        {
+            "id": "HN20_Egg",
+            "position": {
+                "x": 800,
+                "y": -100
+            }
+        },
+        {
+            "id": "HN20_Death",
+            "position": {
+                "x": 1000,
+                "y": -100
+            }
+        },
+        {
+            "id": "HN20_Sym",
+            "position": {
+                "x": 1000,
+                "y": -300
+            }
+        },
+        {
+            "id": "HN20_Gravel",
+            "position": {
+                "x": 1000,
+                "y": -500
+            }
+        },
+        {
+            "id": "HN20_Band",
+            "position": {
+                "x": 1000,
+                "y": -700
+            }
+        },
+        {
+            "id": "HN20_Finis",
+            "position": {
+                "x": 1000,
+                "y": -900
+            }
+        },
+        {
+            "id": "HN20_Hub",
+            "position": {
+                "x": 800,
+                "y": -900
+            }
+        },
+        {
+            "id": "HN20_Hike",
+            "position": {
+                "x": 600,
+                "y": -900
+            }
+        },
+        {
+            "id": "HN20_Axiom",
+            "position": {
+                "x": 400,
+                "y": -900
+            }
+        },
+        {
+            "id": "HN20_Ref",
+            "position": {
+                "x": 400,
+                "y": -700
             }
         }
     ],

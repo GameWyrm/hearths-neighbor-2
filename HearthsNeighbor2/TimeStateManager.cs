@@ -83,6 +83,7 @@ namespace HearthsNeighbor2
                 }
             }
             lampMaterial.color = Color.white;
+            lampMaterial.SetColor("_EmissionColor", new Color(0.75f, 0.75f, 0.75f));
             transform.parent.Find("DeviceNomai").localScale = Vector3.one * 0.3f;
 
             endingSector = transform.parent.Find("Ending").gameObject;

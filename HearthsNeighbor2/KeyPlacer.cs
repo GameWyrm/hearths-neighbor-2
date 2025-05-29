@@ -10,7 +10,7 @@ namespace HearthsNeighbor2
             { "MAGISTARIUM", new Vector3 (-84.8f, -11.2f, -42.6f) },
             { "StarshipCommunity", new Vector3 (0, 28, 0.4f) },
             { "TheBoiledEgg", new Vector3 (8.5f, 302, -8.5f) },
-            { "EggStar", new Vector3 (1449.391f, -260.9305f, 54.7762f) },
+            { "EggStar", new Vector3 (872.597f, -83.2182f, 29f) },
             { "ALTTH", new Vector3 (-80.8618f, 130.2982f, -174.0401f) },
             { "Gravelrock", new Vector3 (26, -84.5f, 50) },
             { "FracturedHarmony", new Vector3 (-108.9126f, -118.9276f, 120.3744f) },
@@ -26,6 +26,7 @@ namespace HearthsNeighbor2
         {
             foreach (var body in keyLocations.Keys)
             {
+                if (PlayerData.GetPersistentCondition("HN2_KEY_" + body)) continue;
                 GameObject targetBody = GameObject.Find(body + "_Body");
                 if (targetBody == null)
                 {
@@ -36,6 +37,8 @@ namespace HearthsNeighbor2
                     HearthsNeighbor2.Main.ModHelper.Console.WriteLine($"Creating key on {body}");
                     GameObject key = GameObject.Instantiate(keyObject, targetBody.transform);
                     key.transform.localPosition = keyLocations[body];
+                    key.GetComponent<MagiKeyInteraction>().conditionKey = "HN2_KEY_" + body;
+                    key.GetComponent<MagiKeyInteraction>().shipLogEntry = "HN20_" + body;
                 }
             }
         }

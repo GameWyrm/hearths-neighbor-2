@@ -21,7 +21,9 @@
       <Page>$HN2ZeroCube13</Page>
       <Page>$HN2ZeroCube14</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN2_HN0_Fact</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>

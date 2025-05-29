@@ -4,6 +4,9 @@ namespace HearthsNeighbor2
 {
     public class MagiKeyInteraction : MonoBehaviour
     {
+        public string conditionKey;
+        public string shipLogEntry;
+
         private SingleInteractionVolume _interactVolume;
         private float frontPoint = -1f;
         private float backPoint = -1f;
@@ -27,6 +30,13 @@ namespace HearthsNeighbor2
         {
             _interactVolume.DisableInteraction();
             GetComponent<Animator>().SetTrigger("Grab");
+            if (!string.IsNullOrEmpty(conditionKey))
+            {
+                HearthsNeighbor2.Main.ModHelper.Console.WriteLine($"Key collected, saving Persistent Condition {conditionKey}");
+                PlayerData.SetPersistentCondition(conditionKey, true);
+                MagiKeyPuzzle.Instance.CheckPuzzle();
+                Locator.GetShipLogManager().RevealFact(shipLogEntry);
+            }
         }
 
         private void Update()

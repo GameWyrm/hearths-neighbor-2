@@ -20,7 +20,20 @@
       <Page>$HN2MagiSensor11</Page>
       <Page>$HN2MagiSensor12</Page>
     </Dialogue>
-
+    <RevealFacts>
+      <FactID>HN20_Magi_Rumor</FactID>
+      <FactID>HN20_Starship_Rumor</FactID>
+      <FactID>HN20_Egg_Rumor</FactID>
+      <FactID>HN20_Death_Rumor</FactID>
+      <FactID>HN20_Sym_Rumor</FactID>
+      <FactID>HN20_Gravel_Rumor</FactID>
+      <FactID>HN20_Band_Rumor</FactID>
+      <FactID>HN20_Finis_Rumor</FactID>
+      <FactID>HN20_Hub_Rumor</FactID>
+      <FactID>HN20_Hike_Rumor</FactID>
+      <FactID>HN20_Axiom_Rumor</FactID>
+      <FactID>HN20_Ref_Rumor</FactID>
+    </RevealFacts>
   </DialogueNode>
 
 </DialogueTree>

@@ -15,6 +15,9 @@
       <Page>$HN2MagiNewCube7</Page>
       <Page>$HN2MagiNewCube8</Page>
     </Dialogue>
+    <RevealFacts>
+      <FactID>HN2_HN0_Rumor</FactID>
+    </RevealFacts>
 
   </DialogueNode>
 

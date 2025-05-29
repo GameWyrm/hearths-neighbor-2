@@ -68,7 +68,7 @@ namespace HearthsNeighbor2
 
                     hasBattery = false;
                     ModHelper.Console.WriteLine("Creating keys...");
-                    MagiKeyPuzzle.Instance?.PlaceKeys();
+                    if (PlayerData.GetPersistentCondition("HN2_START_QUEST")) MagiKeyPuzzle.Instance?.PlaceKeys();
                 }
             });
             // Voice mod stuff

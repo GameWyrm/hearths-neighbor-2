@@ -273,4 +273,251 @@
     </Entry>
   </Entry>
   
+  <!--HN0 Quest-->
+  <Entry>
+    <ID>HN2_HN0</ID>
+    <Name>$HN2LogHN0Name</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+    <IsCuriosity/>
+
+    <RumorFact>
+      <ID>HN2_HN0_Rumor</ID>
+      <SourceID>HN2_MG</SourceID>
+      <Text>$HN2LogHN0Rumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN2_HN0_Fact</ID>
+      <Text>$HN2LogHN0</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Magi</ID>
+    <Name>$HN20LogMagiName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Magi_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogMagiRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_MAGISTARIUM</ID>
+      <Text>$HN20LogMagi</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Starship</ID>
+    <Name>$HN20LogStarshipName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Starship_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogStarshipRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_StarshipCommunity</ID>
+      <Text>$HN20LogStarship</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Egg</ID>
+    <Name>$HN20LogEggName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Egg_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogEggRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_TheBoiledEgg</ID>
+      <Text>$HN20LogEgg</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Death</ID>
+    <Name>$HN20LogDeathName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Death_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogDeathRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_EggStar</ID>
+      <Text>$HN20LogDeath</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Sym</ID>
+    <Name>$HN20LogSymName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Sym_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogSymRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_ALTTH</ID>
+      <Text>$HN20LogSym</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Gravel</ID>
+    <Name>$HN20LogGravelName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Gravel_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogGravelRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_Gravelrock</ID>
+      <Text>$HN20LogGravel</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Band</ID>
+    <Name>$HN20LogBandName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Band_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogBandRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_FracturedHarmony</ID>
+      <Text>$HN20LogBand</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Finis</ID>
+    <Name>$HN20LogFinisName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Finis_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogFinisRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_FinisPlateau</ID>
+      <Text>$HN20LogFinis</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Hub</ID>
+    <Name>$HN20LogHubName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Hub_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogHubRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_ModJamHub</ID>
+      <Text>$HN20LogHub</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Hike</ID>
+    <Name>$HN20LogHikeName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Hike_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogHikeRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_EchoHike</ID>
+      <Text>$HN20LogHike</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Axiom</ID>
+    <Name>$HN20LogAxiomName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Axiom_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogAxiomRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_Axiom</ID>
+      <Text>$HN20LogAxiom</Text>
+    </ExploreFact>
+  </Entry>
+
+  <Entry>
+    <ID>HN20_Ref</ID>
+    <Name>$HN20LogRefName</Name>
+    <Curiosity>HN2_HN0</Curiosity>
+
+    <RumorFact>
+      <ID>HN20_Ref_Rumor</ID>
+      <SourceID>HN2_HN0</SourceID>
+      <RumorName>$HN20LogKeyRumorName</RumorName>
+      <RumorNamePriority>0</RumorNamePriority>
+      <Text>$HN20LogRefRumor</Text>
+    </RumorFact>
+
+    <ExploreFact>
+      <ID>HN20_ProjectionSimulation</ID>
+      <Text>$HN20LogRef</Text>
+    </ExploreFact>
+  </Entry>
+  
 </AstroObjectEntry>
