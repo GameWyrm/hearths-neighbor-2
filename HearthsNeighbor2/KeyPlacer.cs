@@ -14,7 +14,7 @@ namespace HearthsNeighbor2
             { "ALTTH", new Vector3 (-80.8618f, 130.2982f, -174.0401f) },
             { "Gravelrock", new Vector3 (26, -84.5f, 50) },
             { "FracturedHarmony", new Vector3 (-108.9126f, -118.9276f, 120.3744f) },
-            { "FinisPlateau", new Vector3 (116.8198f, 17.4145f, 395.4864f) },
+            { "FinisPlateau", new Vector3 (102f, 17f, 391f) },
             { "ModJamHub", new Vector3 (8.4109f, 182.8952f, -1.7018f) },
             { "EchoHike", new Vector3 (93, -62, 150) },
             { "Axiom", new Vector3 (37.6543f, -134.4332f, -21f) },
