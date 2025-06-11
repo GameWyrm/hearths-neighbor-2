@@ -562,7 +562,62 @@
 
         "$HN2LogHNName": "哈斯邻居",
         "$HN2LogHN1": "[你应该只有在完成哈斯邻居的情况下才能看见这个条目，本模组是其续集。拥有此条目可以启用某些包含轻微剧透的对话，但完全不需要在《大导师馆》中取得进展。]",
-        "$HN2LogHN2": "在发现一架充满谜团的外星飞船后，我自己的飞船收到了针对某个特定星系的一组坐标，刚好也在星际拓荒星系的旁边。我得以使用飞船上的恒星际跃迁引擎前往那里。"
+        "$HN2LogHN2": "在发现一架充满谜团的外星飞船后，我自己的飞船收到了针对某个特定星系的一组坐标，刚好也在星际拓荒星系的旁边。我得以使用飞船上的恒星际跃迁引擎前往那里。",
+
+        // New HN0 puzzle
+        "$HN2LogHN0Name": "Advanced Memory Cube",
+        "$HN2LogHN0Rumor": "I found a strange memory cube in the Magister's room. Supposedly it contains a secret message that requires finding invisible keys to obtain. Perhaps a tool can be used to see them. However, these keys can only be found if the <color=orange>third contest</color> is complete, whatever that means. It is unlikely that this message is related to the Device or what happened to the Magistarium's crew.",
+        "$HN2LogHN0": "I found all the keys and received the message from the Advanced Memory Cube. The message was intended for someone named Chron, and mentioned a Nexus...could it be related to <color=orange>Halcyon Nexus Zero</color>?",
+
+        "$HN20LogMagiName": "Magistarium Key",
+        "$HN20LogMagiRumor": "\"Atop a nearby chair under the water...\"",
+        "$HN20LogMagi": "I found a key in a pool aboard the Magistarium. This is probably the only key on this ship.",
+
+        "$HN20LogStarshipName": "Starship Community Key",
+        "$HN20LogStarshipRumor": "\"On a platform opposite Ping's dock...\"",
+        "$HN20LogStarship": "I found a key on a platform behind the Starship Community.",
+
+        "$HN20LogEggName": "Boiled Egg Key",
+        "$HN20LogEggRumor": "\"In Biology, Row F...\"",
+        "$HN20LogEgg": "I found a key in the library on The Boiled Egg.",
+
+        "$HN20LogDeathName": "Death Egg Key",
+        "$HN20LogDeathRumor": "\"At the base of a deadly laser, at the start of a spiral climb...\"",
+        "$HN20LogDeath": "I found a key at the base of the Death Egg's laser.",
+
+        "$HN20LogSymName": "Symbiosis Key",
+        "$HN20LogSymRumor": "\"Atop the highest bloom...\"",
+        "$HN20LogSym": "I found a key in a flower on the alternate Timber Hearth.",
+
+        "$HN20LogGravelName": "Gravelrock Key",
+        "$HN20LogGravelRumor": "\"Behind the ship of Quartz' descendant...\"",
+        "$HN20LogGravel": "I found a key behind Quartz Jr.'s crashed ship.",
+
+        "$HN20LogBandName": "Fractured Harmony Key",
+        "$HN20LogBandRumor": "\"Resting upon the totem of Logic...\"",
+        "$HN20LogBand": "I found a key on top of a totem overlooking the town of the Followers of Logic.",
+
+        "$HN20LogFinisName": "Finis Key",
+        "$HN20LogFinisRumor": "\"In the invisible palace, in the center of the mural trifecta...\"",
+        "$HN20LogFinis": "I found a key inside some invisible structure on Finis Plateau.",
+
+        "$HN20LogHubName": "Jam Hub Key",
+        "$HN20LogHubRumor": "\"Adorning the head of the coolest Hearthian in the hub...\"",
+        "$HN20LogHub": "I found a key on top of someone's head in the Jam Hub. I have no idea what makes this Hearthian so cool, but if a highly advanced sensor system says they're the coolest, I suppose it must be true.",
+
+        "$HN20LogHikeName": "Echo Hike Key",
+        "$HN20LogHikeRumor": "\"Keeping a beacon company under the Phosphors' ice...\"",
+        "$HN20LogHike": "I found a key below the surface of Echo Hike, on a beacon platform.",
+
+        "$HN20LogAxiomName": "Axiom Key",
+        "$HN20LogAxiomRumor": "\"Above a glowing crystal, on the alpha pod...\"",
+        "$HN20LogAxiom": "I found a key on top of an escape pod on Axiom.",
+
+        "$HN20LogRefName": "Reflections Key",
+        "$HN20LogRefRumor": "\"Hiding on a bridge below the reflection of the third anchor...\"",
+        "$HN20LogRef": "I found a key in a the projection simulation aboard the Forlorn Project.",
+
+        "$HN20LogKeyRumorName": "Invisible Key"
     },
     "UIDictionary": {
 		"$HN2StartupPrompt": "欢迎来到《哈斯邻居2：大导师馆》！这是《哈斯邻居》的续集，所以我推荐先玩完那个模组，然后再回来。此外，一旦你抵达大导师馆，设置中将出现一些你可能想调整的选项，可以让游戏体验更加流畅。\n请确保已安装 Outer Wilds Chinese Fix 模组，并适当调小飞船日志字体大小，避免发生缺字问题。",

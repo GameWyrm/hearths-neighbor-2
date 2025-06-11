@@ -551,7 +551,62 @@
         "$HN2LogMagi3": "마지스터는 우주의 끝에 대해 알려주는 어떤 소용돌이를 발견했다. 그는 우주가 끝나야 한다고 믿지 않았고, 이를 \"우주의 거짓말\"이라고 불렀다.",
         "$HN2LogHNName": "화로인의 이웃",
         "$HN2LogHN1": "[이 항목은 Hearth's Neighbor를 클리어했다면 볼 수 있는 항목입니다. 이 항목을 활성화하면 일부 대화가 해금되지만 마지스타리움의 진행에는 필요하지 않습니다.]",
-        "$HN2LogHN2": "신비한 외계 우주선을 발견한 후, 우주선은 Outer Wilds의 이웃이기도 한 특정 항성계의 좌표를 수신했다. 우주선의 표준 워프 드라이브를 사용해 그곳으로 갈 수 있다."
+        "$HN2LogHN2": "신비한 외계 우주선을 발견한 후, 우주선은 Outer Wilds의 이웃이기도 한 특정 항성계의 좌표를 수신했다. 우주선의 표준 워프 드라이브를 사용해 그곳으로 갈 수 있다.",
+
+        // New HN0 puzzle
+        "$HN2LogHN0Name": "Advanced Memory Cube",
+        "$HN2LogHN0Rumor": "I found a strange memory cube in the Magister's room. Supposedly it contains a secret message that requires finding invisible keys to obtain. Perhaps a tool can be used to see them. However, these keys can only be found if the <color=orange>third contest</color> is complete, whatever that means. It is unlikely that this message is related to the Device or what happened to the Magistarium's crew.",
+        "$HN2LogHN0": "I found all the keys and received the message from the Advanced Memory Cube. The message was intended for someone named Chron, and mentioned a Nexus...could it be related to <color=orange>Halcyon Nexus Zero</color>?",
+
+        "$HN20LogMagiName": "Magistarium Key",
+        "$HN20LogMagiRumor": "\"Atop a nearby chair under the water...\"",
+        "$HN20LogMagi": "I found a key in a pool aboard the Magistarium. This is probably the only key on this ship.",
+
+        "$HN20LogStarshipName": "Starship Community Key",
+        "$HN20LogStarshipRumor": "\"On a platform opposite Ping's dock...\"",
+        "$HN20LogStarship": "I found a key on a platform behind the Starship Community.",
+
+        "$HN20LogEggName": "Boiled Egg Key",
+        "$HN20LogEggRumor": "\"In Biology, Row F...\"",
+        "$HN20LogEgg": "I found a key in the library on The Boiled Egg.",
+
+        "$HN20LogDeathName": "Death Egg Key",
+        "$HN20LogDeathRumor": "\"At the base of a deadly laser, at the start of a spiral climb...\"",
+        "$HN20LogDeath": "I found a key at the base of the Death Egg's laser.",
+
+        "$HN20LogSymName": "Symbiosis Key",
+        "$HN20LogSymRumor": "\"Atop the highest bloom...\"",
+        "$HN20LogSym": "I found a key in a flower on the alternate Timber Hearth.",
+
+        "$HN20LogGravelName": "Gravelrock Key",
+        "$HN20LogGravelRumor": "\"Behind the ship of Quartz' descendant...\"",
+        "$HN20LogGravel": "I found a key behind Quartz Jr.'s crashed ship.",
+
+        "$HN20LogBandName": "Fractured Harmony Key",
+        "$HN20LogBandRumor": "\"Resting upon the totem of Logic...\"",
+        "$HN20LogBand": "I found a key on top of a totem overlooking the town of the Followers of Logic.",
+
+        "$HN20LogFinisName": "Finis Key",
+        "$HN20LogFinisRumor": "\"In the invisible palace, in the center of the mural trifecta...\"",
+        "$HN20LogFinis": "I found a key inside some invisible structure on Finis Plateau.",
+
+        "$HN20LogHubName": "Jam Hub Key",
+        "$HN20LogHubRumor": "\"Adorning the head of the coolest Hearthian in the hub...\"",
+        "$HN20LogHub": "I found a key on top of someone's head in the Jam Hub. I have no idea what makes this Hearthian so cool, but if a highly advanced sensor system says they're the coolest, I suppose it must be true.",
+
+        "$HN20LogHikeName": "Echo Hike Key",
+        "$HN20LogHikeRumor": "\"Keeping a beacon company under the Phosphors' ice...\"",
+        "$HN20LogHike": "I found a key below the surface of Echo Hike, on a beacon platform.",
+
+        "$HN20LogAxiomName": "Axiom Key",
+        "$HN20LogAxiomRumor": "\"Above a glowing crystal, on the alpha pod...\"",
+        "$HN20LogAxiom": "I found a key on top of an escape pod on Axiom.",
+
+        "$HN20LogRefName": "Reflections Key",
+        "$HN20LogRefRumor": "\"Hiding on a bridge below the reflection of the third anchor...\"",
+        "$HN20LogRef": "I found a key in a the projection simulation aboard the Forlorn Project.",
+
+        "$HN20LogKeyRumorName": "Invisible Key"
     },
     "UIDictionary": {   
         "$HN2PartyPrompt": "파티",
