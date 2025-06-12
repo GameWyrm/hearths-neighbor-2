@@ -29,6 +29,8 @@ namespace HearthsNeighbor2
         private void OnPressInteract()
         {
             _interactVolume.DisableInteraction();
+            GetComponent<BoxCollider>().enabled = false;
+            GetComponent<SphereCollider>().enabled = false;
             GetComponent<Animator>().SetTrigger("Grab");
             if (!string.IsNullOrEmpty(conditionKey))
             {
