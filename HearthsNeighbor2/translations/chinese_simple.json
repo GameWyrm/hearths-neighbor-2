@@ -503,7 +503,14 @@
         "$HN2ErnestoName": "Obligatory Ernesto",
         "$HN2Ernesto1": "嘿，是我……",
         "$HN2Ernesto1A": "对对对，厄内斯托，会说话的魔法鮟鱇鱼。你们这帮家伙就没更有创意的彩蛋了吗，比如烤焦的鹅鹅？",
-        "$HN2Ernesto2": "<![CDATA[<i>悲伤鮟鱇鱼动静</i>]]>"
+        "$HN2Ernesto2": "<![CDATA[<i>悲伤鮟鱇鱼动静</i>]]>",
+
+        // Extra credits
+        "$HN2CreditsName": "Additional Credits",
+        "$HN2Credits1": "VOICE ACTING CREDITS:\nGameWyrm: Magister, Vultos\nShiloh/Malgic: Vespa\nThimble: Acquarius\nCelestialsStorm/Quantum Luna: Lily\nEvalka: Roja\nxen: Quartz, Obligatory Ernesto\nStache: System",
+        "$HN2Credits2": "Magister robes by Repcon. Magistarium fanart by DynamoToon/Aortiz.",
+        "$HN2Credits3": "Special thanks to JohnCorby and pikpik_carrot for helping with post-release development, and Ixrec for playtesting.",
+        "$HN2Credits4": "TRANSLATIONS:\nChinese: Mashroom\nKorean: Barirn"
     },
     "ShipLogDictionary": {
         "$HN2LogNameIntro": "大导师馆",

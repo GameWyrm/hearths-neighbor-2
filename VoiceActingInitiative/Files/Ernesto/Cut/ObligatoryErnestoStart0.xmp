@@ -10,9 +10,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 23.0 (Windows)</xmp:CreatorTool>
          <xmp:CreateDate>2024-04-27T14:10:47-07:00</xmp:CreateDate>
-         <xmp:MetadataDate>2024-04-27T14:16:10-07:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2024-04-27T14:16:10-07:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:425acfb6-bca0-2242-b56e-b208660e5328</xmpMM:InstanceID>
+         <xmp:MetadataDate>2025-06-11T16:16:04-07:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2025-06-11T16:16:04-07:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:92738327-4c6b-a745-9738-f0e183acb195</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:425acfb6-bca0-2242-b56e-b208660e5328</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:b7334854-75d6-a846-a50f-fba8d99df530</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -56,6 +56,20 @@
                   <stEvt:action>saved</stEvt:action>
                   <stEvt:instanceID>xmp.iid:425acfb6-bca0-2242-b56e-b208660e5328</stEvt:instanceID>
                   <stEvt:when>2024-04-27T14:16:10-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 23.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:390d3600-82fb-c24c-a4a2-b2b12c82539c</stEvt:instanceID>
+                  <stEvt:when>2025-06-11T16:16:04-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 23.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:92738327-4c6b-a745-9738-f0e183acb195</stEvt:instanceID>
+                  <stEvt:when>2025-06-11T16:16:04-07:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 23.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>

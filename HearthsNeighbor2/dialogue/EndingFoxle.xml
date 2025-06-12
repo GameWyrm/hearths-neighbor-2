@@ -28,6 +28,7 @@
     </Dialogue>
     <DialogueOptionsList>
       <DialogueOption>
+        <RequiredLogCondition>HN2_HN1</RequiredLogCondition>
         <Text>$HN2EndFHNA</Text>
         <DialogueTarget>RegretA</DialogueTarget>
       </DialogueOption>

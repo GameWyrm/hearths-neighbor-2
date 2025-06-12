@@ -499,7 +499,14 @@
 
         "$HN2Ernesto1": "안녕하세요, 저예요...",
         "$HN2Ernesto1A": "그래요, 그래요, 에르네스토라는 이름의 마법의 말하는 아귀죠.\n모더 여러분, 조금 더 창의적인 이스터에그는 없나요?",
-        "$HN2Ernesto2": "<i>슬픈 아귀 소리</i>"
+        "$HN2Ernesto2": "<i>슬픈 아귀 소리</i>",
+
+        // Extra credits
+        "$HN2CreditsName": "Additional Credits",
+        "$HN2Credits1": "VOICE ACTING CREDITS:\nGameWyrm: Magister, Vultos\nShiloh/Malgic: Vespa\nThimble: Acquarius\nCelestialsStorm/Quantum Luna: Lily\nEvalka: Roja\nxen: Quartz, Obligatory Ernesto\nStache: System",
+        "$HN2Credits2": "Magister robes by Repcon. Magistarium fanart by DynamoToon/Aortiz.",
+        "$HN2Credits3": "Special thanks to JohnCorby and pikpik_carrot for helping with post-release development, and Ixrec for playtesting.",
+        "$HN2Credits4": "TRANSLATIONS:\nChinese: Mashroom\nKorean: Barirn"
     },
     "ShipLogDictionary": {
         "$HN2LogNameIntro": "마지스타리움",

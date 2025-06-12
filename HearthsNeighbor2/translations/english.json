@@ -478,7 +478,7 @@
         // LUNA
         "$HN2DevLunaName": "CelestialsStorm (Quantum Luna), Artist",
         "$HN2DevLunaHub": "Hello there friend!",
-        "$HN2DevLuna1": "Hello! Congrats on finishing! I’m Luna, I made most of the textures and concept art for the mod!",
+        "$HN2DevLuna1": "Congrats on finishing! I’m Luna, I made most of the textures and concept art for the mod!",
         "$HN2DevLuna2": "This is the first mod jam I’ve participated in, and the first time I’ve contributed to a mod in production. I hope you had just as much fun playing it as I did helping to create it!",
         "$HN2DevLuna3": "Thank you for playing!",
         "$HN2DevLunaV1": "Wow! I’m so honored to have been on the winning team. It was amazing to work with everyone here, I loved every single moment of it!",
@@ -501,7 +501,14 @@
         "$HN2ErnestoName": "Obligatory Ernesto",
         "$HN2Ernesto1": "Hey it's me...",
         "$HN2Ernesto1A": "Yeah, yeah, yeah, Ernesto the Magic Talking Anglerfish. Don't you guys have any more creative Easter Eggs?",
-        "$HN2Ernesto2": "<![CDATA[<i>sad anglerfish noises</i>]]>"
+        "$HN2Ernesto2": "<![CDATA[<i>sad anglerfish noises</i>]]>",
+
+        // Extra credits
+        "$HN2CreditsName": "Additional Credits",
+        "$HN2Credits1": "VOICE ACTING CREDITS:\nGameWyrm: Magister, Vultos\nShiloh/Malgic: Vespa\nThimble: Acquarius\nCelestialsStorm/Quantum Luna: Lily\nEvalka: Roja\nxen: Quartz, Obligatory Ernesto\nStache: System",
+        "$HN2Credits2": "Magister robes by Repcon. Magistarium fanart by DynamoToon/Aortiz.",
+        "$HN2Credits3": "Special thanks to JohnCorby and pikpik_carrot for helping with post-release development, and Ixrec for playtesting.",
+        "$HN2Credits4": "TRANSLATIONS:\nChinese: Mashroom\nKorean: Barirn"
     },
     "ShipLogDictionary": {
         "$HN2LogNameIntro": "The Magistarium",
@@ -619,7 +626,7 @@
 
     },
     "UIDictionary": {
-        "$HN2StartupPrompt": "Welcome to Hearth's Neighbor 2: Magistarium! This is the sequel to Hearth's Neighbor, so I recommend playing that mod first, and on this profile. Also, once you've reached the Magistarium itself, there are a few options in the config you may want to tweak to make your experience smoother.",
+        "$HN2StartupPrompt": "Welcome to Hearth's Neighbor 2: Magistarium! This is the sequel to Hearth's Neighbor, so I recommend playing that mod first, and on this profile. Also, once you've reached the Magistarium itself, there are a few options in the config you may want to tweak to make your experience smoother.\nThis mod supports the Voice Acting Mod! Simply install it to get full voice acting.",
         "$HN2PartyPrompt": "Party",
         "$HN2EndingText": "YOU ASCENDED INTO ANOTHER STATE OF BEING.\nTHANK YOU, OUTER WILDS MODDING COMMUNITY.",
 
