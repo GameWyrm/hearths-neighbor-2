@@ -17,5 +17,16 @@ If the bobbing of the Memory Cubes become too annoying, I recommend turning on "
 * CelestialsStorm: 2D artist
 * Pikpik_carrot: Sectoring
 * JohnCorby: Sectoring and Unity Consultant
+* Mashroom: Chinese Translation
+* Barirn: Korean Translation
+
+Voice Acting credits:
+* GameWyrm: Magister, Vultos
+* Shiloh/Malgic: Vespa
+* Thimble: Acquarius
+* CelestialsStorm: Lily
+* Evalka: Roja
+* xen: Quartz, Obligatory Ernesto
+* Stache: System
 
 Special thanks to those who playtested the mods, and xen42, MegaPiggy, and others who answered questions and were very helpful with answering questions.
