@@ -9,7 +9,9 @@ Made in 11 days for the Outer Wilds Modding Jam. Requires the Mod Jam 3 mod.
 
 This mod is a sequel to Hearth's Neighbor. While playing the prequel isn't required to beat Magistarium, it is highly recommended.
 
-If the bobbing of the Memory Cubes become too annoying, I recommend turning on "Freeze Time While Talking To Others" on the Pre-Flight checklist.
+If the bobbing of the Memory Cubes become too annoying, I recommend turning on "Freeze Time While Talking To Others" on the Pre-Flight checklist, or disabling the bobbing in the mod configuration.
+
+This mod supports voice acting! You'll need to install the [Voice Acting Mod](https://outerwildsmods.com/mods/voiceactingmod/) for it to work. Simply install it and you'll be good to go.
 
 * GameWyrm: Team Lead, level designer, writer, and programmer
 * FunkyShoeMan: Prop 3D artist
